@@ -251,48 +251,24 @@ th {
     border-bottom: 2px solid var(--card-border);
 }
 
-th.col-sign {
-    width: 35%;
-    text-align: right; /* Right aligned for cuneiform */
-}
-
-th.col-num {
-    width: 25%;
-    text-align: center; /* Middle aligned for number */
-}
-
-th.col-name {
-    width: 40%;
-    text-align: left; /* Left aligned for Latin name */
-}
-
-td {
-    padding: 14px 24px;
-    border-bottom: 1px solid var(--card-border);
-    vertical-align: middle;
-}
-
-tr:nth-child(even) {
-    background-color: var(--table-row-alt);
-}
-
-tr:hover {
-    background-color: var(--table-hover);
-}
+th.col-sign { width: 30%; text-align: right; }
+th.col-num { width: 15%; text-align: center; }
+th.col-name { width: 25%; text-align: left; }
+th.col-notes { width: 30%; text-align: right; }
 
 td.col-sign {
     text-align: right;
-    font-size: 4.5rem;
-    line-height: 1.15;
+    font-size: 6.5rem !important;
+    line-height: 1.1;
     color: #FFFFFF;
-    font-family: 'Noto Sans Cuneiform', 'AssyrianFont', 'SumerianFont', 'BabylonianFont', sans-serif;
-    padding: 18px 24px;
+    font-family: 'AssyrianFont', 'Noto Sans Cuneiform', sans-serif !important;
+    padding: 20px 24px;
 }
 
 td.col-num {
     text-align: center;
     font-family: 'JetBrains Mono', monospace;
-    font-size: 1.35rem;
+    font-size: 1.5rem;
     font-weight: 700;
     color: var(--accent);
 }
@@ -300,34 +276,245 @@ td.col-num {
 td.col-name {
     text-align: left;
     font-family: 'JetBrains Mono', monospace;
-    font-size: 1.25rem;
+    font-size: 1.4rem;
     font-weight: 600;
     color: #E2E8F0;
     direction: ltr;
 }
 
-.empty-state td {
-    text-align: center;
-    padding: 50px;
+td.col-notes {
+    text-align: right;
+    vertical-align: middle;
+}
+
+.note-input-container {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    position: relative;
+}
+
+.note-input {
+    width: 100%;
+    min-height: 48px;
+    padding: 10px 14px;
+    background: #0F172A;
+    border: 1px solid var(--card-border);
+    border-radius: 8px;
+    font-family: 'Cairo', sans-serif;
+    font-size: 0.95rem;
+    color: #F8FAFC;
+    outline: none;
+    resize: vertical;
+    transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+.note-input:focus {
+    border-color: var(--primary);
+    box-shadow: 0 0 0 3px rgba(56, 189, 248, 0.2);
+}
+
+.note-status-badge {
+    font-size: 0.75rem;
+    color: #10B981;
+    font-weight: 700;
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.note-status-badge.visible {
+    opacity: 1;
+}
+
+/* Header Buttons for GitHub & Export */
+.btn-github {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    background: #24292F;
+    color: #FFFFFF;
+    border: 1px solid #444C56;
+    padding: 9px 16px;
+    border-radius: 8px;
+    font-family: 'Cairo', sans-serif;
+    font-weight: 700;
+    font-size: 0.9rem;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.btn-github:hover {
+    background: #32383F;
+    border-color: var(--primary);
+}
+
+.btn-export {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    background: #1E293B;
+    color: var(--accent);
+    border: 1px solid var(--accent);
+    padding: 9px 16px;
+    border-radius: 8px;
+    font-family: 'Cairo', sans-serif;
+    font-weight: 700;
+    font-size: 0.9rem;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.btn-export:hover {
+    background: rgba(245, 158, 11, 0.15);
+}
+
+/* GitHub Modal Styling */
+.modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(15, 23, 42, 0.85);
+    backdrop-filter: blur(8px);
+    z-index: 1000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.modal-card {
+    background: var(--card-bg);
+    border: 1px solid var(--card-border);
+    border-radius: 16px;
+    width: 100%;
+    max-width: 540px;
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.6);
+    overflow: hidden;
+}
+
+.modal-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 24px;
+    border-bottom: 1px solid var(--card-border);
+    background: #0F172A;
+}
+
+.modal-header h3 {
+    font-size: 1.15rem;
+    font-weight: 700;
+    color: #FFFFFF;
+}
+
+.btn-close-modal {
+    background: transparent;
+    border: none;
     color: var(--text-muted);
-    font-size: 1.2rem;
+    font-size: 1.5rem;
+    cursor: pointer;
+    padding: 4px;
 }
 
-/* Dynamic Sign Size Classes */
-#resultTable.size-medium td.col-sign {
-    font-size: 3.5rem !important;
+.btn-close-modal:hover { color: #FFFFFF; }
+
+.modal-body {
+    padding: 24px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
 }
 
-#resultTable.size-large td.col-sign {
-    font-size: 4.5rem !important;
+.modal-desc {
+    font-size: 0.9rem;
+    color: var(--text-muted);
+    line-height: 1.5;
 }
 
-#resultTable.size-xlarge td.col-sign {
-    font-size: 5.5rem !important;
+.form-group {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
 }
 
-#resultTable.size-giant td.col-sign {
-    font-size: 6.8rem !important;
+.form-group label {
+    font-size: 0.85rem;
+    font-weight: 700;
+    color: var(--text-main);
+}
+
+.form-group input {
+    padding: 10px 14px;
+    background: #0F172A;
+    border: 1px solid var(--card-border);
+    border-radius: 8px;
+    font-family: 'Cairo', sans-serif;
+    color: #FFFFFF;
+    font-size: 0.95rem;
+    outline: none;
+}
+
+.form-group input:focus {
+    border-color: var(--primary);
+}
+
+.gh-status {
+    padding: 10px 14px;
+    border-radius: 8px;
+    font-size: 0.85rem;
+    font-weight: 600;
+}
+
+.gh-status.success {
+    background: rgba(16, 185, 129, 0.15);
+    border: 1px solid #10B981;
+    color: #10B981;
+}
+
+.gh-status.error {
+    background: rgba(239, 68, 68, 0.15);
+    border: 1px solid #EF4444;
+    color: #EF4444;
+}
+
+.modal-footer {
+    padding: 16px 24px;
+    background: #0F172A;
+    border-top: 1px solid var(--card-border);
+    display: flex;
+    justify-content: flex-end;
+    gap: 12px;
+}
+
+.btn-modal-save {
+    background: linear-gradient(135deg, #0284C7, #0369A1);
+    color: #FFFFFF;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 8px;
+    font-family: 'Cairo', sans-serif;
+    font-weight: 700;
+    font-size: 0.9rem;
+    cursor: pointer;
+}
+
+.btn-modal-save:hover { background: #0284C7; }
+
+.btn-modal-cancel {
+    background: transparent;
+    color: var(--text-muted);
+    border: 1px solid var(--card-border);
+    padding: 10px 18px;
+    border-radius: 8px;
+    font-family: 'Cairo', sans-serif;
+    font-weight: 600;
+    font-size: 0.9rem;
+    cursor: pointer;
 }
 
 /* Pagination Controls */
@@ -382,21 +569,36 @@ td.col-name {
     cursor: pointer;
 }
 
-/* Font Classes - eBL Standard Fallbacks */
-.font-default {
-    font-family: 'Noto Sans Cuneiform', 'AssyrianFont', 'SumerianFont', 'BabylonianFont', sans-serif !important;
+.font-badge {
+    background: rgba(56, 189, 248, 0.1);
+    border: 1px solid rgba(56, 189, 248, 0.3);
+    padding: 8px 16px;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
 }
 
-.font-assyrian {
+.badge-label {
+    font-size: 0.85rem;
+    color: var(--text-muted);
+    font-weight: 600;
+}
+
+.badge-value {
+    font-size: 0.9rem;
+    color: var(--primary);
+    font-weight: 800;
+}
+
+/* Exclusive Assyrian Font for all Cuneiform elements */
+.font-default,
+.font-assyrian,
+.font-sumerian,
+.font-babylonian,
+.cuneiform-text,
+.logo-icon {
     font-family: 'AssyrianFont', 'Noto Sans Cuneiform', sans-serif !important;
-}
-
-.font-sumerian {
-    font-family: 'SumerianFont', 'Noto Sans Cuneiform', sans-serif !important;
-}
-
-.font-babylonian {
-    font-family: 'BabylonianFont', 'Noto Sans Cuneiform', sans-serif !important;
 }
 
 /* Responsive Design */
