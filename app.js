@@ -265,6 +265,18 @@ function initApp() {
         resultBody.appendChild(fragment);
     }
 
+    // Fast High-Performance UTF-8 to Base64 for Mobile & Large Datasets
+    function utf8ToBase64(str) {
+        const bytes = new TextEncoder().encode(str);
+        let binString = "";
+        const chunkSize = 8192;
+        for (let i = 0; i < bytes.length; i += chunkSize) {
+            const chunk = bytes.subarray(i, i + chunkSize);
+            binString += String.fromCharCode.apply(null, chunk);
+        }
+        return btoa(binString);
+    }
+
     // 1-Click Instant GitHub Push Function
     async function syncToGitHubDirect() {
         if (btnGithubSync) {
@@ -283,12 +295,7 @@ function initApp() {
             });
 
             const contentStr = "const TABLE_DATA = " + JSON.stringify(updatedTable, null, 2) + ";";
-
-            // UTF-8 to Base64
-            const bytes = new TextEncoder().encode(contentStr);
-            let binString = "";
-            bytes.forEach((b) => (binString += String.fromCharCode(b)));
-            const base64Content = btoa(binString);
+            const base64Content = utf8ToBase64(contentStr);
 
             const getUrl = `https://api.github.com/repos/${HARDCODED_GH_REPO}/contents/${HARDCODED_GH_PATH}`;
             const headers = {
@@ -297,14 +304,18 @@ function initApp() {
             };
 
             let sha = null;
-            const getRes = await fetch(getUrl, { headers });
-            if (getRes.ok) {
-                const getJson = await getRes.json();
-                sha = getJson.sha;
+            try {
+                const getRes = await fetch(getUrl, { headers, cache: 'no-store' });
+                if (getRes.ok) {
+                    const getJson = await getRes.json();
+                    sha = getJson.sha;
+                }
+            } catch (e) {
+                console.warn('SHA fetch warning:', e);
             }
 
             const putBody = {
-                message: "Update Labat Dictionary test notes and sign data",
+                message: "Update Labat Dictionary test notes and sign data via mobile",
                 content: base64Content
             };
             if (sha) putBody.sha = sha;
@@ -322,7 +333,7 @@ function initApp() {
                 showNotification('🚀 تم رفع الملاحظات وتحديث موقع GitHub بنجاح 100%!', true);
             } else {
                 const errJson = await putRes.json();
-                showNotification(`❌ فشل الرفع: ${errJson.message || 'خطأ في الاتصال'}`, false);
+                showNotification(`❌ فشل الرفع: ${errJson.message || 'خطأ في الاتصال بالسيرفر'}`, false);
             }
         } catch (err) {
             showNotification(`❌ حدث خطأ أثناء المزامنة: ${err.message}`, false);
