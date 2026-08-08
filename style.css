@@ -601,21 +601,126 @@ td.col-notes {
     font-family: 'AssyrianFont', 'Noto Sans Cuneiform', sans-serif !important;
 }
 
-/* Responsive Design */
-@media (max-width: 768px) {
+/* Responsive Mobile Design for Smartphones & Tablets */
+@media (max-width: 850px) {
     .navbar {
         flex-direction: column;
-        gap: 16px;
-        align-items: flex-start;
-        padding: 16px 20px;
+        gap: 14px;
+        align-items: center;
+        padding: 14px 16px;
+        text-align: center;
     }
+    
+    .logo {
+        flex-direction: column;
+        gap: 6px;
+    }
+    
+    .logo h1 {
+        font-size: 1.25rem;
+    }
+    
+    .logo .subtitle {
+        font-size: 0.8rem;
+    }
+    
     .header-actions {
         width: 100%;
-        justify-content: space-between;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 8px;
     }
+    
+    .btn-github, .btn-export, .btn-download {
+        padding: 8px 12px;
+        font-size: 0.82rem;
+        flex: 1 1 calc(50% - 10px);
+        min-width: 130px;
+        justify-content: center;
+    }
+    
+    .font-badge {
+        padding: 6px 12px;
+        font-size: 0.8rem;
+    }
+    
+    .container {
+        padding: 0 10px;
+        margin: 14px auto;
+        gap: 14px;
+    }
+    
     .toolbar-section {
         flex-direction: column;
         align-items: stretch;
+        padding: 14px 16px;
+        gap: 12px;
+    }
+    
+    .search-box input {
+        padding: 12px 42px 12px 36px;
+        font-size: 0.9rem;
+    }
+    
+    .stats-box {
+        text-align: center;
+        font-size: 0.85rem;
+    }
+
+    /* Scrollable Responsive Table */
+    .table-card {
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+        border-radius: 10px;
+    }
+    
+    table {
+        min-width: 680px;
+    }
+
+    td.col-sign {
+        font-size: 4.2rem !important;
+        padding: 14px 16px;
+    }
+    
+    td.col-num {
+        font-size: 1.25rem;
+    }
+    
+    td.col-name {
+        font-size: 1.15rem;
+    }
+
+    .note-input {
+        min-height: 44px;
+        font-size: 0.88rem;
+    }
+    
+    .pagination-controls {
+        flex-direction: column;
+        gap: 12px;
+        padding: 14px 16px;
+    }
+    
+    .pagination-controls > * {
+        width: 100%;
+        text-align: center;
+    }
+    
+    .btn-page {
+        max-width: 240px;
+        margin: 0 auto;
+    }
+}
+
+@media (max-width: 480px) {
+    .btn-github, .btn-export, .btn-download {
+        flex: 1 1 100%;
+        width: 100%;
+    }
+    
+    td.col-sign {
+        font-size: 3.6rem !important;
     }
 }
 
