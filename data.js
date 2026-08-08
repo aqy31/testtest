@@ -3,7 +3,7 @@ const TABLE_DATA = [
     "word": "a",
     "num": "579",
     "sign": "𒀀",
-    "note": "شغال؟"
+    "note": "اي"
   },
   {
     "word": "á",
