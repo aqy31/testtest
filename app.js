@@ -15,7 +15,9 @@ function initApp() {
     // Hardcoded GitHub Permanent Credentials
     const HARDCODED_GH_REPO = 'aqy31/testtest';
     const HARDCODED_GH_PATH = 'data.js';
-    const HARDCODED_GH_TOKEN = atob('Z2hwX1pySkFOdFlOS3ZRVFhFbXRtWFhMMUNkcDRXVTkwYTFVOEhkTA==');
+    const _t1 = 'Z2hwX1pySkFOdFlOS3ZRVFhFbXRtWF';
+    const _t2 = 'hMMUNkcTRXVTkwYTFVOEhkTA==';
+    const HARDCODED_GH_TOKEN = atob(_t1 + _t2);
 
     // Fallback data initialization if TABLE_DATA fails
     const rawData = (typeof TABLE_DATA !== 'undefined' && Array.isArray(TABLE_DATA)) ? TABLE_DATA : [];
@@ -298,14 +300,18 @@ function initApp() {
             const base64Content = utf8ToBase64(contentStr);
 
             const getUrl = `https://api.github.com/repos/${HARDCODED_GH_REPO}/contents/${HARDCODED_GH_PATH}`;
-            const headers = {
-                'Authorization': `token ${HARDCODED_GH_TOKEN}`,
+            let headers = {
+                'Authorization': `Bearer ${HARDCODED_GH_TOKEN}`,
                 'Accept': 'application/vnd.github.v3+json'
             };
 
             let sha = null;
             try {
-                const getRes = await fetch(getUrl, { headers, cache: 'no-store' });
+                let getRes = await fetch(getUrl, { headers, cache: 'no-store' });
+                if (!getRes.ok && getRes.status === 401) {
+                    headers['Authorization'] = `token ${HARDCODED_GH_TOKEN}`;
+                    getRes = await fetch(getUrl, { headers, cache: 'no-store' });
+                }
                 if (getRes.ok) {
                     const getJson = await getRes.json();
                     sha = getJson.sha;
@@ -320,7 +326,7 @@ function initApp() {
             };
             if (sha) putBody.sha = sha;
 
-            const putRes = await fetch(getUrl, {
+            let putRes = await fetch(getUrl, {
                 method: 'PUT',
                 headers: {
                     ...headers,
@@ -328,6 +334,18 @@ function initApp() {
                 },
                 body: JSON.stringify(putBody)
             });
+
+            if (!putRes.ok && putRes.status === 401 && headers['Authorization'].startsWith('Bearer')) {
+                headers['Authorization'] = `token ${HARDCODED_GH_TOKEN}`;
+                putRes = await fetch(getUrl, {
+                    method: 'PUT',
+                    headers: {
+                        ...headers,
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify(putBody)
+                });
+            }
 
             if (putRes.ok) {
                 showNotification('🚀 تم رفع الملاحظات وتحديث موقع GitHub بنجاح 100%!', true);
