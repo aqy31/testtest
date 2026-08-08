@@ -1,0 +1,4973 @@
+الاسم اللاتيني	رقم التسلسل	العلامة المسمارية
+a	579	𒀀
+á	334	𒀉
+à	193	𒉿
+a₄	579	𒀀𒀭
+a₅	97	𒀝
+a₆	411	𒌋
+a₇	589	𒄩
+a₈	535	𒌨
+a₉	522	𒆹
+a₁₀ (?)	356	𒊷
+aʾ, ʾa	397	𒀪𒀪
+āʾ, ʾā	398	
+ʾā	321	
+ʾā₄	579	
+ab ,ap	428	𒀊
+áb,áp	420	𒀖
+àb, àp, aba₃	445	𒀜
+ab₄, aba₄	495	
+abgal	87	𒉣𒈨
+abbal	525	
+ablal₂	522	
+ablal₃	542	𒇦
+abmi		
+abrig		𒉣𒈨𒁺
+absim ?		
+absim₂ ?	183	
+absim₃	56	
+abzu	6	𒍪𒀊
+ad, at, aṭ	405	
+ād, āt, āṭ	10 / 437	
+ad		𒀜
+ad₄	381	𒍞
+adab		𒌓𒉣
+adama	69	𒁁𒈪
+adamem		
+adamem₂		
+adamem₃	228	
+adam	382	
+addir		𒀀𒉺𒄐𒉻𒋛𒀀
+adkin		𒋠𒇴
+ag, ak, aq	97	
+ag	183	𒀝
+ag	341	𒀝
+aga	347	𒂇
+agam	570	𒀂
+agam₁		
+agam₂		
+agar	294 / 379	
+agar₂	500	𒇋
+agar₃	526	𒆻
+agar₄ ?	504	
+agar₅ ?	571	
+agargara	97	𒉩
+agargara₂	87	
+agarim	494	𒂼𒀭𒈹
+agarim₂	495	
+agarim₃		
+agrig	131 / 452	𒅆𒁾
+aḫ	398	
+āḫ	334	
+àḫ	381	
+aḫ₄	60	
+aḫulab	102	
+ai, aia	579	
+ak, aka	97	
+aka₂	483	𒉘
+aka₃	344 / 444	𒋃
+akami		
+akar	87 / 42	𒉬
+akkil		𒃰𒋺𒋛
+akkil₂	145	𒀜𒆤
+akkum	579 / 248	
+al		𒀠
+āl		
+al₅	381	𒌓
+al₇	13	
+alar	217	
+alad₂	522	
+alad₃		
+alal	347	𒋄
+alal₂	314 / 356	𒋃
+alala		𒀩
+alala₂	373	
+alala₃	384	
+alam	358	𒀩
+alammuš	444	𒋭
+alan	358	𒀩
+alʾal	229	
+alʾal₂	405	
+alim	421	𒄋
+alla	560	𒉄
+allu, alli, ala	38	
+am	170	𒄠
+ām	183	
+àm	579	
+am₄	254	
+am₅	274	𒃣
+am₆	13	𒀭
+ama	237	𒂼
+ama₂	170	𒄠
+ama₃	85	
+ama₄	251	𒃘
+ama₅	271	𒃣
+amagi	583	
+amam	103b	
+amar	437	𒀫
+amaš	293	𒁦
+amat	558	𒊩𒆳
+ambar	522	𒆹
+amedu	237	𒂼𒀀𒌅
+amma	366	𒆳
+amme ?	51	
+amma	381	𒆳
+amma₂	474	
+an	13	𒀭
+ana	480	𒁹
+ana₂	13	𒀭
+ana₃	1	𒀸
+andul	329	
+anše	208	𒀲 / 𒄏
+anšu	208	𒀲
+ap	cf. ab 428	𒀊
+apim	56	
+aq	cf. ag 97	𒀝
+ar	451	𒅈
+ar₂	306	𒌒
+ar₃	401	𒄯
+ar₅	362	𒃵
+ar₆	206	𒁺
+ara	353	𒊭
+ara₂	306	𒌒
+ara₃	401	𒄯
+ara₆?	206	
+ara₇	381	𒌓
+ara₈	451	𒅈
+arad	050	𒀴
+arad₂	051	𒀵
+arad₃?	436	
+aragub	206	𒁺
+arah₃	261	𒃥
+arda	050	𒀴
+arhuš	271	𒃣
+arhuš₄?	237	
+ari₃	295	𒉺
+ari₆	164	𒋧
+aru	295	𒉺
+as	131	𒊍
+aš	001	𒀸
+aṣ	131	𒊍
+aš₁₀	480	𒁹
+aš₁₁	360	𒀹
+as₂	339	𒀾
+aš₂	339	𒀾
+aṣ₂	339	𒀾
+as₃	001	𒀸
+aš₃	598b	𒐋
+aṣ₃	001	𒀸
+as₄	522	𒆹
+as₅	071	𒋓
+as₆	409e	𒄱
+aš₇	071	𒋓
+aš₈	409e	𒄱
+aš₉	331a	𒀼𒀼 / 𒑀
+asa	131	𒊍
+aša	001	𒀸
+asa₂	339	𒀾
+aša₂	339	𒀾
+aša₃	598b	𒐋
+aša₅	105	𒃷
+ašag	105	𒃷
+ašag₂	261	
+asal	044	𒍂
+asar	044	𒍂
+asara	044	𒍂
+asari	044	𒍂
+asaru	044	𒍂
+ašdar	418	𒌋𒁯
+ašgi₂	071	
+asil	156	𒂰
+asil₃	158	𒂢
+asil₄	160	𒂤
+asil₅	159	𒂣
+asila	156	𒂰
+asila₂	215	𒋆
+asila₃	158	𒂢
+asila₄	160	𒂤
+asila₅	159	𒂣
+asilal	156	𒂰
+asilal₂	215	𒋆
+asilal₃	158	𒂢
+asilal₄	160	𒂤
+asilal₅	159	𒂣
+asilla₂	215	𒋆
+asillal₃	158	𒂢
+aški	066c	𒍤𒆸
+ašlag₂	536	𒌆
+aslum	522	𒆹
+ašnan₂	367	𒊺
+ašša	001	𒀸
+ašša₂	092	𒃰𒋺
+ašša₃	598b	𒐋
+aš-šur	014	
+ašta	092	𒃰𒋺
+ašte₂	522	𒆹
+aštub	297	
+at	145	𒀜
+aṭ	145	𒀜
+at₂	010	𒄉
+aṭ₂	010	𒄉
+aw	383	𒉿
+aya₂-aya₂	583	
+aya₃	575	𒌨
+aya₄	522	𒆹
+az	131	𒊍
+az₂	339	𒀾
+az₃	001	𒀸
+aza	131	𒊍
+azad₂	063d	𒋺
+azalag₂	536	𒌆
+azlag₂	536	𒌆
+azu	181n	𒍬
+ba	005	𒁀
+ba₁₀?	439	
+ba₁₁	019	𒅤
+ba₁₃	532	𒈨
+ba₁₅	074	𒁇
+ba₂	295	𒉺
+ba₃	472	𒌍
+ba₄	233	𒂷
+ba₅?	030	
+ba₆	318	𒌑
+ba₇	074	𒈦
+ba₉	069	𒁁
+bab₂	381	𒌓
+baba₂	133	𒆍
+babar	381	𒌓
+babbar	381	𒌓
+babir	225	
+babir₂	215	
+babu	133	𒆍
+bad	069	𒁁
+bad₂	469	𒉻
+bad₅	449	𒅆
+bada	069	𒁁
+badi	449	𒅆
+baeš	339	𒀾
+bag	078	𒄷
+bah	078	𒄷
+bah₃	355	𒈜
+bahar	297	𒄞
+bak	078	𒄷
+bal	009	𒁄
+bal₂	011	𒁔
+bal₃	301n	𒀡
+bal₄	303	𒀦
+bala	009	𒁄
+balak	009	𒁄
+baliha	166b	𒆜𒆳
+bamen	295	𒑐
+bamin	295	𒑐
+ban	439	𒉼
+ban₂	074	𒑏
+ban₃	144	𒌉
+ban₄	230	𒆕
+bana	439	𒉼
+banda₂	074	𒑏
+banda₃	144	𒌉
+bandiliša	110	𒆯
+baneš	339	𒀾
+banmin	295	𒑐
+bansur	041	𒍎
+banšur	041	𒍎
+bansur₂	227	𒅃
+banšur₂	227	𒅃
+banšura	041	𒍎
+bappir	225	𒋋
+bappir₂	215	𒋆
+bappir₃	214c	𒁋
+bappira	225	𒋋
+bappira₂	215	𒋆
+bappira₃	214c	𒁋
+baq	078	𒄷
+bar	074	𒁇
+bar₂	344	𒁈
+bar₄	229n	𒉌𒌓
+bar₅	567	𒋞
+bar₆	381	𒌓
+bar₇	172	𒉈
+bar₈	054v	𒂙
+bara	074	𒁇
+bara₁₀	260	𒃖
+bara₂	344	𒁈
+bara₄	069	𒁁
+bara₅	488b	𒇃
+bara₆	517	𒇙
+bara₈	485	𒇣
+bara₉	502	𒇗
+barag	344	𒁈
+bare	074	𒁇
+bargi?	474	
+barig	480	X
+barim	202	𒉺𒁽
+baštum	322	𒆗
+bat	069	𒁁
+baṭ	069	𒁁
+bat₂	469	𒉻
+bat₅	449	𒅆
+bata	069	𒁁
+batu	472	𒌍
+be	069	𒁁
+be₂	214	𒁉
+be₃	231	𒉌
+be₄	005	𒁀
+be₅	536	𒆪
+be₆	383	𒉿
+be₇	172	𒉈
+bed	324	𒂍
+bed₃	536	𒆪
+bek	592	𒋝
+bel	172	𒉈
+bel₂	173	𒉋
+belili	358	𒀩
+ber	400	𒄵
+ber₂	381	𒌓
+ber₅	079	
+ber₆	388	𒊶
+ber₇	390	𒊯
+beš₁₂	381	𒌓
+bešeg	233	
+bet	324	𒂍
+bet₃	536	𒆪
+betu	324	𒂍
+bi	214	𒁉
+bi₂	172	𒉈
+bi₃	383	𒉿
+bi₄	069	𒁁
+bi₅	173	𒉋
+bi₆	005	𒁀
+bi₇	536	𒆪
+bi₉?	398	
+bibra	550	𒄾
+bibri	550	𒄾
+bid	324	𒂍
+bid₂	069	𒁁
+bid₃	536	𒆪
+big	592	𒋝
+bik	592	𒋝
+bil	172	𒉈
+bil₂	173	𒉋
+bila	172	𒉈
+bili	172	𒉈
+bin	056	𒀳
+bir	400	𒄵
+bir₂	381	𒌓
+bir₄	168	𒂔
+bir₅	079	𒉆
+bir₆	388	𒊶
+bir₇	390	𒊯
+bir₉	172	𒉈
+biri	400	𒄵
+biš	346	𒄫
+bis₂	346	𒄫
+bisag	233	𒂷
+bisag₂	314	𒋃
+bisag₃	317	𒋄
+bisan	233	𒂷
+bisan₂	314	𒋃
+bisan₃	317	𒋄
+bišeba?	151	
+bišeba₂?	358	
+bišeba₃?	357	
+bišebi?	151	
+bišebi₂?	358	
+bišebi₃?	357	
+bit	324	𒂍
+biṭ	324	𒂍
+bit₂	069	𒁁
+bit₃	536	𒆪
+biti	324	𒂍
+bitu	324	𒂍
+bitum	324	
+biz	214	𒁉
+biz₂	226	𒄐
+bizeg₃	317	𒋄
+bizem₃	317	𒋄
+bu	371	𒁍
+bu₁₁	318	𒌑
+bu₁₂	411	𒌋
+bu₁₃	030	𒅮
+bu₁₄	491	𒇡
+bu₁₅	469	𒉻
+bu₁₆	231	𒉌
+bu₂	166	𒆜
+bu₃	019	𒅤
+bu₄	511	𒇥
+bu₅	515	𒇧
+bu₇	536	𒆪
+bu₈	011	𒁔
+bu₉?	096a	
+bube	110	𒆯
+bugin	522	𒆹
+bugin₂	528	𒇅
+bugin₄	512	𒇦
+buh	355	𒈜
+buk	003	𒈮
+bul	515	𒇧
+bul₂	011	𒁔
+bul₃	009	𒁄
+bul₄?	030	
+bul₅	491	𒇡
+bulug	096a	𒁑
+bulug₂	011	𒁔
+bulug₄	560	𒉄
+buluh	002	𒄬
+bum	019	𒅤
+bun	510	𒇌
+bun₂	030	𒅮
+buni	522	
+bunig	522	
+bunig₂	528	
+bunig₃	487	
+bunig₃?	484	
+bunin	522	𒆹
+bunin₂	528	𒇅
+bunin₄	512	𒇦
+bur	349	𒁓
+bur₁₀	515	𒇧
+bur₁₂	371	𒁍
+bur₁₄	054v	𒂙
+bur₂	011	𒁔
+bur₃	411	𒌋
+bur₆	249	𒆤 / 𒆦
+bur₇	310	𒄧
+bur₈	002	𒄬
+buru	349	𒁓
+buru₁₄	054v	𒂙
+buru₁₆	491	𒇡
+buru₁₇	530	
+buru₂	011	𒁔
+buru₃	411	𒌋
+buru₆	313	𒆤
+buru₇	310	𒄧
+buru₈	002	𒄬
+buru₉	227	𒅃
+buruh	002	𒄬
+buš	166	𒆜
+buš₂	346	𒄫
+bute	332	𒍠
+buti	332	𒍠
+butu	332	𒍠
+buzur	411	𒌋
+buzur₂	471	𒌋𒌋
+buzur₅	019	𒅤
+d	013	𒀭
+da	335	𒁕
+da₁₀	396	𒄭
+da₁₁?	080	
+da₁₂	015	𒅗
+da₁₃	063d	𒋺
+da₂	139	𒋫
+da₃	230	𒆕
+da₄	557	𒁮
+da₅	132	𒍏
+da₆	126	𒋳
+da₇	381	𒌓
+dab	537	𒁳
+dab₂	124	𒋰
+dab₃	396	𒄭
+dab₄	138	𒁾
+dab₅	536	𒆪
+dab₆	132	𒍏
+daba	537	𒁳
+daba₅	536	𒆪
+daban	110	𒆯
+dabašin	110	𒆯
+dabe	537	𒁳
+dad	063d	𒋺
+dag₂	381	𒌓
+dag₄?	249	
+dag₅	015	𒅗
+dagal	237	𒂼
+dagala	237	𒂼
+dagrim	513	𒇑
+dagrin	513	𒇑
+dah	169	𒈭
+dal	086	𒊑
+dal₃	001	𒀸
+dala	086	𒊑
+dalhamun₄	165a	𒀱
+dalhamun₅	165v	𒀰
+dam	557	𒁮
+dam₀	564	𒂖
+dam₂	381	𒌓
+dam₃	207	𒌈
+dama	557	𒁮
+damal	237	𒂼
+damu	144	𒌉
+damu₂	449	𒅆
+dan	322	𒆗
+dan₂	270	𒃞
+dan₃	241	𒃩
+dan₄	248	𒃋
+dan₅?	465	
+dan₆	211n	𒍕
+dan₇	259n	𒃃
+dana₂	166	𒆜
+dana₃	322	𒆗
+danna₂	166	𒆜
+dap	537	𒁳
+dap₂	124	𒋰
+dapa₂	124	𒋰
+dapar	297	𒄞
+dapara	297	𒄞
+daq₆	126	𒋳
+dar	113	𒁯
+dar₂	535	𒅁
+dar₄	540	𒁱
+dar₆	012	𒋻
+dara₂	535	𒅁
+dara₄	540	𒁱
+dara₆	113	
+dari₂	535	𒅁
+daru₂	535	𒅁
+darum₂	535	𒅁
+das	575	𒌨
+daš	575	𒌨
+daš₂	480	𒁹
+daš₃	339	𒀾
+daš₄?	113	
+dašgari	536	
+dat	063d	𒋺
+de	457	𒁲
+de₁₀	144	
+de₃	172	𒉈
+de₄	376	𒋼
+de₅	086	𒊑
+de₆	206	𒁺
+deb	537	𒁳
+deb₂	536	𒆪
+deh	138	𒁾
+deh₂	134	𒌝
+deh₃	433	𒉏
+dehi	138	𒁾
+dehi₂	134	𒌝
+dehi₃	433	𒉏
+del	001	𒀸
+del₂	377	𒇺
+del₄	360	𒀹
+dele	001	𒀸
+dele₄	360	𒀹
+delen	510	𒇌
+delen₃	528	𒇅
+delena	510	𒇌
+delena₃	528	𒇅
+deli	001	𒀸
+dellu	122a	𒈣𒈮
+dem₂	440	𒁶
+den	465	𒁷
+der	013	𒀭
+dergul	122a	𒈣𒈮
+deš	480	𒁹
+deš₂	001	𒀸
+deš₃	575	𒌨
+deš₄?	532	
+deš₅	360	𒀹
+deššu	339	𒀾
+di	457	𒁲
+di₁₁	094	𒁴
+di₁₂	376	𒋼
+di₄	144	𒌉
+di₅	086	𒊑
+di₆	206	𒁺
+di₇	172	𒉈
+dib	537	𒁳
+dib₂	536	𒆪
+dib₅	493	𒇆
+dibi	537	𒁳
+dibur	013	𒀭
+did?	399	
+didala?	384	
+dig	231	𒉌
+digi	231	𒉌
+digir	013	𒀭
+dih	138	𒁾
+dih₂	134	𒌝
+dih₃	433	𒉏
+dihi	069	𒁁
+dihi₂	134	𒌝
+dihi₃	433	𒉏
+dik	231	𒉌
+dil	001	𒀸
+dil₂	329	
+dil₄	360	𒀹
+dili	001	𒀸
+dili₂	377	𒇺
+dili₄	360	𒀹
+dilib	314	𒋃
+dilib₂	024	𒆂
+dilib₃	117	𒊠
+dilib₄	115n	𒊞
+dilib₅	116n	𒊦
+dilib₆	120	𒊟
+dilim₂	377	𒇺
+dilim₃	510	𒇌
+dilim₅	528	𒇅
+dilin	510	𒇌
+dilin₃	528	𒇅
+dilina	510	𒇌
+dilina₃	528	𒇅
+dilu	122a	𒈣𒈮
+dilur	122a	𒈣𒈮
+dim	094	𒁴
+dim₁₂	314	𒋃
+dim₁₃	371	𒁍
+dim₂	440	𒁶
+dim₅	352	𒂀
+dim₇	069	𒁁
+dima₂	440	𒁶
+dimer	013	𒀭
+dimgul	122a	𒈣𒈮
+dimir	013	𒀭
+dimmer	013	𒀭
+dimna	443	𒌋𒂵
+din	465	𒁷
+diner	013	𒀭
+dingir	013	𒀭
+dingira	013	𒀭
+dini	465	𒁷
+dinir	013	𒀭
+dip	537	𒁳
+dipar	297	𒄞
+diq	231	𒉌
+dir	123	𒋛𒀀
+dir₂	113	𒁯
+dir₃	013	𒀭
+dir₄	375	𒌁
+dirgul	122a	𒈣𒈮
+diri	123	𒋛𒀀
+diri₂?	535	
+dirig	123	𒋛𒀀
+diš	480	𒁹
+diš₂	001	𒀸
+diš₄?	532	
+diša	480	𒁹
+disgur	438	𒀬
+du	206	𒁺
+du₁₀	396	𒄭
+du₁₁	015	𒅗
+du₁₂	574	𒌇
+du₁₃	144	𒌉
+du₁₆	052	𒌗
+du₁₇?	172	
+du₂	058	𒌅
+du₂₀	335	𒁕
+du₂₄	467	𒂄
+du₂₆	123	𒋛𒀀
+du₃	230	𒆕
+du₄	207	𒌈
+du₅	595	𒂅
+du₆	459a	𒇯
+du₇	441	𒌌
+du₈	167	𒃮
+du₉	011	𒁔
+dub	138	𒁾
+dub₂	352	𒂀
+dub₃	396	𒄭
+duba	138	𒁾
+duba₂	352	𒂀
+dubal	299n	𒀥
+dubal₂	303	𒀦
+dubba	138	𒁳 / 𒁾
+dubsig	320	
+dubsik	320	𒅍
+dubu	138	𒁾
+dubu₂	352	𒂀
+dubur	400	𒄵
+dud₂	058	𒌅
+dug	309	𒂁
+dug₃	396	𒄭
+dug₄	015	𒅗
+dug₅	595	𒂅
+duga₃	398	𒄴
+duga₄	015	𒅗
+dugu	396	𒄭
+dugud	445	𒂂
+dugud₂?	427	
+duguda	445	𒂂
+duh	167	𒂃 / 𒃮
+duk	309	𒂁
+duk₂	574	𒌇
+duka	309	𒂁
+dul	459	𒌋𒌆
+dul₁₀	371	𒁍
+dul₂	511	𒇥
+dul₃	329	𒊨
+dul₄	348	𒂈
+dul₅	536	𒌆
+dul₆	459a	𒇯
+dul₇	115	𒊕
+dul₈	537	𒁳
+dul₉	575b	𒌪
+dum	207	𒌈
+dum₃?	557	
+dum₄	094	𒁴
+dumgal	224	𒋇
+dumu	144	𒌉
+dun	467	𒂄
+dun₃	595	𒂅
+dun₄	348	𒂈
+dun₅	011	𒁔
+dun₆	322	𒆗
+duna	467	𒂄
+dunga	115	𒊕
+dunga₂	355	𒈜
+dup	138	𒁾
+dup₂	352	𒂀
+dupsik	320	𒅍
+duq	309	𒂁
+dur	108	𒄙
+dur₁₀	008	𒊿
+dur₁₁	058	𒌅
+dur₆	295	𒉺
+dur₇?	371	
+dur₉	467	𒂄
+durah₂	540	
+durba	146	𒈢
+durgul	122a	𒈣𒈮
+duru₆?	295	
+duru₉	467	𒂄
+duruna₂	510	𒇌
+duruna₄	528	𒇅
+duš	536	𒆪
+duš₂	480	𒁹
+dusi	320	𒅍
+dussu	320	𒅍
+dusu	320	𒅍
+e	308	𒂊
+eʾ	397	𒀪
+eʾ₂?	398	
+eʾ₃	324	𒂍
+eʾella	272	𒃈
+e₁₀	560	𒉄
+e₁₃?	556	
+e₂	324	𒂍
+e₅	556	𒊩𒌆
+e₇	015	𒅗
+e₈	381	𒌓
+eazag?	269	
+eb	535	𒅁
+eb₂	207	𒌈
+ebir	309	𒂁
+ebir₄	319	𒂵
+ebur	054v	𒂙
+ed	334	𒀉
+eden	168	𒂔
+edena	168	𒂔
+edi	268	𒃄
+edim?	069	
+edin	168	𒂔
+edina	168	𒂔
+edur	583	𒀁
+eduru	583	𒀁
+eg	080	𒅅
+eg₂	308	𒂊
+eg₃	183	𒉘
+egara	278	𒃌
+eger	209	𒂕
+eger₄	207	𒌈
+eger₅?	565	𒈝
+eger₆?	567	
+egera	209	𒂕
+egia	256	𒃎
+egir	209	𒂕
+egir₄	207	𒌈
+egir₅?	565	𒈝
+egir₆?	567	
+egirsu	236	𒃐
+egur₄	207	
+eh	398	𒄴
+eh₂	397	𒀪
+ehalla	235	𒃓
+ehili	263	𒃔
+ek	080	𒅅
+eki	308	𒂊
+el	564	𒂖
+el₂	205	𒅋
+el₃	013	𒀭
+el₄	205a	𒅌
+elal	317	𒋄
+elal₂	314	𒋃
+elam	433	𒉏
+elama	433	𒉏
+elamkuš	510	𒇌
+elamkuš₂	518	𒇖
+elamkuš₃	527	𒇈
+elamkuš₄	522	𒆹
+elamu	433	𒉏
+eldig	170	
+ele	412	𒌋𒅗
+ele₂	564	𒂖
+eli	412	𒌋𒅗
+ella₂	483	𒆸
+ellag	483	𒆸
+ellag₂	400	𒄵
+ellam	400	
+ellamkuš	510	𒇌
+ellamkuš₂	518	𒇖
+ellamkuš₃	527	𒇈
+ellamkuš₄	522	𒆹
+ellat	166b	𒆜𒆳
+em	399	𒅎
+em₃	183	𒉘
+em₄	032	𒅴
+eme	032	𒅴
+eme₄	237	𒂼
+eme₈	271	𒃣
+emeda₃	137	𒌟
+emedub	250	𒃆
+emeš	554n	𒊩𒇬
+emeš₂	174	𒉊
+emesig	035n	𒆄
+emezi	554n	𒊩𒇬
+emma	028	𒆉
+emma₂	035	𒅘
+emmen	028	𒆉
+emmen₂	035	𒅘
+emmin	028	𒆉
+emmin₂	035	𒅘
+emuš	580a	𒀇
+en	099	𒂗
+en₂	546	𒋙𒀭
+en₃	059	𒇷
+en₄	015	𒅗
+en₆	148	𒅔
+en₇	332	𒍠
+en₈	353	𒊭
+ena	099	𒂗
+endibdim	401	𒄯
+endur	295	𒉺
+enegi	399	𒅎
+enegir	399	𒅎
+enem	015	𒅗
+engar	056	𒀳
+engara	056	𒀳
+engur	484	𒇉
+eni	099	𒂗
+enim	015	𒅗
+enim₂	433	𒉏
+enkar	054v	𒂙
+enkara	054v	𒂙
+enme	099c	𒂚
+enmen	028	𒆉
+enmen₂	035	𒅘
+ennegi	399	𒅎
+ennigi	399	𒅎
+ennin	103v	𒈹
+enšada	295l	𒉺𒌆
+enšadu	295l	𒉺𒌆
+ensi₃	099c	𒂚
+enten	175	𒉉
+entena	175	𒉉
+enu	099	𒂗
+ep	535	𒅁
+ep₂	207	𒌈
+epig	592	𒋝
+epig₂?	309	
+epir	309	𒂁
+epir₂	214	𒁉
+epir₄	319	𒂵
+eq	080	𒅅
+eqqil	105	
+er	232	𒅕
+er₁₀?	206	
+er₁₁	051	𒀵
+er₁₄	206a	
+er₃	050	𒀴
+er₄	038	𒌷
+er₆	581	𒀅
+er₉	444	𒄊
+era₃?	270	
+era₄?	252	
+erad?	050	
+erbura	063d	𒋺
+ere	038	𒌷
+ere₁₄	232	𒅕
+erem	393	𒂟
+eren	541	𒂞
+eren₂	393	𒂟
+eren₈	204d	𒌯
+erena	541	𒂞
+erena₂	393	𒂟
+ereš	556	𒊩𒌆
+ereš₂	165	𒉀
+ereš₃	232	𒅕
+ereš₄	056	𒀳
+eri	038	𒌷
+eri₁₁	195	𒀕
+eri₁₂	128	𒀊
+eri₁₄	232	𒅕
+eri₁₅?	270	
+eri₁₆?	252	
+eri₃	050	𒀴
+eribura	063d	𒉫
+erida	087	𒉣
+eridu	087	𒉣
+eridug	087	𒉣
+eriduga	087	𒉣
+erigal	194	𒀍
+erigal₂	195	
+erigal₃	128	
+erim	393	𒂟
+erim₃	049	𒌿
+erim₄	262	𒃫
+erim₅	195	𒀕
+erim₆	043	𒍍
+erim₇	204d	𒌯
+erin	541	𒂞
+erin₂	393	𒂟
+erin₃	049	𒌿
+erin₄	262	𒃫
+erin₅	195	𒀕
+erin₆	043	𒍍
+erin₉	204d	𒌯
+erina	541	𒂞
+erina₂	393	𒂟
+eriš	556	𒊩𒌆
+eriš₂	165	𒉀
+eriš₄	056	𒀳
+eru	050	𒀴
+eru₃	120	𒊟
+eru₅	168	𒂔
+erua₂	168	𒂔
+erum	050	𒀴
+erum₃	120	𒊟
+es	296	𒄑
+eš	472	𒌍
+eṣ	296	𒄑
+eš₁₂	174	𒉊
+eš₁₃	175	𒉉
+eš₁₄	564	𒂖
+eš₁₅	212	𒅖
+eš₁₆	325a	𒀼 / 𒐺
+eš₁₈	360	𒀸 / 𒀹
+eš₁₉	296	𒄑
+es₂	472	𒌍
+eš₂₀	001	𒀸
+eš₂₁	124a	𒋰𒀸 / 𒐻
+eš₂₂	436	𒇵
+es₃	128	𒀊
+eš₃	128	𒀊
+eṣ₃	128	𒀊
+eš₄	480	𒁹
+es₅	212	𒅖
+eš₆	002a	𒀸𒀸𒀸
+eš₇	069	𒁁
+eš₈	166	𒆜
+eša₂	472	𒌍
+esa₃	128	𒀊
+eša₃	128	𒀊
+esag	585	𒀈
+esag₂	261	𒃥
+esagtur	261a	𒃦
+eše	472	𒌍
+ešemen₄	200d	𒀑
+ešemin₄	200d	𒀑
+ešgal	194	𒀍
+ešgiri₂	054v	𒂙
+esi	322	𒆗
+esibir	239	𒃊
+esig	322	𒆗
+esikilla	272	𒃈
+esir₂	487	𒇒
+esir₄	067	𒄃
+esir₅	326a	𒄆
+esirha	488	𒇓
+esirhia	488	𒇓
+eškiri₂	054v	𒂙
+ešqa	110	𒆯
+eštub	297	𒄞
+et	334	𒀉
+eṭ	334	𒀉
+etam	262	𒃫
+etutum	242	
+ew	383	𒉿
+ez	296	𒄑
+ez₃	128	𒀊
+eze	537	𒇻
+ezina₃	375	𒌁
+ezinam₃	375	
+ezinu₃	375	𒌁
+f	554	𒊩
+ga	319	𒂵
+gaʾazag?	269	
+ga₁₁?	401	
+ga₁₂?	427	
+ga₁₄	015	𒅗
+ga₂	233	𒂷
+ga₃?	105	
+ga₄	597	𒃻
+ga₅	062	𒋡
+ga₆	320	𒅍
+ga₇	080	𒅅
+ga₈?	326	
+gab₂	088	𒆏
+gab₃	035	𒅘
+gaba₂	088	𒆏
+gabu₂	088	𒆏
+gaburra	259	𒃂
+gad	090	𒃰
+gada	090	𒃰
+gadi	268	𒃄
+gadibdim	401	𒄯
+gadma	297	𒄞
+gadu	090	𒃰
+gadub	250	𒃆
+gag	230	𒆕
+gaga	260	𒃖
+gagar	461	𒆠
+gaggim	003	𒈮
+gagi	256	𒃎
+gagi₂	243	𒃍
+gagia	256	𒃎
+gagia₂	243	𒃍
+gagig	265	𒃟
+gagim	003	𒈮
+gagirsu	236	𒃐
+gagri?	326	
+gahalla	235	𒃓
+gahili	263	𒃔
+gaiku	234	𒂽
+gak	230	𒆕
+gakim	003	𒈮
+gakkul₃	415a	𒌋𒁴
+gal	343	𒃲
+gal₂	080	𒅅
+gal₃?	049x	
+gal₄	554	𒊩
+gal₅	376	𒋼
+gal₈	381	𒌓
+gal₉	322	𒆗
+gala₁₁	489	𒇂
+gala₃	511	𒇥
+gala₄	498	𒆽
+gala₅	514	𒇏
+gala₇	080	𒅅
+gala₈	343	𒃲
+gale	343	𒃲
+galga	278	𒃌
+galla₄	554	
+gam	362	𒃵
+gam₃	060x	𒆛
+gam₄	143	𒃶
+gamar	231	𒉌
+gaml	110	𒆯
+gamun₂	375	𒌁
+gan	143	𒃶
+gan₂	105	𒃷
+gan₇	362	𒃵
+gana	143	𒃶
+gana₂	105	𒃷
+gana₄	494	𒇇
+gana₅	493	𒇆
+gana₆	540	𒁱
+ganam₄	494	𒇇
+ganam₅	493	𒇆
+ganam₆	540	𒁱
+gansis	141a	𒋯
+ganun	244v	𒃠
+gap₂	088	𒆏
+gar	597	𒃻
+gar₁₃	058	𒋽
+gar₁₄	376x	𒋼𒀀
+gar₁₉	105	𒃸
+gar₂	319n	𒂶
+gar₃	333	𒃼
+gar₄	297	𒄞
+gar₅	345	𒈖
+gar₆	087	𒉣
+gar₇	307	𒈥
+gar₈	567	𒋞
+gar₉	319	𒂵
+gara	597	𒃻
+gara₂	319n	𒂶
+gara₃	333	𒃼
+gara₄	297	𒄞
+gara₆	087	𒉣
+gara₈	567	𒋞
+gara₉	319	𒂵
+garadin₂	369	𒊼
+garadin₃	370	𒊽
+garadin₅	529	𒆸𒆸
+garak	105	𒃸
+garak₅	597	𒃻
+garaš	245	𒃕
+garig	555	𒍮
+garig₂	555	X
+garim	513	𒇑
+garin	513	𒇑
+garu	392	𒌔
+gas	192	𒄤
+gaš	214	𒁉
+gaṣ	192	𒄤
+gas₂?	191	
+gasa	023	𒅪
+ga-ša-an-an-na	103v	
+gasag?	269	
+gašan	350	𒃽
+gasibir	239	𒃊
+gasikilla	272	𒃈
+gat	090	𒃰
+gat₂	063a	𒆐
+gat₃	063c	𒆑
+gayayu	494	𒇇
+gaz	192	𒄤
+gaz⁻	191	
+gaz₂	191	𒄣
+gaza	192	𒄤
+gaza₃	023	𒅪
+gazag?	269	
+gazi₂	250c	𒃨
+gazi₃	250b	𒃤
+gazibu	371	𒁍
+gazigal	258	𒂾
+gazimbi	371	𒁍
+gazinbi	371	𒁍
+gazinbu	371	𒁍
+ge	085	𒄀
+ge₁₀	173	𒉋
+ge₁₁?	595	
+ge₁₂	558	𒊩𒆳
+ge₁₃?	206	
+ge₁₄	411	𒌋
+ge₁₅	001	𒀸
+ge₁₆	067	𒄃
+ge₁₇	446	𒈪𒉭
+ge₁₈	440	𒁶
+ge₁₉	596	𒉾
+ge₂	313	𒆤
+ge₂₀	319	𒂵
+ge₂₁?	366	
+ge₂₃	360	𒀹
+ge₂₄	051	𒀵
+ge₂₆	233	𒂷
+ge₂₈	286	𒁨
+ge₃	480	𒁹
+ge₄	326	𒄄
+ge₅	461	𒆠
+ge₆	427	𒈪
+ge₈	449	𒅆
+ge₉	172	𒉈
+gedar	295	
+gedim	576	𒄇
+gedru	295	
+geg	446	
+geg₂	427	
+gegge	427	
+gel	067	𒄃
+gele₃	016	𒅲
+geleg	067	
+geli₃	016	𒅲
+geltan	383	𒉿
+gem	440	𒁶
+gem₃	558	𒊩𒆳
+geme₂	558	𒊩𒆳
+geme₃	051	𒀵
+gen	206	𒁺
+gen₃	366	𒆳
+gen₆	085	𒄀
+gen₇	440	𒁶
+gena	144n	𒌉𒁹
+genan	144n	𒌉𒁹
+genna	144n	𒌉𒁹
+gepar	249	
+ger	346	𒄫
+ger₂	010	
+ger₃	444	𒄊
+gereš	400	𒄵
+gereš₃	051	𒀵
+gerin	483	
+geš	296	𒄑
+geš₃	211	𒍑
+gešba	068	𒊒
+gešbu	068	𒊒
+gešdu	383	𒉿
+gešgal	049x	
+gešhur	354b	𒆒
+gešimmar	356	𒊷
+geškad	354b	𒆒
+gešmaš	301	
+gešnimbar	356	𒊷
+gešninbar	356	
+gešnu₃	431	
+gešpa	068	𒊒
+gešpu	068	𒊒
+geššir	054v	𒂙
+geštara	295	𒉺
+geštin	210	𒃾
+geština	210	𒃾
+geštu	383	𒉿
+gestug	383	
+geštug	383	𒉿
+gešturu	295	
+gez	296	𒄑
+gi	085	𒄀
+gi₁₀	173	𒉋
+gi₁₁?	595	
+gi₁₂	558	𒊩𒆳
+gi₁₆	067	𒄃
+gi₁₇	446	𒈪𒉭
+gi₁₈	440	𒁶
+gi₂	313	𒆤
+gi₂₅	445	
+gi₂₅?	445	
+gi₂₇	371	𒁍
+gi₄	326	𒄄
+gi₅	461	𒆠
+gi₆	427	𒈪
+gi₈	449	𒅆
+gi₉	172	𒉈
+gib	067	𒄃
+gib₃	446	𒈪𒉭
+gibi	173	
+gibil	173	𒉋
+gibil⁻	172	
+gibil₂	548	𒋙𒀾
+gibil₄	172	𒉈
+gibil₇	546	𒋙𒀭
+gibila	173	𒉋
+gibir	548	𒋙𒀾
+gibir₂	546	𒋙𒀭
+gibiru	411	𒌋
+giburu	411	𒌋
+gid	313	𒆤
+gid₂	371	𒁍
+gid₃?	104	
+gid₄?	090	
+gid₆	063d	𒋺
+gida₂	371	𒁍
+gida₄	090	𒃰
+gidar	295	𒉺
+gidi₃	371	𒁍
+gidim	576	𒄇
+gidim₃	371	𒁍
+gidim₇?	297	
+gidri	295	𒉺
+gidru	295	𒉺
+gig	446	𒈪𒉭
+gig₂	427	𒈪
+gig₃?	067	
+gig₄	595	
+gig₄?	595	
+giggi	427	𒈪
+gigi	326a	𒄆
+gigi₂	427	𒈪
+gigir	486	𒇀
+gigir₂	511	𒇥
+gigir₃	503	𒇕
+gigira	486	𒇀
+gigira₂	511	𒇥
+giguru	411	𒌋
+giguru₃	024	𒆂
+gikki	427	𒈪
+gil	067	𒄃
+gil₂	483	𒆸
+gil₃	320	𒅍
+gil₄	173	
+gili	067	𒄃
+gili₂	483	𒆸
+gili₃	016	𒅲
+gilib₃	016	𒅲
+gilib₄	016a	𒅽
+gilili	596	𒉾
+gilim	067	𒄃
+gilim₂	596	𒉾
+gilin	596	𒉾
+gillim	067	𒄃
+gilugu?	484	
+gim	440	𒁶
+gim₂	595	𒂆
+gim₃	558	𒊩𒆳
+gim₄	202	𒁽
+gim₅?	201	
+gim₆	206	𒁺
+gim₇	371	𒁍
+gim₈?	092c	
+gimi	440	𒁶
+gin	206	𒁺
+gin₂	595	𒂆
+gin₃	366	𒆳
+gin₄	066c	𒍤𒆸
+gin₅	558	𒊩𒆳
+gin₆	085	𒄀
+gin₇	440	𒁶
+gin₈	401	𒄯
+gina	144n	𒌉𒁹
+gina₂	595	𒂆
+gina₃	366	𒆳
+ginan	144n	𒌉𒁹
+ginna	144n	𒌉𒁹
+gir	346	𒄫
+gir₁₀	172	𒉈
+gir₁₂	148	𒅔
+gir₁₃	314	𒋃
+gir₁₄	589	𒄩
+gir₁₆	423	𒄌
+gir₁₇	015	𒅗
+gir₂	010	𒄈
+gir₃	444	𒄊
+gir₄	430	𒌋𒀜
+gir₅	202	𒁽
+gir₆	201	𒁼
+gir₇	206	𒁺
+gir₈	483	𒆸
+gir₉	424	𒀚
+giraba	128	𒀊
+girak	483	
+gireš	400	𒄵
+giri	346	𒄫
+giri₁₃	314	
+giri₁₆	423	𒄌
+giri₁₇	015	𒅗
+giri₂	010	𒄈
+giri₃	444	𒄊
+giri₅	202	𒁽
+giri₆	201	𒁼
+giri₈	483	𒆸
+giriak	483	
+girid₂	423	𒄌
+girim	483	𒆸
+girim₂	202	𒁽
+girin	483	𒆸
+giriš	400	𒄵
+giriš₃	051	𒀵
+giru₃	444	𒄊
+girum	362	𒃵
+gis	296	𒄑
+giš	296	𒄑
+giṣ?	296	
+giš₃	211	𒍑
+giša	296	𒄑
+gisal	226	𒄐
+gišal?	226	
+gišbar	301	𒀣
+gišdu	383	𒉿
+gišgal	049x	𒍇
+gišhur	354b	𒆒
+gišimmar	356	𒊷
+giškad	354b	𒆒
+gišmaš	301	𒀣
+gišnimbar	356	
+giššir	054v	𒂙
+gištu	383	𒉿
+gistug	383	
+gištug	383	𒉿
+gišturu	295	𒉺
+git	313	𒆤
+git₂	371	𒁍
+giṭ₂	371	𒁍
+giz	296	𒄑
+gizal	226	𒄐
+gizza	427	
+gu	559	𒄖
+gu₁₀	061	𒈬
+gu₁₁?	319	
+gu₁₃?	401	
+gu₁₄	461	𒆠
+gu₁₅	565	𒈝
+gu₁₆?	133	
+gu₂	106	𒄘
+gu₃	015	𒅗
+gu₄	297	𒄞
+gu₅	536	𒆪
+gu₆?	035	
+gu₇	036	𒅥
+gu₈	191	𒄣
+gu₉	072a	𒆰
+gub	206	𒁺
+gub₂	059	𒇷
+gub₃	088	𒆏
+gub₄	231	𒉌
+gub₅	313	𒆤
+guba	206	𒁺
+gubu	206	𒁺
+gubu₃	088	𒆏
+gud	297	𒄞
+gud₂	121	𒊥
+gud₄	012	𒋻
+gud₆	565	𒈝
+gud₇	536	𒆪
+gud₈	483	𒆸
+gud₉	314	𒋃
+guda₃	121	𒊥
+gudibdim	401	𒄯
+gudibir	063d	𒋺
+gudiddi	025b	𒅝
+gudma	297	𒄞
+gudu	297	𒄞
+gudu₂	121	𒊥
+gudu₅	389	𒊳
+gug	591	𒍝𒄢
+gug₂	345	𒈖
+gug₄	066c	𒍤𒆸
+gug₅	151v	𒈘 / 𒈙
+gugarid	297	𒄞
+guggim	003	𒈮
+gugim	003	𒈮
+guhšu	568	𒋟
+guhšu₂	566	𒈞𒋙
+gukim	003	𒈮
+gukin	519	𒇐
+gukin₂	410	𒄳
+gukiri	021	𒅿
+gul	429	𒄢
+gul₂	072a	𒆰
+gul₃	376	𒋼
+gulu	429	𒄢
+gum	191	𒄣
+gum₂	565	𒈝
+gum₂-gum₂-šu₂	566	
+gum₃	172	𒉈
+gum₄	362	𒃵
+gumgumšu	566	𒈞𒋙
+gumle	155	𒂫
+gumu	565	𒈝
+gun₂	106	𒄘
+gun₃	113	𒁯
+gun₄	195	𒀕
+gun₅	565	𒈝
+guna₄	195	𒀕
+gunin₂	522	𒆹
+gunu₃	113	𒁯
+gunu₄	195	𒀕
+gup	206	𒁺
+gup₂?	059	
+gup₅	313	𒆤
+guq	591	𒍝𒄢
+gur	111	𒄥
+gur₁₀	538	𒆥
+gur₁₁	319	𒂵
+gur₁₃	231	𒉌
+gur₁₄	401	𒄯
+gur₁₅	594	𒌴
+gur₁₆	366	𒆳
+gur₁₈	015	𒅗
+gur₂	362	𒃵
+gur₂₂	484	𒇉
+gur₂₄	565	
+gur₃	320	𒅍
+gur₄	483	𒆸
+gur₅	046	𒍀
+gur₆	105	𒃸
+gur₇	542	𒄦
+gur₈	058	𒋽
+gur₉	176	𒉒
+gura	111	𒄥
+gura₈	058	𒋽
+gurdub	243	𒃍
+gurdub₂?	256	
+gurgu₂	565	
+gurin	310	𒂁 / 𒄧
+guru	111	𒄥
+guru₁₂	411	𒌋
+guru₂	362	𒃵
+guru₂₀	310	𒄧
+guru₂₂	530	
+guru₃	320	𒅍
+guru₅	046	𒍀
+guru₆	105	𒃸
+guru₇	542	𒄦
+guru₈	058	𒋽
+gurum	362	𒃵
+gurum₂	454	𒅆𒂟
+gurun	310	𒄧
+gurun₃?	483	
+gurun₄	530	𒇫
+gurun₇	309	𒂁
+gurun₈	465	𒁷
+guruš₂	110	𒆯
+guruš₃	046	𒍀
+guruš₄	126	𒋳
+gurusa	110	𒆯
+gurušda	110	𒆯
+gurušta	110	𒆯
+gurušti	110	𒆯
+gušur	255	
+gušur?	255	
+guz	565	𒈝
+guz₂	371	𒁍
+guz₃	536	𒆪
+ha	589	𒄩
+ha₃	411	𒌋
+ha₄	396	𒄭
+ha₅	381	𒌓
+ha₆	346	𒄫
+ha₇	319	𒂵
+hab	483	𒆸
+hab₂	511	𒇥
+haba	483	𒆸
+habrud	462	𒆢
+habrud₂	462v	𒆡
+habrud₃	384n	𒊰
+habrud₄	386n	𒊵
+habruda	462	𒆢
+habruda₂	462v	𒆡
+habruda₃	384n	𒊰
+habruda₄	386n	𒊵
+habur	230	
+had	295	𒉺
+had₂	381	𒌓
+had₃	356	𒊷
+had₄	354b	𒆒
+hada₂	381	𒌓
+haia	560	𒉄
+hal	002	𒄬
+hal₂	555	𒍮
+hala	002	𒄬
+halubba	277	𒃑
+hamanzer	295k	𒉺𒅁
+hanburuda	462	𒆢
+haniš₂	151	𒈗
+haniš₃	295	𒉺
+hap	483	𒆸
+hap₂	511	𒇥
+har	401	𒄯
+har₂	297	𒄞
+hara	401	𒄯
+hara₂?	297	
+hara₄	288	𒁚
+hara₅	290	𒁬
+haru₄	288	𒁚
+harub	290	𒁬
+haruba	290	
+has	012	𒋻
+haš	012	𒋻
+haṣ	012	𒋻
+has₂	295	𒉺
+haš₂	190	𒍨
+haṣ₂	295	𒉺
+haš₃	381	𒌓
+haš₄	555	𒍮
+hašhur	146	𒈢
+hat	295	𒉺
+haṭ	295	𒉺
+hata	295	𒉺
+haya	560	𒉄
+haz	012	𒋻
+haz₂	295	𒉺
+hazabur	318	𒌑
+he	396	𒄭
+he₂	143	𒃶
+hegal	237	𒂼
+henbur	230	𒆕
+hendur	295	𒉺
+heš	381	𒌓
+heš₂	190	𒍨
+hi	396	𒄭
+hi₂	143	𒃶
+hibira	305	𒀤
+hibis	144n	𒌉𒁹
+hibis₂	300	𒀨
+hibiz	144n	𒌉𒁹
+hibiz₂	300	𒀨
+hilib₂	165	𒉀
+hilibu	308n	𒂌
+hir₂	401	𒄯
+hirin₂	110	𒆯
+his	381	𒌓
+hiš	381	𒌓
+hiš₂	190	𒍨
+hiš₄	402	𒄭𒄊
+hiz	012	𒋻
+hu	078	𒄷
+hu₂	058	𒌅
+hu₃	411	𒌋
+hu₄	401	𒄯
+hu₅	565	𒈝
+hub	089	𒄽
+hub₂	088	𒄸
+hubhub	317	𒋄
+hubhub₂	317a	𒋅
+hubur	394d	𒉯
+hud	295	𒉺
+hud₂	381	𒌓
+hud₄	356	𒊷
+huduš	058	𒌅
+hul	456	𒅆𒌨
+hul₂	550	𒄾
+hul₄	456a	𒅆𒌪
+hula	456	𒅆𒌨
+hula₂	550	𒄾
+hulu	456	𒅆𒌨
+huluh	321	𒈛
+hulum	294a	𒁧
+hulum₂	120n	𒊜
+hulum₃	294d	𒁠
+hum	565	𒈝
+humu	565	𒈝
+humuh	512	𒇦
+hunin	294d	𒁠
+hup	089	𒄽
+hup₂	088	𒄸
+hur	401	𒄯
+huru	401	𒄯
+hus	565	𒈝
+huš	402	𒄭𒄊
+hus₂	012	𒋻
+huš₂	444	𒄊
+huša	402	𒄭𒄊
+huya	392	𒌔
+huz?	565	
+i	142	𒄿
+iʾ	397	𒀪
+iʾ₂?	398	
+i₁₁	396	𒄭
+i₁₄	061	𒈬
+i₁₅?	308	
+i₁₆	383	𒉿
+i₂	598a	𒐊
+i₃	231	𒉌
+i₄	229n	𒉌𒌓
+i₅	015	𒅗
+i₆	536	𒌆
+i₈	484	𒇉
+ia	142a	𒅀
+ia₂	598a	𒐊
+ia₃	231	𒉌
+ia₄	229n	𒉌𒌓
+ia₅	061	𒈬
+ia₈	383	𒉿
+ia₉	329a	𒀼𒋰
+ib	535	𒅁
+ib₂	207	𒌈
+ibbi	535	𒅁
+ibbi₂	172	
+ibila₄	144	𒌉
+ibira	023	𒅪
+ibira₂	025n	𒅛
+id	334	𒀉
+id₃	484	𒇉
+id₈	052	𒌗
+idi	265	𒃟
+idi₂	334	𒀉
+idi₃	335	𒁕
+idin	069	𒁁
+ie	142a	𒅀
+ig	080	𒅅
+ig₂	308	𒂊
+ig₃	183	𒉘
+igi	449	𒅆
+igi₂	351	𒅊
+igu	449	𒅆
+ih	398	𒄴
+ih₂	397	𒀪
+ii	142a	𒅀
+ik	080	𒅅
+iku	105	𒃷
+iku₂	234	𒂽
+il	205	𒅋
+il₁₀	298	𒀠
+il₂	320	𒅍
+il₃	013	𒀭
+il₄	480	𒁹
+il₅	564	𒂖
+il₆	304	𒀧
+il₈	205a	𒅌
+il₉?	336	
+ila	013	𒀭
+ila₂	320	𒅍
+ilamma?	510	
+ilar	068	𒊒
+ilba	233	𒂷
+ilba₂	166b	𒆜𒆳
+ildag	083	𒋥
+ildag₃	170	𒄠
+ildag₄	210a	𒃿
+ilha	166b	𒆜𒆳
+ili	013	𒀭
+ili₂	320	𒅍
+ili₅	564	𒂖
+ili₆	480	𒁹
+ilimmu	598e	𒑆
+ilimmu₄	363	𒑈
+illa	560	𒉄
+illag	483	𒆸
+illamma	510	𒇌
+illar	068	𒊒
+illat	166b	𒆜𒆳
+illil₂	475	𒐐
+illulu	068	𒊒
+illur	068	𒊒
+illuru	068	𒊒
+ilu	013	𒀭
+ilumer	399	𒅎
+ilumer₂	044	𒍂
+ilumer₃	355	𒈜
+im	399	𒅎
+im₂	202	𒁽
+im₃	183	𒉘
+im₅?	201	
+im₆	206	𒁺
+imdudu	374	𒈲
+imi	399	𒅎
+imi₂	237	𒂼
+imin₃	331b	𒀼𒀼𒀸 / 𒑁
+imma	028	𒆉
+imma₂	035	𒅘
+imma₃	351	𒅊
+immeli?	035	
+immen	028	𒆉
+immen₂	035	𒅘
+immin	028	𒆉
+immin₂	035	𒅘
+immindu	510	𒇌
+immindu₂	528	𒇅
+in	148	𒅔
+in₄	099	𒂗
+in₅	556	𒊩𒌆
+in₆	001	𒀸
+ina	001	𒀸
+ina₂	449	𒅆
+inana	103v	𒈹
+inanna	103v	𒈹
+inbir₂	330	
+inda	176	𒉒
+inda₃	597	𒃻
+inda₄	528	𒇅
+inda₅	510	𒇌
+indadili	177	
+indadilida	177n	
+indagara	184	𒉖
+indagra	184	𒉖
+ini	148	𒅔
+ini₂	449	𒅆
+inim	015	𒅗
+inini	103v	𒈹
+inna	540	𒁱
+innana	103v	𒈹
+innin	103v	𒈹
+inta₃?	597	
+inu₂	449	𒅆
+ip	535	𒅁
+ip₂	207	𒌈
+ipig	592	𒋝
+iq	080	𒅅
+ir	232	𒅕
+ir₁₀?	206	
+ir₁₁	051	𒀵
+ir₁₇	347	𒂇
+ir₃	050	𒀴
+ir₄	038	𒌷
+ir₅?	401	
+ir₆	581	𒀅
+ir₇?	166	
+ir₉	444	𒄊
+irbura	063d	𒋺
+irda	050	𒀴
+ire₁₄	232	𒅕
+irhan	374	𒈲
+iri	038	𒌷
+iri₁₁	195	𒀕
+iri₁₂	128	𒀊
+iri₁₄	232	𒅕
+irib₂	502	𒇗
+iribura	063d	𒉫
+irigal	194	𒀍
+irigal₂	195	𒀕
+irigal₃	128	
+irimma	049	
+irišeb	047	𒍁
+irra	444	
+irsag	166	
+is	296	𒄑
+iš	212	𒅖
+iṣ	296	𒄑
+iš₁₀	211	𒍑
+iš₁₁	436	𒇵
+is₂	212	𒅖
+iš₂	166	𒆜
+iṣ₂	212	𒅖
+is₃	128	𒀊
+iš₃	472	𒌍
+iṣ₃	128	𒀊
+iš₄	480	𒁹
+is₅	472	𒌍
+iš₅	015	𒅗
+iš₆	296	𒄑
+iš₇	128	𒀊
+iš₈	360	𒀹
+išhara	278	𒃌
+išhara₃	529	𒆸𒆸
+išhara₄	252	𒃢
+išhur₄	252	𒃢
+išhuru	278	𒃌
+išhuru₂	044	𒍂
+išhuru₃	105	𒃷
+išhuru₄	252	𒃢
+išhuru₅	250i	𒃗
+išhurum₃	105	𒃷
+išhurum₅	250i	𒃗
+isi	212	𒅖
+iši	212	𒅖
+isi₂	429	𒄢
+iši₂	547	𒋙𒀭 / 𒋙𒀯
+isi₃	430	𒌋𒀜
+isib	532	𒈨
+išib	532	𒈨
+isim₂	429	𒄢
+isim₃	430	𒌋𒀜
+isimu₂	429	𒄢
+isimu₃	430	𒌋𒀜
+isin₂	148	𒅔
+isiš	212	𒅖
+isiš₃	581	𒀅
+iski	324	𒂍
+iškila?	390	
+iškili?	390	
+iškur	399	𒅎
+isla	390	
+išla	390	𒊯
+isli	390	
+išli	390	𒊯
+ištar	103v	𒈹
+it	334	𒀉
+iṭ	334	𒀉
+iti	052	𒌗
+iti₃	166a	𒆜𒌚
+itid	052	𒌗
+itim	265	𒃟
+itima	265	𒃟
+itima₂	382v	𒌖
+itu	052	𒌗
+itud	052	𒌗
+iu	142a	𒅀
+iu₂	383	𒉿
+iw	383	𒉿
+iz	296	𒄑
+iz₂	212	𒅖
+iz₃	128	𒀊
+izi	172	𒉈
+izu	172	𒉈
+ka	015	𒅗
+ka₁₁	376x	𒋼𒀀
+ka₁₄	006	𒍪
+ka₁₅	230	𒆕
+ka₂	133	𒆍
+ka₃	319	𒂵
+ka₄	062	𒋡
+ka₅	355	𒈜
+ka₆	596	𒉾
+ka₇	202	𒁽
+ka₈?	214	
+ka₉	314	𒋃
+kab	088	𒆏
+kab₂	035	𒅘
+kabta	141a	𒋯
+kad	090	𒃰
+kad₂	063a	𒆐
+kad₃	063c	𒆑
+kad₄	354b	𒆒
+kad₆	395	𒍦
+kad₈	365	𒀽
+kag₂	015	𒅗
+kagar	080	𒅅
+kak	230	𒆕
+kak₂	015	𒅗
+kakkala	110	𒆯
+kakkuda	110	𒆯
+kakkul₃	415a	𒌋𒁴
+kakkula	110	𒆯
+kakkuša	110	𒆯
+kakra	399	𒅎
+kakru	399	𒅎
+kaku	202	𒁽
+kal	322	𒆗
+kal₂	343	𒃲
+kal₃	230	𒆕
+kal₄	554	𒊩
+kala	322	𒅤 / 𒆗
+kala₁₀	489	𒇂
+kala₃	511	𒇥
+kala₄	498	𒆽
+kala₅	514	𒇏
+kalag	322	𒆗
+kalaga	322	𒆗
+kalam₂?	400	
+kalga	322	𒆗
+kam₃	354b	𒆒
+kam₄	060x	𒆛
+kamaš	202	𒁽
+kamuš	297	𒄞
+kan	143	𒃶
+kan₂	105	𒃷
+kan₃	119	𒊝
+kan₄	133	𒆍
+kan₆	019	𒅤
+kana	143	𒃶
+kana₂	105	𒃷
+kana₃	119	𒊝
+kana₆	019	𒅤
+kankan	133	𒆍
+kap	088	𒆏
+kapa	088	𒆏
+kaptu	445	𒂂
+kaq	230	𒆕
+kar	376x	𒋼𒀀
+kar₂	105	𒃸
+kar₃	333	𒃼
+kar₄	346	𒄫
+kar₅	597	𒃻
+kara	376x	𒋼𒀀
+kara₂	105	𒃸
+kara₄	354b	𒆒
+kara₆	542	𒄦
+karadin₂	369	𒊼
+karadin₃	370	𒊽
+karadin₅	529	𒆸𒆸
+karam	262	𒃫
+karkar	399	𒅎
+karkara	399	𒅎
+kas	166	𒆜
+kaš	214	𒁉
+kaṣ	166	
+kas₂	214	𒁉
+kaš₂	166	𒆜
+kaṣ₂	214	𒁉
+kas₃	192	𒄤
+kaš₃	211b	𒍒
+kaṣ₃	192	𒄤
+kas₄	202	𒁽
+kaš₄	202	𒁽
+kas₅	201	𒁼
+kaš₅	206	𒁺
+kas₆	191	𒄣
+kaš₆	192	𒄤
+kas₇	314	𒋃
+kasa	166	𒆜
+kaskal	166	𒆜
+kaššeba?	151	
+kaššeba₂?	358	
+kaššeba₃?	357	
+kaššebi?	151	
+kaššebi₂?	358	
+kaššebi₃?	357	
+kat	090	𒃰
+kat₂	063a	𒆐
+kat₃	063c	𒆑
+kat₄	354b	𒆒
+kat₇	354	𒋗
+kata₃	063c	𒆑
+kaz	192	𒄤
+kaz₀	166	𒆜
+kazab	318	𒌑
+kazabu	318	𒌑
+kazabur	318	𒌑
+kazba	192	
+kazbi	318	𒌑
+kazbu	318	𒌑
+ke	461	𒆠
+ke₂	085	𒄀
+ke₄	313	𒆤
+ke₅	440	𒁶
+kel	483	𒆸
+kel₃	529	𒆸𒆸
+kele	483	𒆸
+kem	440	
+ken	538	𒆥
+ken₂	401	𒄯
+ker	346	𒄫
+keš	425	𒆧
+keš₁₈	392	𒌔
+keš₄	466	𒊔
+keš₇?	284	
+keš₉	290	𒁬
+keše	425	
+keše₄	466	𒊔
+keši₁₈	392	𒌔
+ket	313	𒆤
+ki	461	𒆠
+ki₂	085	𒄀
+ki₄	313	𒆤
+ki₅	440	𒁶
+ki₆	006	𒍪
+ki₇	230	𒆕
+ki₈	326	𒄄
+ki₉	538	
+kib₃	446	
+kibir₂	548	𒋙𒀾
+kibir₃	546	𒋙𒀭
+kid	313	𒆤
+kid₁₀	371	𒁍
+kid₂	063d	𒋺
+kid₄	314	𒋃
+kid₅	354b	𒆒
+kid₉	090	𒃰
+kig	446	
+kig₂	538	𒆥
+kik	446	𒈪𒉭
+kikken	401	𒄯
+kikkin	401	𒄯
+kil	483	𒆸
+kil₂	067	𒄃
+kil₃	529	𒆸𒆸
+kil₄	092	𒃰𒋺
+kili	483	𒆸
+kili₃	529	𒆸𒆸
+kilib	483	𒆸
+kilib₃	529	𒆸𒆸
+kilibu	318	𒌑
+kilim	596	𒉾
+kilim₂	067	𒄃
+kilin	596	𒉾
+kim	440	𒁶
+kim₂	354b	𒆒
+kim₃	371	𒁍
+kim₄	202	𒁽
+kim₅	201	𒁼
+kim₆	206	𒁺
+kin	538	𒆥
+kin₂	401	𒄯
+kin₃	366	𒆳
+kin₄	529	𒆸𒆸
+kin₅?	040	
+kin₇	206	𒁺
+kin₈	440	𒁶
+kinbur	525	𒆼
+kinda	091	𒃱
+kinga?	538	
+kingusila	573	𒑜
+kingusila₂	475	
+kingusili	573	𒑜
+kingusili₂	475	𒐐
+kinkin	401	𒄯
+kir	346	𒄫
+kir₁₀	444	𒄊
+kir₁₃	430	𒌋𒀜
+kir₁₄	023n	𒅯
+kir₁₇	434	
+kir₂	424	𒀚
+kir₃	483	𒆸
+kir₄	015	𒅗
+kir₆	423	𒀘
+kir₇	434a	𒉑
+kir₈	376x	𒋼𒀀
+kir₉	589	𒄩
+kiraš	051	𒀵
+kirban	314	
+kirbanu?	317	
+kiri	346	𒄫
+kiri₂	105	𒃸
+kiri₃	015	𒅗
+kiri₄	390	𒊯
+kiri₅?	444	
+kiri₈	314	𒋃
+kiri₉	424	𒀚
+kis	425	𒆧
+kiš	425	𒆧
+kiṣ	425	𒆧
+kis₂	296	𒄑
+kiš₅	596	𒉾
+kiša₂	010	𒄉
+kisal	249	𒆦
+kiše	425	
+kiše₄	466	
+kišeb	138	
+kišeg₂	010	𒄉
+kisi	211b	𒍒
+kiši	425	𒆧
+kiši₁₁	227	𒅃
+kiši₁₄	551	𒋙𒉀
+kiši₁₇	010	𒄉
+kiši₄	466	𒊔
+kiši₅	596	𒉾
+kiši₆	551v	𒊾
+kiši₇	284	𒁝
+kiši₉	290	𒁬
+kišib	314	𒈩
+kišib₂	596	𒉾
+kišib₃	138	𒁾
+kisig₂	155	𒂫
+kišig₂	010	𒄉
+kišik₂	010	𒄉
+kisim	290	𒁬
+kisim₂	285	𒁪
+kisim₃	293	𒁦
+kislah₂	463	𒆣
+kišli	390	
+kit	313	𒆤
+kiṭ	313	𒆤
+kit₁₀	371	𒁍
+kit₂	063d	𒋺
+kit₉	090	𒃰
+kitim	576	𒄇
+ku	536	𒆪
+ku₁₀	427	𒈪
+ku₁₀-ku₁₀	427	
+ku₁₁	461	𒆠
+ku₁₂	280	𒁖
+ku₁₃	191	𒄣
+ku₁₄	077	𒆲
+ku₁₅	297	𒄞
+ku₁₆	172	𒉈
+ku₂	036	𒅥
+ku₃	468	𒆬
+ku₄	058	𒆭
+ku₅	012	𒋻
+ku₆	589	𒄩
+ku₇	110	𒆯
+ku₈	559	𒄖
+ku₉	072a	𒆰
+kua	589	𒄩
+kua₂	392	𒌔
+kub	206	𒁺
+kub₄?	313	
+kud	012	𒋻
+kud₃	536	𒆪
+kud₅	110	𒆯
+kud₆	063c	𒆑
+kudma	012	𒋻
+kug	468	𒆬
+kug₂	077	
+kugre	033n	𒅬
+kugu	396	𒄭
+kugur	033n	𒅬
+kuia	392	𒌔
+kuia₃	562	
+kuk	468	𒆬
+kuk₂	345	𒈖
+kukku₅	427	𒈪
+kukkuda	110	𒆯
+kukkuda₂	212	𒅖
+kukkuš	212	𒅖
+kukkuša	110	𒆯
+kukkušda	212	
+kuksu	012	𒋻
+kuku₅	427	𒈪
+kukuda₂	212	𒅖
+kukula	110	𒆯
+kul	072a	𒆰
+kul₂	429	𒄢
+kula	072a	𒆰
+kulla	567	𒋞
+kulu	072a	𒆰
+kum	191	𒄣
+kum₂	172	𒉈
+kum₄	381	𒌓
+kun	077	𒆲
+kun₁₀?	538	
+kun₂	295	𒉺
+kun₃	191	𒄣
+kun₈	076	𒈧
+kun₉	172	𒉈
+kunga	547	𒋙𒀯
+kungi	547	𒋙𒀯
+kunin	487	𒇒
+kunin₂	522	𒆹
+kunin₃?	496	
+kunu	077	𒆲
+kup	206	𒁺
+kup₃	088	𒄸
+kup₄?	313	
+kur	366	𒆳
+kur₁₂	046	𒍀
+kur₁₅	319	𒂵
+kur₃	111	𒄥
+kur₄	483	𒆸
+kur₅	012	𒋻
+kur₆	469	𒉻
+kur₇	454	𒅆𒂟
+kur₈?	036	
+kur₉	058	𒆭
+kurin	309	𒂁
+kurnun?	482	
+kuru₁₃	542	𒄦
+kuru₄	483	𒆸
+kuru₅	012	𒋻
+kuru₇	454	𒅆𒂟
+kurum₁₀	309	𒂁
+kurum₅	012	𒋻
+kurum₆	469	𒉻
+kurum₇	454	𒅆𒂟
+kurun₂	465	𒁷
+kurun₃	309	𒂁
+kurun₆	310	𒄧
+kuruš	110	𒆯
+kurušda	110	𒆯
+kuš₁₀	596	𒉾
+kus₂	565	𒈝
+kuš₂	329	𒊨
+kuṣ₂	565	𒈝
+kuš₃	318	𒌑
+kuš₆	110	𒆯
+kuš₇	212	𒅖
+kuš₈	550	𒄾
+kuš₉	562	𒆵
+kuša	562	
+kušdim	297	𒄞
+kušgim	297	𒄞
+kušu₂	562	𒆕𒋻 / 𒆵
+kušu₃	392	𒌔
+kušu₄	329	𒊨
+kušum₂	355	𒈜
+kušum₃	297	𒄞
+kusun	355	
+kut	012	𒋻
+kut₂	090	𒃰
+kutu	012	𒋻
+kuwa₂	392	𒌔
+kuya₂	392	𒌔
+kuz₃?	536	
+kuzbi	318	𒌑
+kuzbu	318	𒌑
+la	055	𒆷
+laʾu	482	𒇳
+la₁₀	314	𒋃
+la₁₂	435	𒇴
+la₂	481	𒇲
+la₃	075	𒉡
+la₄?	206a	
+la₅	482	𒇳
+la₆	322	𒆗
+la₇	381	𒌓
+la₈	168	𒂔
+lab	322	𒆗
+lab₂?	355	
+lad	366	𒆳
+lag	314	𒋃
+lagab	483	𒆸
+lagal	458	𒇬
+lagar	458	𒇬
+lah	381	𒌓
+lah₃	321	𒈛
+lah₄	206a	𒁻
+lah₆	206	𒁺
+lah₇	202	𒁽 / 𒁽𒁽
+laha₃?	321	
+laha₄	206a	𒁻
+lahar	494	𒇇
+lahar₂	540	𒁱
+lahhušu	568	𒋟
+lahru	494	𒇇
+lahrum	494	𒇇
+lahrum₂	540	𒁱
+lahta₆	282	𒁤
+lahtan	394b	𒉴
+lahtan₆	282	𒁤
+lak	314	𒋃
+laka	314	𒋃
+lal	481	𒇲
+lalʾu	482	𒇳
+lal₂	482	𒇳
+lal₃	141	𒋭
+lal₆?	552	
+lala₂	322	𒆗
+lalah	206a	𒁻
+lalla	482	𒇳
+lal-lal	482	
+lallal	482	𒇳
+lam	435	𒇴
+lam₂	172	𒉈
+lam₃	557	𒁮
+lam₅	449	𒅆
+lam₇?	436	
+lama	435	𒇴
+lama₂	172	𒉈
+lama₃	322	𒆗
+lamahuš	066c	𒍤𒆸
+lamar	322	𒆗
+lamassu	322	𒆗
+lamga?	560	
+lamma	322	𒆗
+lammar	322	𒆗
+lammu	597	𒐼
+lammu₆?	484	
+lap	322	𒆗
+laq	314	𒋃
+lar	295	𒉺
+lat	366	𒆳
+laṭ	366	𒆳
+lata	366	𒆳
+le	059	𒇷
+le₁₀	335	𒁕
+le₂	231	𒉌
+le₃	449	𒅆
+le₄	013	𒀭
+le₈	420	𒀖
+le₉	172	𒉈
+leb	355	𒈜
+lel₂	313	𒆤
+lel₄?	249	
+lem	449	𒅆
+lem₄	172	𒉈
+lep	355	𒈜
+leq	575	𒌨
+let	420	𒀖
+li	059	𒇷
+li₁₀	335	𒁕
+li₁₁	087	𒉣
+li₁₂	377	𒇺
+li₂	231	𒉌
+li₃	449	𒅆
+li₅	353	𒊭
+li₆	143	𒃶
+li₇	575	𒌨
+li₈	420	𒀖
+li₉	172	𒉈
+lib	355	𒈜
+lib₂	322	𒆗
+lib₃	384	𒊮
+lib₄	449	𒅆
+lib₅?	118	
+libi	355	𒈜
+libin	153	𒂱
+libir	455	𒅆𒂠
+libiš	424	𒀚
+libit	005	𒁀
+lid	420	𒀖
+lid₂	231	𒉌
+lidim	302	𒀢
+lig	575	𒌨
+lih	381	𒌓
+lih₃	321	𒈛
+lih₄?	377	
+lik	575	𒌨
+lik₂	314	𒋃
+liki	575	𒌨
+lil	336	𒇸
+lil₂	313	𒆤
+lil₅	552	𒋙𒉈
+lil₆	106	𒄘
+lila₂	313	𒆤
+liliru	575a	
+lilis	422	𒀗
+liliz	422	𒀗
+lillan	151	𒈗
+lillia	151	
+lim	449	𒅆
+lim₃	435	𒇴
+lim₄	172	𒉈
+lima	449	𒅆
+limi	449	𒅆
+limmu	597	𒐼
+limmu₃	473	𒐏
+limmu₄	325b	𒀼𒀸 / 𒐽
+limu	597	𒐼
+limu₃	473	𒐏
+lip	355	𒈜
+lip₂	322	𒆗
+lip₃	384	𒊮
+lipiš	424	𒀚
+liq	575	𒌨
+liq₂	314	𒋃
+liri₂	001	𒀸
+liri₆	063d	𒉫
+liri₇	322n	𒆙
+liri₈	575a	𒌩
+liru₂	001	𒀸
+liru₆	063d	𒉫
+liru₇	322n	𒆙
+liru₈	575a	𒌩
+lirum₂	001	𒀸
+lirum₆	063d	𒉫
+lirum₇	322n	𒆙
+lirum₈	575a	𒌩
+lis	377	𒇺
+liš	377	𒇺
+lit	420	𒀖
+liṭ	420	𒀖
+liṭ₂	309	𒂁
+liti	420	𒀖
+liṭi	420	𒀖
+liz	377	𒇺
+lu	537	𒇻
+lu₁₀	280	𒁖
+lu₂	330	𒇽
+lu₃	345	𒈖
+lu₄	565	𒈝
+lu₅	355	𒈜
+lu₆	575	𒌨
+lu₇	049x	𒍇
+lu₈	038	𒌷
+lu₉	295	𒉺
+lub	355	𒈜
+lubun	157	𒂲
+lud	309	𒂁
+lug	537	𒇻
+lug₂	295	𒉺
+luga₂	295	
+lugal	151	𒈗
+lugala	151	𒈗
+lugud₂	483	𒆸
+lugud₃	566b	𒈟
+lugud₄	460n	𒇮
+luh	321	𒈛
+luhu	321	𒈛
+lul	355	𒈜
+lulim	421a	𒄎
+lulima	421a	𒄎
+lulu	355	𒈜
+lum	565	𒈝
+lum₂	449	𒅆
+lum₃	309	𒂁
+lum₄	435	
+luma	565	𒈝
+lumgi	215	𒋆
+lumgi₂	224	𒋇
+lumgi₃	225	𒋋
+lumu	565	𒈝
+lumu₃	309	𒂁
+lun	295	𒉺
+lunga	215	𒋆
+lunga₂	224	𒋇
+lunga₃	225	𒋋
+lup	355	𒈜
+lut	309	𒂁
+luṭ	309	𒂁
+lutu	309	𒂁
+luṭu	309	𒂁
+m	480	𒁹
+ma	342	𒈠
+ma₁₀	471	
+ma₂	122	𒈣
+ma₃	233	𒂷
+ma₅	033	𒅡
+ma₆	532	𒈨
+ma₇	074	𒈦
+ma₈	021	𒅿
+ma₉	383	𒉿
+mad	366	𒆳
+madal	371	𒁍
+madla	371	𒁍
+madlu	371	𒁍
+madul	371	
+magar	096a	𒁑
+magara	096a	𒁑
+mah	057	𒈤
+mah₂	298	𒀠
+mah₃	412	𒌋𒅗
+maha	057	𒈤
+maha₂	298	𒀠
+mahar	449	
+mak₀	366	𒆳
+makaš	480	𒁹
+makaš₂	001	𒀸
+makkaš	480	𒁹
+makkaš₂	001	𒀸
+mal	233	𒂷
+mal₂	123	𒋛𒀀
+mal₄?	377	
+mala	233	𒂷
+malga?	278	
+malla	371	𒁍
+mam	471	𒌋𒌋
+mam₂	554	𒊩
+man	471	𒌋𒌋
+man₂	554	𒊩
+mana	471	𒌋𒌋
+mangaga?	018x	
+mangara	096a	𒁑
+mar	307	𒈥
+mar₂	437	𒀫
+mar₃	597	𒃻
+mar₅	144	
+mar₆	401	𒄯
+mara	307	𒈥
+mara₂	437	𒀫
+marad	437	𒀫
+martu	058	
+martum	058	
+maru	058	𒌉
+mas	074	𒈦
+maš	074	𒈦
+maṣ	074	𒈦
+maš₂	076	𒈧
+maš₄	295	𒉺
+mašammi	318	𒌑
+mašgi?	474	
+massa₂	294b	𒁗
+maššam	318	𒌑
+mat	366	𒆳
+maṭ	366	𒆳
+mat₂	069	𒁁
+mat₃	081	𒄷𒄭
+matšammi	318	
+me	532	𒈨
+me₁₂	172	
+me₂	427	𒈪
+me₃	098	𒀞
+me₄	069	𒁁
+me₇	250d	𒃙
+me₈	383	𒉿
+me₉	497	𒇞
+mebulug	132	𒍏
+mebulug₃	138	𒁾
+med	069	𒁁
+megida	125n	𒋰𒋾
+megida₂	125v	𒋰𒆲
+megidda	125n	𒋰𒋾
+megidda₂	125v	𒋰𒆲
+meh	057	𒈤
+mehida	061	𒈬
+mehidi	061	𒈬
+mehidu	061	𒈬
+mel	212	𒅖
+mel₂	016	𒅲
+mele₂	016	𒅲
+meli₂	016	𒅲
+mem	554	𒊩
+men	270	𒃞
+men₂	532	𒈨
+men₃	206	𒁺
+men₄	517	𒇙
+men₅	471	𒌋𒌋
+menari	597	𒃻
+menbulug	132	𒍏
+menbulug₃	138	𒁾
+mer	347	𒂇
+mer₂?	399	
+mer₃	010	𒄈
+mer₄	314	𒋃
+mere	347	𒂇
+meri₃	010	𒄈
+mes	314	𒈩
+meṣ	314	
+meš₂	532	𒈨
+mes₂?	138	
+meš₃	314	𒈩
+mesa?	314	
+mesi	314	𒈩
+met	069	𒁁
+meṭ	069	𒁁
+mez	314	𒈩
+meze	426	𒀙
+mezeg	317	𒋄
+mezem	317	𒋄
+mi	427	𒈪
+mi₂	554	𒊩
+mi₃	532	𒈨
+mi₄	270	𒃞
+mi₅	383	𒉿
+midra	295	𒉺
+migir	347	𒂇
+migir₂	348	𒂈
+mih	057	𒈤
+mil	212	𒅖
+mili	212	𒅖
+mili₂	016	𒅲
+milla	212	𒅖
+mim	554	𒊩
+mim₂?	103v	
+mim₃	471	𒌋𒌋
+min	570	𒈫
+min₂	554	𒊩
+min₃	471	𒌋𒌋
+min₄	556	𒊩𒌆
+min₆	124	𒋰
+min₇	270	𒃞
+mina	570	𒈫
+mina₃	471	𒌋𒌋
+minbulug	132	𒍏
+mir	347	𒂇
+mir₂?	399	
+miri	347	𒂇
+mis	314	𒈩
+miš	314	𒈩
+miṣ	314	𒈩
+miš₃	296	𒄑
+mit	069	𒁁
+miṭ	069	𒁁
+miti	069	𒁁
+mitu	069	𒁁
+mizal	226	𒄐
+mizeg	317	𒋄
+mizem	317	𒋄
+mu	061	𒈬
+mu₁₀	554	𒊩
+mu₁₁	021	𒅿
+mu₁₂	081	𒄷𒄭
+mu₃	033	𒅡
+mu₄	536	𒌆
+mu₅	231	𒉌
+mu₆	295	𒉺
+mu₇	016	𒅲
+mu₈	597	𒃻
+mu₉	296	𒄑
+mua	295	𒉺
+muati	295	𒉺
+muatu	295	𒉺
+mud	081	𒄷𒄭
+mud₂	069	𒁁
+mud₃	394d	𒉯
+mud₅	215	𒋆
+mud₇	066c	𒍤𒆸
+mudla	371	𒁍
+mudlu	371	𒁍
+mudra₃	371	𒁍
+mudru	295	𒉺
+mudru₃	371	𒁍
+mudru₄	540	𒁱 / 𒋠𒀸
+mudul	371	𒁍
+mug	003	𒈮
+mug₂	554	𒊩
+muga	003	𒈮
+muh	412	𒌋𒅗
+muh₂	116	𒊚
+muh₄	329	𒊨
+muhaldim	061	𒈬
+muhaldima	061	𒈬
+muk	003	𒈮
+muk₃	554	𒊩
+mul₂	376	𒋼
+mul₄	441	𒌌
+mulla	371	𒁍
+mullil	475	
+mullu	371	𒁍
+mulu₄	105	𒃷 / 𒃷𒁍
+mun₃	094	𒁴
+mun₄	331	𒋀
+mun₆	415a	𒌋𒁴
+munsub	543	𒈰
+munšub	543	𒈰
+munsub₃	107n	𒄛
+munsub₄	327	𒄝
+munu₃	246	𒃅
+munus	554	𒊩
+munuz	554	𒊩
+muq	003	𒈮
+mur	401	𒄯
+mur₁₀	536	𒌆
+mur₃	399	𒅎
+mur₇	565	𒈱
+murga	022x	
+murgišur	158	𒂢
+murgu₂	565	𒈱
+murgu₃	022x	𒅺
+murim	399	𒅎
+muru	401	𒄯
+muru₁₁	185	𒉞
+muru₁₂	313	𒆤
+muru₃	399	𒅎
+muru₄	204b	𒌲
+murub	554	𒊩
+murub₂	554n	𒊩𒇬
+murum	401	𒄯
+murum₁₁	185	𒉞
+murum₄	204b	𒌲
+mus	374	𒈲
+muš	374	𒈲
+muṣ	374	
+muš₂	102	𒈽
+muš₃	103v	𒈹
+muš₅	331	𒋀
+muš₆?	096a	
+muš₇	480	𒁹 / 𒌋𒁯
+muš₈	078	𒄷
+muš₉	427	𒈪
+mušda	440	𒁶
+mušdam	440	𒁶
+mušdama	440	𒁶
+mušen	078	𒄷
+mušena	078	𒄷
+muši	427	𒈪
+mušku	103v	𒈹
+muššagana	507	𒇚
+muššagana₂?	497	
+muštu	383	𒉿
+muštug	383	𒉿
+mušu	427	𒈪
+musub	543	𒈰
+musub₃	107n	𒄛
+musub₄	327	𒄝
+musug₅	024x	𒆈
+mut	081	𒄷𒄭
+muṭ	081	𒄷𒄭
+mut₂	069	𒁁
+muwa	295	𒉺
+muwati	295	𒉺
+muya	295	𒉺
+muyati	295	𒉺
+muz	374	𒈲
+na	070	𒈾
+na₂	431	𒈿
+na₄	229n	𒉌𒌓
+na₅	353	𒊭
+na₆	330	𒇽
+na₇	079	𒉆
+na₈	035	𒅘
+nab	129	𒀮
+nab₄	351	𒅊
+nad	366	𒆳
+nad₃	431	𒈿
+nag	035	𒅘
+nag₃	192	
+nag₄	191	
+naga	165	𒉀
+naga₂	035	𒅘
+naga₃	192	𒄤
+naga₄	191	𒄣
+nagal	458	𒇬
+nagar	560	𒉄
+nagar₃	355	
+nagara	560	𒉄
+nagiri	020	𒅚
+nah	321	𒈛
+nak	035	𒅘
+nak₂	165	𒉀
+nam	079	𒉆
+nam₃	433	𒉏
+nam₄	351	𒅊
+nama	165	𒉀
+namma	484	𒇉
+nammu	484	𒇉
+nan₃	472	𒌍
+nanam	385	𒊲
+nanam₂	384n	𒊰
+nanga₆	165	𒉀
+nanše	200v	𒀏
+nap	129	𒀮
+naq	035	𒅘
+nar	355	𒈜
+nar₃	325	𒉪
+nara	355	
+nari	355	𒈜
+naš	471	𒈦 / 𒌋𒌋
+našše	200v	𒀏
+nat	366	𒆳
+nat₂	142	𒄿
+nata	366	𒆳
+nazi	200v	𒀏
+ne	172	𒉈
+ne₂	231	𒉌
+ne₃	444	𒊊
+ne₄	552	𒋙𒉈
+ne₆	070	𒈾
+ne₇	431	𒈿
+ne₈	173	𒉋
+ned	211	𒍑
+neda	383	𒉿
+nem	433	𒉏
+nen	556	𒊩𒌆
+nen₉	556	𒊩𒆪
+nenim	385	𒊲
+nenna₂	515	𒇧
+nenni₂	515	𒇧
+neq₂	597	𒃻
+ner	325	𒉪
+nerah	374	𒈲
+nes	471	𒌋𒌋
+neš	471	𒌋𒌋
+neš₂	296	𒄑
+nesag₂	314	𒋃
+net	211	𒍑
+neṭ	211	𒍑
+ni	231	𒉌
+ni₁₀	483	𒆸
+ni₃	597	𒃻
+ni₄?	556	
+ni₅	172	𒉈
+ni₆	529	𒆸𒆸
+ni₇	433	𒉏
+ni₈	059	𒇷
+ni₉	447a	𒌋𒌓𒆤
+nib	131a	𒊋
+nid	211	𒍑
+nida₂	176	𒉒
+nidaba₂	165	𒉀
+nig	563	𒊩𒌨
+nig₂	597	𒃻
+nig₆	447a	𒌋𒌓𒆤
+niga	367	𒊺
+nigan	367	𒊺
+nigar	447a	𒌋𒌓𒆤
+nigen	529	
+nigen₂	483	
+nigen₆	200v	
+nigginaku	529	𒆸𒆸
+nigi	529	𒆸𒆸
+nigi₂	483	𒆸
+nigida	480	𒁹
+nigidaeš	585c	𒑗
+nigidamin	585a	𒑖
+nigin	529	𒆸𒆸
+nigin₁₁	495a	𒇪
+nigin₂	483	𒆸
+nigin₃	447a	𒌋𒌓𒆤
+nigin₄	447	𒌋𒌓
+nigin₆	200v	𒀏
+nigir	347	𒂇
+nigir₂	348	𒂈
+nigru	020	𒅚
+nigu	367	𒊺
+nik	563	𒊩𒌨
+nik₂	597	𒃻
+nik₅	035	𒅘
+nika	596	𒉾
+nim	433	𒉏
+nim₂	556	𒊩𒌆
+nim₃?	447	
+nim₄?	565	
+nim₅	597	𒃻
+nima	433	𒉏
+nimar	447a	
+nimbar	356	𒊷
+nimen₂	483	𒆸
+nimgin₃?	447a	
+nimgir	347	𒂇
+nimgir₂	348	𒂈
+nimin	473	𒐏
+nimina	473	𒐏
+nin	556	𒊩𒌆
+nin₂	103v	𒈹
+nin₃	529	𒆸𒆸
+nin₄	483	𒆸
+nin₅	473	𒐏
+nin₆	597	𒃻
+nin₉	556	𒊩𒆪
+nina	200v	𒀏
+nina₂	540	𒁱
+nina₃	556	𒊩𒌆
+nina₄	473	𒐏
+ninda	597	𒃻
+ninda₂	176	𒉒
+ninda₃	510	𒇌
+ninda₄?	528	
+nindan	597	𒃻
+nindar	123	𒋛𒀀
+nindu	528	𒇅
+nindu₂	510	𒇌
+ningi	215	𒋆
+ningi₂	224	𒋇
+ningi₃	225	𒋋
+ningin₃	447a	𒌋𒌓𒆤
+ningin₄	447	𒌋𒌓
+nini	529	𒆸𒆸
+ninim	385	𒊲
+ninindu	528	𒇅
+ninindu₂	510	𒇌
+ninir	325	𒉪
+ninmuš	485	𒇣
+ninna₂	515	𒇧
+ninni₂	529	𒆸𒆸
+ninni₃	597	𒃻
+ninni₄	515	𒇧
+ninni₆?	103v	
+ninni₈	375	𒌁
+ninnim₄	515	𒇧
+ninnu	475	𒐐
+ninta	211	𒍑
+ninta₂	050	
+nintah	211	𒍑
+nintah₂	050	𒀴
+nintahu	211	𒍑
+niq	563	𒊩𒌨
+niq₂	597	𒃻
+nir	325	𒉪
+nir₆	322	𒆗
+nira	325	𒉪
+nirah	374	𒈲
+nis	471	𒌋𒌋
+niš	471	𒌋𒌋
+nis₂	296	𒄑
+niš₂	296	𒄑
+nisaba₂	165	𒉀
+nisag₂	314	𒋃
+nisku	444	𒊊
+niskum	444	𒊊
+nit	211	𒍑
+niṭ	211	𒍑
+nita	211	𒍑
+nita₂	050	𒀴
+nita₄	597	𒃻
+nitah	211	𒍑
+nitah₂	050	𒀴
+nitahu	211	𒍑
+niz	471	𒌋𒌋
+nu	075	𒉡
+nu₁₀	536	𒆪
+nu₁₂	537	𒁳 / 𒇻
+nu₁₃	398	𒄴
+nu₂	431	𒈿
+nu₃	433	𒉏
+nu₄	565	𒈝
+nu₅	072a	𒆰
+nu₆	087	𒉣
+nu₇	195	𒀕
+nu₈	070	𒈾
+nu₉?	059	
+nud	431	𒈿
+nug	216	𒋐
+nug₂	221	𒋊
+nuga	191	
+nugun	072a	
+num	433	𒉏
+num₂	565	𒈝
+numdu	018v	𒅻
+numdum	018v	𒅻
+numdun	018v	𒅻
+numgišur	158	𒂢
+numu	072a	𒆰
+numun	072a	𒆰
+numun₂	066c	𒍤𒆸
+numun₃	398	𒄴
+nun	087	𒉣
+nun₃	371	𒁍
+nuna	087	𒉣
+nundu	018v	𒅻
+nundum	018v	𒅻
+nundun	018v	𒅻
+nungi	215	𒋆
+nungi₂	224	𒋇
+nungi₃	225	𒋋
+nunun	087	𒉣
+nur	325	𒉪
+nura	393	𒂟
+nuri	393	𒂟
+nurra?	151	
+nuru	393	𒂟
+nuska	295l	𒉺𒌆
+nuška	295l	𒉺𒌆
+nuska₂	295m	𒉺𒇻
+nuška₂	295m	𒉺𒇻
+nusku	295l	𒉺𒌆
+nusku₂	295m	𒉺𒇻
+nušku₂	295m	𒉺𒇻
+nussu	515	𒇧
+pa	295	𒉺
+pa₁₀	449	𒅆
+pa₁₂	383	𒉿
+pa₂	005	𒁀
+pa₃	450	𒅆𒊒
+pa₇?	078	
+pa₈	314	𒋃
+pa₉	356	𒊷
+pad	469	𒉻
+pad₂	069	𒁁
+pad₃	450	𒅆𒊒
+pad₄	449	𒅆
+pada	469	𒉻
+pag	078	𒄷
+pah	355	𒈜
+pah₃	078	𒄷
+pak	078	𒄷
+pal	009	𒁄
+pala₄	009	𒁄
+pan	439	𒉼
+pan₂?	355	
+pan₃	449	𒅆
+pana	439	𒉼
+pansur	041	
+panšur	041	𒍎
+papa₂	133	𒆍
+papnun	482	𒇳
+paq	078	𒄷
+par	381	𒌓
+par₂	074	𒁇
+par₄	249	𒆦 / 𒉌𒄑
+par₆?	344	
+para	381	𒌓
+para₁₀	344	𒁈
+para₂	074	𒁇
+para₅	488b	𒇃
+para₆	517	𒇙
+para₈	485	𒇣
+para₉	502	𒇗
+parag	344	𒁈
+parim	202	𒉺𒁽
+pat	469	𒉻
+paṭ	469	𒉻
+pat₂	069	𒁁
+paṭ₂	069	𒁁
+pata	469	𒉻
+patru	010	𒄈
+pe	383	𒉿
+pe₂	214	𒁉
+pe₃	069	𒁁
+pe₄?	015	
+pe₅	172	𒉈
+pel	172	𒉈
+pel₂	173	𒉋
+per	381	𒌓
+pes	346	𒄫
+peš	346	𒄫
+peš₁₁	589	𒄩
+peš₁₂	381	𒌓
+peš₁₃	384a	𒊴
+peš₂	596	𒉾
+peš₃	342	𒈠
+peš₄	390	𒊯
+peš₅	354b	𒆒
+peš₇	144	𒌉
+pešše	342	𒈠
+pet	324	𒂍
+pet₂	069	𒁁
+pi	383	𒉿
+pi₂	214	𒁉
+pi₃	069	𒁁
+pi₄	015	𒅗
+pi₅	172	𒉈
+pi₇?	274	
+pi₈	371	𒁍
+pid	324	𒂍
+pid₂	069	𒁁
+pih?	355	
+pihu₂	394d	𒉯
+pik	592	𒋝
+pil	172	𒉈
+pil₂	173	𒉋
+pil₇	444	𒊊
+pin	056	𒀳
+piq	592	𒋝
+pir	381	𒌓
+pir₃	400	𒄵
+pir₆	079	𒉆
+pirig	444	𒊊
+pirig₂	381	𒌓
+pirig₃	130	𒊌
+piriga	444	𒊊
+piru?	274	
+pis	346	𒄫
+piš	346	𒄫
+piš₂	596	𒉾
+piš₄	390	𒊯
+piš₅	354b	𒆒
+piša	346	𒄫
+pisag	233	𒂷
+pisag₂	314	𒋃
+pisag₃	317	𒋄
+pisan	233	𒂷
+pisan₂	314	𒋃
+pisan₃	317	𒋄
+pit	324	𒂍
+piṭ	324	𒂍
+pit₂	069	𒁁
+pu	371	𒁍
+pu₁₁	318	𒌑
+pu₂	511	𒇥
+pu₃	019	𒅤
+pu₅	015	𒅗
+pu₆	486	𒇀
+puh	355	𒈜
+puk	003	𒈮
+pul	515	𒇧
+pul₂	011	𒁔
+pul₃	009	𒁄
+pum	019	𒅤
+puq₂	078	𒄷
+pur	349	𒁓
+puru	349	𒁓
+pus?	346	
+puš₃	346	𒄫
+puš₄	595	𒂆
+puta	332	𒍠
+pute	332	𒍠
+puti	332	𒍠
+putu	332	𒍠
+puzur	411	𒌋
+puzur₂	471	𒌋𒌋
+puzur₅	019	𒅤
+qa	062	𒋡
+qa₂	319	𒂵
+qa₃	015	𒅗
+qa₆	230	𒆕
+qab₂	088	𒆏
+qab₃	335	𒁕
+qad	354	𒋗
+qad₃	090	𒃰
+qad₆?	063a	
+qadma	297	𒄞
+qadmu	012	𒋻
+qal	343	𒃲
+qal₃	049x	𒍇
+qal₄	322	𒆗
+qam	362	𒃵
+qan	143	𒃶
+qan₂	085	𒄀
+qap₂	088	𒆏
+qaptu	445	𒂂
+qaq	230	𒆕
+qar	333	𒃼
+qar₂	376x	𒋼𒀀
+qar₃?	597	
+qara₃?	597	
+qat	354	𒋗
+qat₃	090	𒃰
+qaṭ₃	090	𒃰
+qat₅	354b	𒆒
+qat₆?	063a	
+qat₇?	063c	
+qata	354	𒋗
+qe	538	𒆥
+qe₂	461	𒆠
+qe₃	085	𒄀
+qe₄	326	𒄄
+qel	483	𒆸
+qer	346	𒄫
+qer₃	483	𒆸
+qer₅	333	𒃼
+qet	313	
+qi	538	𒆥
+qi₂	461	𒆠
+qi₃	085	𒄀
+qi₄	326	𒄄
+qi₅	313	𒆤
+qi₆	230	𒆕
+qid	313	𒆤
+qid₂	371	𒁍
+qid₄?	090	
+qil	483	𒆸
+qil₂	067	𒄃
+qili₂?	067	
+qim	440	𒁶
+qimku	573	𒑜
+qin	538	𒆥
+qiq	446	𒈪𒉭
+qir	346	𒄫
+qir₃	483	𒆸
+qir₆	423	𒀘
+qir₇	444	𒄊
+qiri	346	𒄫
+qis	425	𒆧
+qiš	425	𒆧
+qišat	375	𒌁
+qit	313	𒆤
+qit₂	371	𒁍
+qit₃	069	𒁁
+qu	191	𒄣
+qu₂	536	𒆪
+qu₃	559	𒄖
+qu₅	468	𒆬
+qu₆	106	𒄘
+qub	206	𒁺
+qud	012	𒋻
+qudma	012	𒋻
+qudmu	012	𒋻
+qul	072a	𒆰
+qul₂	429	𒄢
+qum	191	𒄣
+qum₂	172	𒉈
+qum₃	565	𒈝
+qun	077	𒆲
+qup	206	𒁺
+qup₂?	089	
+qur	111	𒄥
+qur₂	366	𒆳
+qur₃?	362	
+qur₈	058	
+qur₉	483	
+quru	111	𒄥
+qut	012	𒋻
+qutu	012	𒋻
+ra	328	𒊏
+ra₂	206	𒁺
+ra₃	381	𒌓
+ra₄	083	𒋥
+ra₅?	371	
+rab	149	𒊐
+rab₂	343	𒃲
+rab₃	151	𒈗
+rab₄?	322	
+raba	149	𒊐
+rabita	168	𒂔
+rad	083	𒋥
+rag	554	𒊩
+rah	321	𒈛
+rah₂	328	𒊏
+rak	554	𒊩
+ram	183	𒉘
+ram₀	564	𒂖
+ram₂	001	𒀸
+rama	183	𒉘
+raman	366	𒆳
+ramanu	366	𒆳
+rammanu	366	𒆳
+rap	149	𒊐
+rapiku	282a	𒁩
+rapikum	282a	
+rapiqu	282a	𒁩
+raq	554	𒊩
+ras	166	𒆜
+raš	166	𒆜
+raš₂	574	𒌇
+rašu	366	𒆳
+rat	083	𒋥
+raṭ	083	𒋥
+rata	083	𒋥
+razu	366	𒆳
+re	086	𒊑
+reʾe	295m	𒉺𒇻
+reʾi	295m	𒉺𒇻
+re₁₂?	230	
+re₂	038	𒌷
+re₃	483	𒆸
+re₆	206	𒁺
+re₇	206a	𒁻
+reb	322	𒆗
+red	314	𒈩
+reg	215	𒋆
+rek	215	𒋆
+rem	483	𒆸
+rem₂	420	𒀖
+reme	483	𒆸
+reme₂	420	𒀖
+rep	322	
+req	215	𒋆
+res	115	𒊕
+reš	115	𒊕
+ret	314	𒈩
+ri	086	𒊑
+ri₁₀?	168	
+ri₁₂?	230	
+ri₂	038	𒌷
+ri₃	483	𒆸
+ri₄	555	𒍮
+ri₅	325	𒉪
+ri₆	206	𒁺
+ri₇	206a	𒁻
+rib	322	𒆗
+rid	314	𒈩
+rig	215	𒋆
+rig₂	555	𒍮
+rig₂?	555	𒍮
+rig₅	086	𒊑
+rih	321	𒈛
+rik	215	𒋆
+rik₂	555	𒍮
+rik₄	008	𒊿
+rim	483	𒆸
+rim₂	420	𒀖
+rim₄	202	𒁽
+rim₅	001	𒀸
+rimu₂	420	𒀖
+rin	483	𒆸
+rin₂	393	𒂟
+rin₃	529	𒆸𒆸
+rin₆	166	𒆜
+rina₂	393	𒂟
+rip	322	𒆗
+riq	215	𒋆
+riq₂	555	𒍮
+ris	115	𒊕
+riš	115	𒊕
+rit	314	𒈩
+riṭ	314	𒈩
+rit₂	083	𒋥
+ru	068	𒊒
+ru₁₀	058	𒋽
+ru₁₁	043v	𒌾
+ru₁₂	099	𒂗
+ru₁₃	054v	𒂙
+ru₂	230	𒆕
+ru₃	001	𒀸
+ru₄	043	𒍍
+ru₅	441	𒌌
+ru₆	168	𒂔
+ru₇	575	𒌨
+ru₈	141	𒋭
+ru₉	038	𒌷
+rub	322	𒆗
+rud	083	𒋥
+rug	008	𒊿
+ruh	321	𒈛
+ruh₂	330	𒇽
+ruk	008	𒊿
+rum	001	𒀸
+rum₃?	433	
+ruq	008	𒊿
+ruqu	008	𒊿
+ruš?	402	
+rušban	297	𒄞
+rušpan	297	𒄞
+ruṭ	083	𒋥
+sa	104	𒊓
+ša	353	𒊭
+ṣa	586	𒍝
+ša₁₀	104	𒊓
+sa₁₁	113	𒋜
+ša₁₁	330	𒇽
+sa₁₂	115	𒊕
+ša₁₂	554	𒊩
+sa₁₃	454	𒅆𒂟
+ša₁₃	233	𒂷
+sa₁₄	322	𒆗
+sa₁₅?	597	
+ša₁₅?	454	
+sa₁₆	381	𒌓
+sa₁₇	551	𒋙𒉀
+ša₁₇	455	𒅇
+sa₁₈	214	𒁉
+ša₁₈	457	𒁲
+sa₁₉	384	𒊮
+sa₂	457	𒁲
+ša₂	597	𒃻
+sa₂₀	353	𒊭
+sa₂₁	551v	𒊾
+ša₂₁	214	𒁉
+ša₂₂	082	𒄷𒈿
+ša₂₃	344	𒁈
+ša₂₄	115	𒊕
+ša₂₆	389	
+sa₃	586	𒍝
+ša₃	384	𒊮
+ṣa₃	013	𒀭
+sa₄	082	𒄷𒈿
+ša₄	206	𒁺
+sa₅	123	𒋛𒀀
+sa₆	356	𒊷
+ša₆	356	𒊷
+sa₇	351	𒅊
+sa₈	013	𒀭
+sa₉	074	𒈦
+ša₉	191	𒄣
+sab	295k	𒉺𒅁
+šab	295k	𒉺𒅁
+ṣab	393	𒂟 / 𒂟
+šab₂	384	𒊮
+šab₄	532	𒈨
+šab₅	295m	𒉺𒇻
+saba	295k	
+šaba	295k	𒉺𒅁
+sabad	264	𒃪
+sabad₂	242	𒂿
+sabad₃	260	𒃖
+šabalbal	072a	𒆰
+sabar₂	551v	
+šabu	375	𒌁
+sad	366	𒆳
+šad	366	𒆳
+sad₂	264	𒃪
+šad₂?	061	
+sad₃	242	𒂿
+sad₄	260	𒃖
+šada	366	𒆳
+šadi	366	𒆳
+šadu	366	𒆳
+sag	115	𒊕
+šag	115	𒊕
+sag₁₀	454	𒅆𒂟
+sag₁₁	538	𒆥
+sag₁₂	351	𒅊
+sag₁₃	367	
+sag₃	295	𒉺
+šag₃	295	𒉺
+sag₄	151	𒈗
+šag₄	384	𒊮
+sag₅	314	𒉠
+šag₅	356	𒊷
+šag₆?	592	
+sag₇	143	𒃶
+sag₈	322	𒆗
+sag₉	356	𒊷
+saga	115	𒊕
+saga₁₀	454	
+saga₁₁	538	𒆥
+šaga₂	219	
+saga₇	143	
+saga₈	314	
+šagan	428	𒌋𒃶
+šagan₂	208	
+šagar	036	𒅥
+sagbar	401	𒄯
+sagdudu	497	𒇞
+sagdul	419	𒌋𒊕
+sagga	314	𒋃
+saggar	115	𒊕
+saggar₂	401	𒄯
+sagkurini	352	
+sagkurini?	352	
+sagšu	419	𒌋𒊕
+sagtag	001	𒀸
+sagtag₃	360	𒀹
+sagtak	001	𒀸
+sagtak₃	360	𒀹
+sagtak₄	480	
+sah	313	𒆤
+šah	053	𒋚
+ṣah	172	𒉈
+šah₂	467	𒂄
+ṣah₂	313	𒆤
+sah₂?	053	
+šah₃	313	𒆤
+sah₃?	467	
+sah₄	569	𒄗
+saha	053	
+šaha	053	𒋚
+šaha₂	467	
+šahan	366	𒆳
+sahan?	374	
+šahan₂?	374	
+šahan₃	467	𒂄
+sahar	212	𒅖
+sahardub	212	𒅖
+sak	115	𒊕
+šak	115	𒊕
+ṣak	332	𒍠
+sak₃	295	𒉺
+sak₆	332	𒍠
+šak₆?	592	
+šak₇	144	𒌉
+saka	538	
+šakan	428	𒌋𒃶
+šakan₂	444	𒄊
+šakan₃	208	𒀲
+šakan₅	394e	𒉮
+šakir	046	𒍀
+šakir₃	042	𒌼
+šakira	046	𒍀
+šakira₃	042	𒌼
+šakiri	046	𒍀
+sakkan	444	𒄊
+šakkan	428	
+šakkan₂	444	𒄊
+šakkan₇	237	𒂼
+sal	554	𒊩
+šal	554	𒊩
+ṣal	231	𒉌
+sal₂	457	𒁲
+šal₂	062	𒋡
+sal₃	231	𒉌
+šal₃	231	𒉌
+sal₄	062	𒋡
+sala	554	𒊩
+sala₄	062	𒋡
+salagud	457	𒁲
+salah	381	𒌓
+ṣalam	329	
+šalambi	384	𒊮
+salgud	457	𒁲
+salim	457	𒁲
+salubug₂	480	𒁹
+salugub	001	𒀸
+salugub₂	480	𒁹
+sam	318	𒌑
+šam	318	𒌑
+šam₄	079	𒉆
+samag	138	𒁾 / 𒌝
+samag₃	135a	𒌡
+samag₆	351	𒅊
+šaman₂	428	𒌋𒃶
+saman₄	428	𒌋𒃶
+saman₅	394e	𒉮
+šamaš	381	𒌓
+šamaš₂	471	𒌋𒌋
+san	115	𒊕
+san₂	008	𒊿
+šan₂	126	𒋳
+šanaba	572	𒑛
+šanabaku₂	473	𒐏
+šanabi	572	𒑛
+šanabi₂	473	𒐏
+šanapi	572	𒑛
+sandak₄	480	𒁹
+šandilimma	110	𒆯
+sanga	314	𒋃
+šanga	314	𒋃
+sangu	314	𒋃
+santa	001	𒀸
+santa₃	360	𒀹
+santa₄	480	𒁹
+santag	001	𒀸
+šantag	480	𒁹
+santag₃	360	𒀹
+santag₄	480	𒁹
+santak	001	𒀸
+šantak	480	𒁹
+santak₃	360	𒀹
+santak₄	480	𒁹
+sap	295k	𒉺𒅁
+šap	295k	𒉺𒅁
+ṣap	393	𒂟
+sap₂	393	𒂟
+sap₃	295m	𒉺𒇻
+šap₅	295m	𒉺𒇻
+ṣapa	393	𒂟
+saq	115	𒊕
+šaq	115	𒊕
+šaqa₂	219	𒋏
+šaqu₂	219	𒋏
+šaqu₃?	191	
+ṣar	491	𒇡
+šarʾu	409	𒄶
+sar₂	396	𒊹
+šar₂	396	𒊹
+ṣar₂	437	𒀫
+sar₃	231	𒉌
+šar₃	151	𒈗
+ṣar₃	374	
+sar₄	373	𒋤
+šar₄	471	𒌋𒌋
+sar₅	103v	𒈹
+šar₅	399	𒅎
+sar₆	491	𒇡
+šar₆	344	𒁈
+sar₇	355	𒈜
+šar₇	012	𒋻
+sar₈	164	𒋧
+šar₈	231	𒉌
+šar₉	172	
+šara	344	𒁈
+ṣara	491	𒇡
+sara₂	396	𒊹
+šara₃	485	𒇣
+šara₄	493	𒇆
+šara₅	399	𒅎
+šara₆	396	𒊹
+šara₉	381	
+šarag	381	𒌓
+šaran	292	𒁙
+šaran₂	290	𒁬
+šardiš?	409e	
+sare₂	396	𒊹
+sargad	407	𒄲
+šargad	407	𒄲
+šargadu	407	𒄲
+šargal	396	𒊹
+šargaldiš	408	𒐲
+šargalmin	408v	𒐳
+šargeš	409e	
+šarin	290	𒁬
+šarra	151	𒈗
+šarru	151	𒈗 / 𒈗
+šarru₂	471	𒌋𒌋
+šarrum	151	𒈗
+šaru	409	𒄶
+šas	331	𒋀
+šaš	331	𒋀
+šaṣ	331	𒋀
+šaški	371	𒁍
+šašku	371	𒁍
+sat	366	𒆳
+šat	366	𒆳
+šaṭ	366	𒆳
+sata	366	𒆳
+šata	366	𒆳
+šatam	355	𒈜
+šaṭam	355	𒈜
+šattam	355	𒈜
+šaz	331	
+se	112	𒋛
+še	367	𒊺
+ṣe	147	𒍢
+še₁₀	536	𒆪
+se₁₁	592	𒋝
+še₁₁	355	𒈜
+se₁₂	351	𒅊
+še₁₃	206	𒁺
+še₁₄	314	𒋃
+še₁₅	375	𒌁
+še₁₆	331	𒋀
+še₁₉	164	𒋧
+se₂	084	𒍣
+še₂	112	𒋛
+ṣe₂	084	𒍣
+se₂₀	147	𒍢
+še₂₀?	449	
+še₂₁	082	𒄷𒈿
+še₂₂	541	𒂞
+še₂₃	103v	𒈹
+še₂₄	102	𒈽
+še₂₅	024	𒆂
+še₂₆	025b	𒅝
+se₂₇	103v	𒈹
+še₂₇	567	𒋞
+se₂₈	102	𒈽
+še₂₈?	015	
+se₃	164	𒋧
+se₃₀	355	
+še₆	172	𒉈
+se₈	457	𒁲
+še₈	544	𒋁
+še₉	546	𒋙𒀭
+šeb	532	𒈨
+šeb₄	567	𒋞
+šed	314	𒋃
+šed₁₂	103v	𒈹
+šed₁₃	102	𒈽
+šed₁₄	024	𒆂
+šed₁₅	025b	𒅝
+šed₁₆	567	𒋞
+šed₁₇?	015	
+šed₃	063d	𒉫
+šed₄	063c	𒆑
+šed₅	354b	𒆒
+sed₆	103v	𒈹
+šed₆	536	𒆪
+sed₇	102	𒈽
+sedi₆	103v	𒈹
+sedi₇	102	𒈽
+šedu	322	𒆗
+šedu₃	582	𒀆
+šedur	508	𒇤
+seg	592	𒋝
+šeg	592	
+seg₁₀	164	𒋧
+šeg₁₀	024	𒆂
+šeg₁₁	025b	𒅝
+šeg₁₂	567	𒋞
+šeg₁₃?	015	
+seg₁₄	551v	𒊾
+seg₁₅	322	𒆗
+seg₁₆	143	𒃶
+seg₁₇	085	𒄀
+seg₁₈	538	𒆥
+seg₂	539	𒋠
+seg₃	295	𒉺
+seg₄	567	𒋞
+seg₅	454	𒅆𒂟
+šeg₅	039	𒍋
+seg₆	356	𒊷
+šeg₆	172	𒉈
+seg₇	351	𒅊
+šeg₇	399	𒅎
+seg₈	092c	𒃰𒋺𒄑
+šeg₈	551	𒋙𒉀
+seg₉	112	𒋛
+šeg₉	551v	𒊾
+šega₉	551v	𒊾
+šegbar?	551v	
+segga	551v	𒊾
+šegga	551v	𒊾
+šeh	053	𒋚
+ṣeh	053	𒋚
+seh₂	313	𒆤
+ṣeh₂	172	𒉈
+sek	592	𒋝
+šek	592	𒋝
+šek₂	539	𒋠
+sel	012	𒋻
+šel	012	𒋻
+šel₄	554	𒊩
+sem	215	𒋆
+šem	215	𒋆
+sem₃	424	
+šem₃	424	𒀚
+šem₄	426	𒀙
+sem₅	423	
+šem₅	423	𒀘
+šembi	219x	𒋍
+šembi₂	215	𒋆
+šembi₃	214a	𒁌
+šembizi	215	𒋆
+šembizid	215	𒋆
+šembulug₃	220	𒋌
+šembulug₄	217	𒋈
+šembulug₅	218	𒋉
+šemešal	222	𒋑
+šemmišla	222	𒋑
+šemmug	218	𒋉
+šemšala	222	𒋑
+šen	008	𒊿
+šen₂	132	𒍏
+šen₃	079	𒉆
+šen₄	138	𒁾
+šen₆	212	𒅖
+šenbar?	551v	
+šendilima	110	𒆯
+šeneg	093	
+sep	532	𒈨
+šep	532	𒈨
+ṣep	395	
+šeq₂	539	𒋠
+ser	373	𒋤
+šer	071	𒋓
+ṣer	374	𒈲
+šer₁₀	374	𒈲
+ser₂	371	𒁍
+šer₂	371	𒁍
+šer₄	171	𒍜
+šer₇	325	𒉪
+šerah	374	𒈲
+šerba	494	𒇇
+šeri	071	
+šerid	126	𒋳
+šerim	126	𒋳
+šerim₂	491	𒇡
+šerimsur	492	𒇜
+šerinsur	492	𒇜
+šeru	171	𒍜
+ses	331	𒋀
+šes	331	𒋀
+šeš	331	𒋀
+šeṣ	331	𒋀
+šeš₂	544	𒋁
+šeš₃	581	𒀅
+šeš₄	541	𒂞
+šešlam	065	𒋂
+šeššed	063d	𒉫
+šet	314	𒋃
+si	112	𒋛
+ši	449	𒅆
+ṣi	147	𒍢
+si₁₁	592	𒋝
+si₁₂	351	𒅊
+si₁₃	079	𒉆
+si₁₄	309	𒂁
+si₁₇	449	𒅆
+si₁₈?	025b	
+si₁₉	028	𒆉
+si₂	084	𒍣
+ši₂	112	𒋛
+ṣi₂	084	𒍣
+si₂₀	147	𒍢
+si₂₁	322	𒆗
+si₂₂	085	𒄀
+si₂₃	429	𒄢
+si₂₉	295	𒉺
+si₃	164	𒋧
+ši₃	592	𒋝
+ṣi₃	112	𒋛
+si₃₀	375	
+si₄	113	𒋜
+si₅	455	𒅆𒂠
+ši₅	536	𒆪
+si₆	537	𒇻
+ši₆	215	𒋆
+ši₇	351	𒅊
+si₈	457	𒁲
+sib	532	𒈨
+šib	532	𒈨
+ṣib	395	𒍦
+šib₀	472	𒌍
+sib₂	295m	𒉺𒇻
+šib₂	068	𒊒
+ṣib₂	190	𒍨
+sib₃	395	𒍦
+šib₃	295k	𒉺𒅁
+šib₄	395	𒍦
+siba	295m	𒉺𒇻
+sibad	295m	𒉺𒇻
+ṣibi	395	𒍦
+sibir₂	054v	𒂙
+šibir₂?	054v	
+šid	314	𒋃
+sid₂	314	𒋃
+šid₂?	063a	
+šid₃	063d	𒉫
+šidi	440	𒁶
+šidim	440	𒁶
+sidug	489	𒇂
+sidug₂	499n	𒇄
+siduga₂	499n	𒇄
+sidugga	489	𒇂
+sidugga₂	499n	𒇄
+sig	592	𒋝
+šig	592	𒋝
+sig₁₀	164	𒋧
+sig₁₄	551v	𒊾
+sig₁₅	322	𒆗
+sig₁₆	143	𒃶
+sig₁₇	085	𒄀
+sig₁₈	538	𒆥
+sig₂	539	𒋠
+sig₃	295	𒉺
+sig₄	567	𒋞
+sig₅	454	𒅆𒂟
+šig₅	039	𒍋
+sig₆	356	𒊷
+sig₇	351	𒅊
+sig₈	092c	𒃰𒋺𒄑
+sig₉	112	𒋛
+siga	592	𒋝
+siga₁₈	538	𒆥
+sigga	551v	𒊾
+sigga₂	295	𒉺
+sih	053	𒋚
+ših	053	𒋚
+sih₂	313	𒆤
+ših₂	313	𒆤
+sih₄	102	𒈽
+sih₅	569	𒄗
+sik	592	𒋝
+šik	592	𒋝
+sik₁₀	164	𒋧
+sik₂	539	𒋠
+šik₂	539	𒋠
+šika	055	𒆷
+šikahara	568	𒋟
+siki	539	𒋠
+siki₂	381	𒌓
+sikil	564	𒂖
+šikin	597	𒃻
+šikin₂	309	𒂁
+šikira₃	042	𒌼
+sil	012	𒋻
+šil	012	𒋻
+ṣil	087	𒉣
+sil₂	087	𒉣
+ṣil₂	427	𒈪
+sil₃	062	𒋡
+šil₃	411	𒌋
+sil₄	427	𒈪
+šil₄	377	
+sil₆	158	𒂢
+sil₇	159	𒂣
+sil₈	071	𒋓
+sil₉	160	𒂤
+sila	012	𒋻
+sila₁₁	314	𒋃
+sila₃	062	𒋡
+sila₄	252	𒃢
+silag	314	𒋃
+silaku	252	𒃢
+silal	158	𒂢
+silig	044	𒍂
+šilig	044	𒍂
+silig₅	041	𒍎
+šilig₅	041	𒍎
+silig₆	024	𒆂
+šilig₆	024	𒆂
+silim	457	𒁲
+silim₂	322	𒆗
+silima	457	𒁲
+silima₂	322	𒆗
+sim	079	𒉆 / 𒋆
+šim	215	𒋆
+ṣim	555	𒍮
+sim₂	164	𒋧
+šim₂	079	𒉆
+sim₃	457	𒁲
+sim₄?	483	
+sim₅?	555	
+šimbi	219x	𒋍
+šimbi₂	215	𒋆
+šimbi₃	214a	𒁌
+šimbizi	215	𒋆
+šimbulug₂?	216	
+šimbulug₃	220	𒋌
+šimbulug₄	217	𒋈
+šimbulug₅	218	𒋉
+simed	001	𒀸
+šimešal	222	𒋑
+šimeššal	222	𒋑
+simig	138	𒁾
+šimmešla	222	𒋑
+šimmug	218	𒋉
+simug	338	𒌣
+sin	472	𒌍
+šin	008	𒊿
+ṣin	472	𒌍
+sin₂	079	𒉆
+šin₂?	570	
+šina	570	𒈫
+šindilib	110	𒆯
+šindilimma	110	𒆯
+šinig	093	𒋒
+sip	532	𒈨
+šip	532	𒈨
+ṣip	395	𒍦
+šip₀	472	𒌍
+sip₂	295m	𒉺𒇻
+sip₃	395	𒍦
+šip₃	295k	𒉺𒅁
+sip₄	295k	𒉺𒅁
+sipa	295m	𒉺𒇻
+sipa₂	295k	𒉺𒅁
+sipad	295m	𒉺𒇻
+siq	592	𒋝
+šiq	592	𒋝
+šiq₂	539	𒋠
+šiq₄	024	𒆂
+siqqa	295	
+sir	373	𒋤
+šir	071	𒋓
+ṣir	374	𒈲
+šir₁₀	374	𒈲
+sir₂	371	𒁍
+šir₂	371	𒁍
+sir₄	071	𒋓
+šir₄	171	𒍜
+sir₅?	075	
+šir₅?	075	
+šir₆	144	𒌉
+šir₈	373	𒋤
+širam	171	𒍜
+sirara	200v	𒀏
+sirara₅	195	𒀕
+siraran	200v	𒀏
+siraš	215	𒋆
+siraš₂	224	𒋇
+siraš₃	225	𒋋
+širi₄	171	
+širim	171	𒍜
+siris	215	𒋆
+siriš	215	𒋆
+siris₂	224	𒋇
+siris₃	225	𒋋
+siris₄	214	𒁉
+sirsir	371a	𒁎
+siru	071	𒋓
+širu	171	𒍜
+sirum	071	𒋓
+širum	171	𒍜
+sis	331	𒋀
+siš	331	𒋀
+šiš	331	𒋀
+šiṣ	331	𒋀
+ṣiṣ	069	𒁁
+šiš₂	544	𒋁
+siskur	438	𒀬
+siškur	438	𒀬
+šit	314	𒋃
+šiṭ	314	𒋃
+sit₂	314	𒋃
+šita₃	083	𒋥
+šita₄	442	𒌋𒆤
+šita₅	314	𒋃
+šitan	083	
+šiti	314	𒋃
+šitim	440	𒁶
+šitim₂	314	𒋃
+šiz	331	𒋀
+šizbu	319	𒂵
+sizkur	438	𒀬
+šu	354	𒋗
+ṣu	555	𒍮
+su₁₀	102	𒈽
+šu₁₀	061	𒈬
+su₁₁	015	𒅗
+su₁₂	164	𒋧
+šu₁₂	026	𒆃
+su₁₃	371	𒁍
+šu₁₃	214	𒁉
+su₁₄	555	𒍮
+šu₁₄	126	𒋳
+su₁₅	214	𒁉
+šu₁₅?	555	
+su₁₆	011	𒁔
+šu₁₆	447	𒌋𒌓
+su₁₇	467	𒂄
+su₁₈	595	𒂅
+su₂	006	𒍪
+ṣu₂	006	𒍪
+su₂₀	215	𒋆
+su₃	373	𒋤
+su₄	113	𒋜
+šu₄	411	𒌋
+su₅	536	𒆪
+šu₅	520	𒇟
+su₆	018x	𒅾
+šu₆	521	𒇠
+su₇	460v	𒇭
+šu₇?	597	
+su₈	206a	𒁻
+sub	025	𒅢
+šub	068	𒊒
+sub₂	206a	𒁻
+sub₃	107n	𒄛
+šub₃	295k	𒉺𒅁
+sub₄	033	𒅡
+šub₄	543	𒈰
+sub₅	543	𒈰
+šub₅	066b	𒍤𒂠 / 𒍤𒆸
+sub₆	126	𒋳
+šub₆	314	𒋃
+sub₇	068	𒊒
+suba₄?	103v	
+šuba₄?	103v	
+šuba₅	068	𒊒
+subar	053	𒋚
+šubar	053	𒋚
+subi₄	103v	
+subir	053	𒋚
+šubtu₃	166e	𒆜𒆸
+šubtum₃	166e	𒆜𒆸
+subu	126	𒋳
+šubul	013	𒀭
+subur	053	𒋚
+šubur	053	𒋚
+subur₂	321	𒈛
+šubur₂?	050	
+šubura	053	𒋚
+sud	373	𒋤
+šud	373	𒋤
+sud₂	083	𒋥
+šud₂	371	𒁍
+šud₃	026	𒆃
+sud₄	371	𒁍
+šud₄	314	𒋃
+šude₃?	026	
+šudu₃	026	𒆃
+šudul	545	𒋙
+šudul₂	459	𒌋𒌆
+šudul₄	348	𒂈 / 𒌪
+šudul₅	575b	𒌪
+šudul₆	442	𒌋𒆤
+šudulu	545	𒋙
+šudum	314	𒋃
+šudun	545	𒋙
+šudun₂	459	𒌋𒌆
+šudun₄	348	𒂈
+šudun₅	575b	𒌪
+sug	522	𒆹
+šug	469	𒉻
+sug₂	206a	𒁻
+sug₄	373	𒋤
+sug₅	595	𒂅
+sug₇	016	𒅲
+sug₈	460v	𒇭
+sugal₇	321	𒈛
+sugin	069	𒁁
+šugur	151	𒈗
+suh	102	𒈽
+šuh	102	𒈽
+suh₁₀	103v	𒈹
+šuh₂	053	𒋚
+suh₂?	403	
+suh₃	569	𒄗
+suh₄	313	𒆤
+suh₅	536	𒆪
+suh₆	201	𒁼
+suh₇	061	𒈬
+suhirim	460n	𒇮
+suhirin	460n	𒇮
+suhub	547	𒋙𒀯
+šuhub	547	𒋙𒀭 / 𒋙𒀯
+suhul	547	𒋙𒀭 / 𒋙𒀯
+suhur	403	𒋦
+suhuš	201	𒁼
+šuhuš	201	𒁼
+šuhuš₂	204n	
+suk	522	𒆹
+šuk	469	𒉻
+šuk₂	003	𒈮
+suk₃	049x	𒍇
+šuk₃	522	𒆹
+sukal	321	𒈛
+šukal	321	𒈛
+sukkal	321	𒈛
+šukkal	321	𒈛
+šuku	469	𒉻
+suku₅	102	𒈽
+suku₆	103v	𒈹
+sukud₂	102	𒈽
+sukud₃	103v	𒈹
+šukun₃	469	𒉻
+šukur₂	469	𒉻
+sukuš	103v	𒈹
+sul	467	𒂄
+šul	467	𒂄
+sul₂	231	𒉌
+sul₃	018x	𒅾
+šul₃	457	𒁲
+sul₄	460v	𒇭
+sulgar	547	𒋙𒀭 / 𒋙𒀯
+sullat₂	295	𒉺
+šullat₂	295	𒉺
+sullim	054v	𒂙
+sulu	012	𒋻
+sulug	355	𒈜
+suluhu₃	066a	𒍤𒀀 / 𒍤𒆸
+sulumhi₃	066a	𒍤𒀀 / 𒍤𒆸
+sulun	355	
+sum	164	𒋧
+šum	126	𒋳
+ṣum	555	𒍮
+sum₂	555	𒍮
+šum₂	164	𒋧
+šum₃	061	𒈬
+sum₄	018x	𒅾
+sum₅	395	𒍦
+šum₅	011	𒁔
+sum₆	126	𒋳
+sumaš	182	𒋨
+sumu	164	𒋧
+šumu	061	𒈬
+šumu₂	164	𒋧
+šumu₃	126	𒋳
+sumug	138	𒁾 / 𒌝
+sumug₃	135a	𒌡
+sumugan	444	𒀲 / 𒄊
+sumugga	444	𒄊
+sumukan	444	𒄊
+sumun₂	429	𒄢
+sumuna₂	429	𒄢
+sumunu₂	429	𒄢
+sumuqan	444	𒄊
+sumur	329	𒊨
+sumur₂	403	𒋦
+sumur₃	543	𒈰
+šun	008	𒊿
+sun₂	429	𒄢
+sun₃	164	𒋧
+šun₃	429	𒄢
+sun₄	018x	𒅾
+šun₄	164	𒋧
+sun₅	011	𒁔
+sun₆	008	𒊿
+sun₇	322	𒆗
+suna₂	429	𒄢
+sungin	069	𒁁
+šup	068	𒊒
+šup₂	001	𒀸
+sup₂?	206a	
+šup₃	295k	𒉺𒅁
+suq	522	𒆹
+šuq	469	𒉻
+sur	101	𒋩
+šur	101	𒋩
+ṣur	437	𒀫
+sur₁₁	536	𒆪
+sur₁₂	460v	𒇭
+sur₁₄	115	𒊕
+sur₂	329	𒊨
+šur₂	329	𒊨
+ṣur₂	374	𒈲
+šur₃	071	𒋓
+sur₄	390	𒊯
+sur₅	481	𒇲
+sur₈	491	𒇡
+sur₉	122d	𒋪
+sura	101	𒋩
+sura₁₂	460v	𒇭
+sura₉	122d	𒋪
+suri	207	𒌈
+šurim	494	𒇇
+šurim₃	493	𒇆
+šurin₄?	286	
+šurin₅	290	𒁬
+surru	122d	𒋪
+ṣurṣub	309	𒂁
+ṣurṣub₂	322	𒆗
+šuru	494	𒇇
+ṣuru	437	𒀫
+šuru₂	485	𒇣
+šuru₃	493	𒇆
+suru₅	481	𒇲
+šuru₆	063d	𒋺
+šurum	494	𒇇
+šurum₃	493	𒇆
+šurum₆	063d	𒋺
+šurum₇	177	
+šurun	494	𒇇
+šurun₂	485	𒇣
+šurun₃	493	𒇆
+šurun₄	286	𒁨
+šurun₅?	290	
+sus	102	𒈽
+suš	536	𒆪
+šuš	411	𒌋
+sus₂	103v	𒈹
+suš₂	231	𒉌
+suš₃	371	𒁍
+šuš₃	212	𒅖
+šuš₄	126	𒋳
+šuš₅	520	𒇟
+šuš₆	521	𒇠
+šušana	571	𒑚
+šušana₂	471	𒌋𒌋
+šušanaku	471	𒌋𒌋
+šušbar	300	𒀨
+sušbu	102	𒈽
+šusbu	102	𒈽
+susbu₂	102	𒈽
+susbu₄	103v	𒈹
+šušgim	297	𒄞
+šušmaš	300	𒀨
+šušu	083	𒋥
+susu?	083	
+šušudi	026	𒆃
+šušur	325a	𒀼
+šušur₂	365	𒀽
+šušurum	177n	
+šut	373	𒋤
+šuṭ	373	𒋤
+sutu	074	𒁇 / 𒑏
+šutug	469	𒉻
+šutul	545	𒋙
+šutul₂	459	𒌋𒌆
+šutul₄	348	𒂈
+šutul₅	575b	𒌪
+šutul₆	442	𒌋𒆤
+šutum₃	314	
+šutun₄	348	𒂈
+šutun₅	575b	𒌪
+šutur	057	𒈤
+suz	102	𒈽
+šuz	373	𒋤
+suz₂	103v	𒈹
+suzbu₂	102	𒈽
+šuzi	575	𒌨
+ta	139	𒋫
+ṭa	335	𒁕
+ta₂	335	𒁕
+ṭa₂	139	𒋫
+ta₃	126	𒋳
+ṭa₃	396	𒄭
+ta₄	557	𒁮
+ṭa₄	557	𒁮
+ta₅	381	𒌓
+ta₆	063d	𒋺
+ta₇	383	𒉿
+ta₈	396	𒄭
+ta₉	574	
+tab	124	𒋰
+ṭab	124	𒋰
+tab₂	010	𒄉
+ṭab₃	537	𒁳
+ṭab₆	396	𒄭
+taba	124	𒋰
+tad	063d	𒋺
+tag	126	𒋳
+tag₄	063d	𒋺
+taga	126	𒋳
+tah	169	𒈭
+ṭah	169	𒈭
+tah₃	061	𒈬
+taha	169	𒈭
+tahta	089	
+tahtu	089	
+tak	126	𒋳
+tak₄	063d	𒋺
+taka	126	𒋳
+taka₄	063d	𒋺
+tal	086	𒊑
+ṭal	086	𒊑
+tal₂	383	𒉿
+tal₃	001	𒀸
+tal₄	480	𒁹
+tala	086	𒊑
+tala₂	383	𒉿
+tam	381	𒌓
+ṭam	557	𒁮
+tam₂	557	𒁮
+ṭam₂	381	𒌓
+tam₃	094	𒁴
+tam₄	207	𒌈
+tam₆	440	𒁶
+tama	381	
+tan	322	𒆗
+ṭan	322	𒆗
+tan₂	270	𒃞
+tan₃	241	𒃩
+tan₄	248	𒃋
+tan₆	211n	𒍕
+tan₇	259n	𒃃
+tan₈	575	𒌨
+tana	322	𒆗 / 𒋿
+tap	124	𒋰
+ṭap	124	𒋰
+ṭap₃	537	𒁳
+tapa	124	𒋰
+taq	126	𒋳
+tar	012	𒋻
+ṭar	012	𒋻
+tar₂	113	𒁯
+ṭar₂	113	𒁯
+tar₅	085	𒄀
+tara	012	𒋻
+tara₄	540	
+tarah₂	540	
+targul	122a	𒈣𒈮
+tari	111	𒄥
+tarim	513	
+taru	111	𒄥
+taru₅	085	𒄀
+tas	575	𒌨
+taš	575	𒌨
+taṣ	575	𒌨
+ṭaš	575	𒌨
+taš₂	480	𒁹
+taš₃	339	𒀾
+taša	575	𒌨
+taskarin	536	𒌆
+taškarin	536	𒌆
+tat	063d	𒋺
+ṭat	063d	𒋺
+taz	575	𒌨
+te	376	𒋼
+ṭe	457	𒁲
+te₁₀	457	𒁲
+te₃	165	𒉀
+ṭe₃	172	𒉈
+te₄	172	𒉈
+ṭe₄	376	𒋼
+te₅	536	𒌆
+te₆	314	𒋃
+te₈	334	𒀉
+teb	537	𒁳
+ṭeb	537	𒁳
+teg₃	376	𒋼
+teh₂	134	𒌝
+tehe	138	𒁾
+tehe₃	433	𒉏
+tehi	138	𒁾
+tehi₂	134	𒌝
+tehi₃	433	𒉏
+tek	106	𒄘
+ṭel	069	
+tem	094	𒁴
+ṭem	094	𒁴
+ṭem₂	440	𒁶
+teme	165	𒉀
+temen	376	𒋼
+ten	376	𒋼
+ṭen	465	
+ten₂	465	𒁷
+ten₃	347	𒂇
+tep	537	𒁳
+ṭep	537	𒁳
+ter	375	𒌁
+ṭer	123	𒋛𒀀
+ter₂	012	𒋻
+ter₄	123	𒋛𒀀
+ṭer₅	375	𒌁
+teš	001	𒀸
+tes₂	575	𒌨
+teš₂	575	𒌨
+tešbi	318	𒌑
+tešub	399	𒅎
+ṭi	457	𒁲
+ti₃	094	𒁴
+ti₄	457	𒁲
+ṭi₄	376	𒋼
+ti₅	069	𒁁
+ṭi₅	172	𒉈
+ti₇	376	𒋼
+ti₈	334	𒀉
+ti₉	172	𒉈
+tib	537	𒁳
+ṭib	537	𒁳
+tibir	126	𒋳
+tibira₂	023	𒅪
+tid?	399	
+tig₃	352	𒂀
+tik	106	𒄘
+tik₂	231	𒉌
+ṭil	001	𒀸
+til₂	459a	𒇯
+ṭil₂	069	𒁁
+til₄	001	𒀸
+til₅	480	𒁹
+til₇	383	𒉿
+til₈	072a	𒆰
+tile	069	𒁁
+tilhar	242	𒂿
+tim	094	𒁴
+ṭim	094	𒁴
+tim₂	207	𒌈
+ṭim₂	440	𒁶
+tim₃	465	𒁷
+tin	465	𒁷
+ṭin?	465	
+tin₃	347	𒂇
+tinur	510	𒇌
+tinur₃	528	𒇅
+tinuru	510	𒇌
+tip	537	𒁳
+ṭip	537	𒁳
+tiq	106	𒄘
+tiq₂	231	𒉌
+tir	375	𒌁
+ṭir	123	𒋛𒀀
+tir₂	012	𒋻
+ṭir₂	012	𒋻
+tir₃	113	𒁯
+ṭir₃	101	𒋩
+tir₄	123	𒋛𒀀
+ṭir₄	113	𒁯
+tir₅	439	𒉼
+ṭir₅	375	𒌁
+tiš	480	𒁹
+ṭiš	480	𒁹
+tis₂	575	𒌨
+tiš₂	575	𒌨
+tiṣ₂	575	𒌨
+tiškarin	536	𒌆
+tiškarini	536	𒌆
+tišpak	102	𒈽
+tiz	480	𒁹
+tiz₂	575	𒌨
+tu	058	𒌅
+ṭu	595	𒂅
+tu₁₀	089	𒄽
+tu₁₁	088	𒄸
+tu₁₂	574	𒌇
+tu₁₃	515	𒇧
+tu₁₄	314	𒋃
+tu₁₅	399	𒅎
+tu₁₆?	352	
+tu₁₈	595	𒂅
+tu₁₉?	144	
+tu₂	381	𒌓
+ṭu₂	058	𒌅
+tu₂₀	230	𒆕
+tu₂₁	459a	𒇯
+tu₂₂	165	𒉀
+tu₂₃	165b	𒉂
+tu₂₅	434	𒉐
+tu₃	206	𒁺
+ṭu₃	206	𒁺
+tu₄	207	𒌈
+ṭu₄	207	𒌈
+tu₆	016	𒅲
+ṭu₆	016	
+tu₈	433	𒉏
+tu₉	536	𒌆
+tub	138	𒁾
+ṭub	138	𒁾
+tub₂	352	𒂀
+ṭub₂	352	𒂀
+tuba	532	𒈨
+tuba₃	314	𒋃
+tuba₄	536	
+tubašin	110	𒆯
+tud	058	𒌅
+tug	574	𒌇
+tug₂	536	𒌆
+tug₃	309	𒂁
+tug₄	515	𒇧
+tug₈	595	𒂅
+tugul	561	𒉄𒍞
+tugure	019	𒅤
+tuh	167	𒃮
+tuh₂	169	𒈭
+tuh₃	061	𒈬
+tuhul	561	𒉄𒍞
+tuk	574	𒌇
+tuk₂	536	𒌆
+tuk₃	309	𒂁
+tuk₄	515	𒇧
+tuku	574	𒌇
+tuku₂	536	𒌆
+tuku₄	515	𒇧
+tuku₅	126	𒋳
+tuku₆	483	𒆸
+tukul	536	𒆪
+tukula	536	𒆪
+tukur	483	𒆸
+tukur₂	027	𒆁
+tukur₃	024x	𒆈
+tul	459	𒌋𒌆
+ṭul	511	𒇥
+tul₂	511	𒇥
+ṭul₃	459a	𒇯
+tul₄	144	𒌉
+ṭul₄	575b	
+tul₅	459a	𒇯
+tul₆	348	𒂈
+tul₇	575b	𒌪
+tul₈	486	𒇀
+tum	207	𒌈
+ṭum	207	𒌈
+tum₁₀	557	𒁮
+tum₁₁	434a	𒉑
+tum₁₂	058	𒌅
+tum₁₃	209	𒂕
+tum₂	206	𒁺
+tum₃	434	𒉐
+tum₄	433	𒉏
+tum₅?	536	
+tum₈	094	𒁴
+tum₉	399	𒅎
+tuma?	536	
+tuma₂	206	𒁺
+tumga	355	
+tumu	399	𒅎
+tumu₂	206	𒁺
+tumu₃	434	𒉐
+tumu₄	433	𒉏
+tun	089	𒄽
+tun₂	088	𒄸
+tun₃	595	𒂅
+tun₄	467	𒂄
+tuna₃	595	𒂅
+tunur	510	𒇌
+tup	138	𒁾
+ṭup	138	𒁾
+tup₂	352	𒂀
+tuq	574	𒌇
+tuq₃	309	𒂁
+tur	144	𒌉
+ṭur	108	𒄙
+tur₂	108	𒄙
+tur₃	087a	𒉣𒇬
+ṭur₃	144	𒌉
+tur₅	058	𒌅
+tur₆	483	𒆸
+tur₈?	371	
+tura	144	𒌉
+turu	144	𒌉
+ṭuru	108	
+tuš	536	𒆪
+ṭuš	536	𒆪
+tušu	536	𒆪
+u	411	𒌋
+uʾ	397	𒀪
+uʾ₂?	398	
+uʾ₃	493	𒇆
+uʾ₄	392	𒌔
+u₁₀	540	𒁱
+u₁₁	078	𒄷
+u₁₃	398	𒄴
+u₁₄?	443	
+u₁₆	134	𒌝
+u₁₇	383	𒉿
+u₁₈	049x	𒍇
+u₁₉	038	𒌷
+u₂	318	𒌑
+u₂₀	367	𒊺
+u₂₁	130	𒊌
+u₂₂	052	𒌗
+u₂₄	231	
+u₃	455	𒅇
+u₄	381	𒌓
+u₈	494	𒇇
+ua	494	𒇆 / 𒇇
+ua₂	540	𒁱
+ua₄	293	𒁦
+ub	306	𒌒
+ub₃	424	𒀚
+ub₄	511	𒇥
+ub₆	426	𒀙
+ub₇	423	
+uba	306	𒌒
+ubda	306	𒌒
+ubi₂	403	𒋦
+ubisag	314	𒋃
+ubisag₂	317	𒋄
+ubišaga	125a	
+ubu	360	𒀹
+ubu₂	306	𒌒
+ubudil	185	𒉞
+ubudili	185	𒉞
+ubur₂	292a	𒁥
+ubur₃	288b	𒁡
+ubur₄	288c	𒁢
+ud	381	𒌓
+ud₂	339	𒀾
+ud₅	122b	𒍚
+ud₆	443	𒌋𒂵
+uda₅	122b	𒍚
+udda	519	𒇐
+udeššu	339	𒀾
+udilia	470	𒌋𒐊
+udinim	155	𒂫
+udnim	155	𒂫
+udu	537	𒇻
+udub	495	𒇛
+udul₃	293	𒁦
+udul₅	289	𒁟
+udul₆	287	𒁭
+udul₈	415	𒌋𒈬
+udun	415	𒌋𒈬
+ug	130	𒊌
+ug₂	444	𒊊
+ug₄	381	𒌓
+uga₃	165	𒌦
+ugab	403	𒋦
+ugra	499v	𒇨
+ugri	499v	𒇨
+ugu	412	𒌋𒅗
+ugu₄	536	𒆪
+ugu₅	329	𒊨
+ugu₆	015	
+ugu₇	176	
+ugudil	185	𒉞
+ugudili	185	𒉞
+ugula	295	𒉺
+ugulu	295	𒉺
+ugun?	418	
+ugun₂	350	𒃽
+u-gun₃	418	
+ugun₃	412	𒌋𒅗
+ugunu	418	𒌋𒁯
+ugunu₂	350	𒃽
+ugur	417	𒌋𒄥
+ugur₂	351	𒅊
+uh	398	𒄴
+uh₂	392	𒌔
+uh₃	562	𒆵
+uh₄	017	𒅜
+uh₅	397	𒀪
+uhhu	017	
+uhu	398	𒄴
+uhu₂	392	𒌔
+uhul	165	
+uia	470	𒌋𒐊
+uk	130	𒊌
+ukken	040	𒌺
+ukkin	040	𒌺
+uku	347	𒂇
+uku₄	130	𒊌
+ukum	212	𒅖
+ukur?	010	
+ukur₅	351	𒅊
+ukuš₂	550	𒄾
+ul	441	𒌌
+ul₁₂	049x	𒍇
+ul₂	075	𒉡
+ul₄	010	𒄉
+ul₆	381	𒌓
+ul₈?	105	
+ula	441	𒌌
+ula₂	264	𒃪
+ulal	069	𒁁
+uli	032	𒅴
+ullu₃	441	𒌌
+ulu	441	𒌌
+ulu₃	049x	𒍇
+ulu₄	038	𒌷
+ulud	309	𒂁
+uludi?	374	
+uluki?	374	
+um	134	𒌝
+um₂	381	𒌓
+umah	512	𒇦
+uman	398	𒄴
+umbin	092b	𒌢
+umbisag	314	𒋃
+umbisag₂	317	𒋄
+umma₂?	409e	
+ummeda₂	137	𒌟
+umu	134	𒌝
+umuh	512	𒇦
+umum	338	𒌣
+umun	411	𒌋
+umun₁₀?	415	
+umun₁₁	522	𒆹
+umun₁₂?	505	
+umun₂	338	𒌣
+umun₃	398	𒄴
+umun₄	397	𒀪
+umun₅	512	𒇦
+umun₆	509	𒇊
+umuna₁₂	505	𒇩
+umuš	536	𒌆
+un₂	411	𒌋
+un₅	381	𒌓
+unken	040	𒌺
+unkin	040	𒌺
+unu	195	𒀕
+unu₁₀	067	𒄃
+unu₅	128	𒀊
+unu₈	211	𒍑
+unu₉	354b	𒆒
+unug	195	𒀕
+unugi	196	𒀐
+unugi₂	194	𒀍
+up	306	𒌒
+uq	130	𒊌
+ur	575	𒌨
+ur₁₁	056	𒀳
+ur₁₂	058	𒋽
+ur₁₄	271	𒃣
+ur₂	203	𒌫
+ur₃	255	𒃡
+ur₄	594	𒌴
+ur₅	401	𒄯
+ur₆?	441	
+ur₇	185	𒉞
+ur₈	206	𒁺
+ur₉	204b	𒌲
+ura	575	𒌨
+ura₃	255	𒃡
+ura₄	594	𒌴
+ura₅	401	𒄯
+uraš	535	𒅁
+urbigu	575a	𒌩
+urbingu	575a	𒌩
+urda	050	𒀴
+urda₂	051	𒀵
+urdu	050	𒀴
+urdu₂	051	𒀵
+urgilim	063d	𒉫
+urgu₂	022x	𒅺
+urrub	309	𒂁
+urrub₂	322	𒆗
+ursagsim	012	𒋻
+ursub	309	𒂁
+urṣub	309	𒂁
+ursub₂	322	𒆗
+urta	535	𒅁
+uru	038	𒌷
+uru₁₁	043v	𒌾
+uru₁₂	255	𒃡
+uru₁₃	575	𒌨
+uru₁₆	099	𒂗
+uru₁₇	049x	𒍇
+uru₂	043	𒍍
+uru₄	056	𒀳
+uru₅	058	𒋽
+uru₆	185	𒉞
+uru₇	204b	𒌲
+uru₈	203	𒌫
+uruaka	092c	𒃰𒋺𒄑
+urub	043v	𒌾
+urud	132	𒍏
+urud₂	138	𒁾
+uruda	132	𒍏
+urudu	132	𒍏
+urudu₂	138	𒁾
+urugal	194	𒀍
+urugal₂	195	𒀕
+uruišdua	092c	𒃰𒋺𒄑
+uruišduha	092c	𒃰𒋺𒄑
+uruk	195	𒀕
+urulla	092c	𒃰𒋺𒄑
+urum	185	𒉞
+urum₂	204b	𒌲
+urum₄	204d	𒌯
+urum₈	204a	𒌱
+urum₉	204c	𒌬
+ururim	043	𒍍
+urušeb	047	𒍁
+urušib	047	𒍁
+urutamga	043v	𒌾
+urutamga₂	043	𒍍
+urzub	309	𒂁
+uš	211	𒍑
+uš₁₁	017	𒅜
+uš₁₄	028n	𒅼
+uš₁₅	123	𒋛𒀀
+uš₁₈	472	𒌍
+us₂	211	𒍑
+uṣ₂	211	𒍑
+uš₃	271	𒃣
+us₃?	122b	
+us₄	131	𒊍
+uš₄	536	𒌆
+uṣ₄	131	𒊍
+us₅	494	𒇇
+uš₇	016	𒅲
+uš₈	056	𒀳
+uš₉	480	𒁹
+usa	598d	𒐍
+usa₂	211	𒍑
+usan	107n	𒄛
+usan₂	327	𒄝
+usan₃	394e	𒉮
+usan₃-sur₅	394e	
+usan₄	113	𒋜
+usan₅	078	𒄷
+usan₆	108	
+ušbar	204v	𒌰
+ušbar₂	181n	𒍬
+ušbar₃	204b	𒌲
+ušbar₄?	182	
+ušbar₆	185	𒉞
+ušbar₇	204a	𒌱
+ušbur	204v	𒌰
+ušbur₂	181n	𒍬
+ušbur₃	204b	𒌲
+ušbur₄	182	𒋨
+ušbur₆	185	𒉞
+ušbur₇	204a	𒌱
+ušen	107n	𒄛
+ušera	499v	𒇨
+ušeri	499v	𒇨
+usi	261	𒃥
+usian	107n	𒄛
+ussu	598d	𒑄 / 𒐍
+ussu₃	331c	𒀼𒀼𒋰 / 𒑅
+uštu	383	𒉿
+uštug	383	𒉿
+ušu	011	𒁔
+usu₂	211	𒍑
+ušu₂	447	𒌋𒌓
+usu₃	171	
+ušu₃	472	𒌍
+ušub	123	𒋛𒀀
+usug₅	024x	𒆈
+usuh?	554n	
+ušum	011	𒁔
+usun	394e	𒉮
+ušur₅	411	𒌋
+ušuš	244v	𒃠
+ut	381	𒌓
+uṭ	381	𒌓
+ut₂	339	𒀾
+ut₅	122b	𒍚
+ut₆	443	𒌋𒂵
+uta	381	𒌓
+utah	443	𒌋𒂵
+utima	265	𒃟
+utima₂	382v	𒌖
+uttu₂	314	𒋃
+uttu₄	003	𒈮 / 𒈯
+utu	381	𒌓
+utu₂	443	𒌋𒂵
+uṭu₂	314	𒋃
+utu₃	471	𒌋𒌋
+uṭu₄	004	𒈯
+utu₅	339	𒀾
+utua	287	𒁭
+utua₂	293	𒁦
+utudi?	060a	
+utuki?	060a	
+utul₃	293	𒁦
+utul₅	289	𒁟
+utul₆	287	𒁭
+utul₈	415	𒌋𒈬
+utun	415	𒌋𒈬
+utuwa	287	𒁭
+utuwa₂	293	𒁦
+uw	383	𒉿
+uya	470	𒌋𒐊
+uz₂	211	𒍑
+uz₃	122b	𒍚
+uz₄	131	𒊍
+uz₅	494	𒇇
+uza₃	122b	𒍚
+uzaglal	360	𒀹
+uzu	171	𒍜
+uzu₂	181n	𒍬
+uzu₅	447	𒌋𒌓
+uzud	122b	𒍚
+uzug₅	024x	𒆈
+wa	383	𒉿
+wa₂	005	𒁀
+wa₃	318	𒌑
+wa₆	342	𒈠
+wan	471	𒌋𒌋
+war₂	307	𒈥
+war₃	050	𒀴
+we	383	𒉿
+wi	383	𒉿
+wi₄	427	𒈪
+wir	444	𒄊
+wu	383	𒉿
+wu₄	061	𒈬
+wuk	003	𒈮
+wuš	374	𒈲
+ya	383	𒉿
+ya₃	231	𒉌
+ya₄	229n	𒉌𒌓
+ye	383	𒉿
+yi	383	𒉿
+yi₂	142a	𒅀
+yi₃	308	𒂊
+yu	383	𒉿
+za	586	𒍝
+za₂	229n	𒉌𒌓
+za₃	332	𒍠
+za₄	087	𒉣
+za₅	013	𒀭
+za₆	028	𒆉
+zab	393	𒂟
+zabar₂	364n	𒍭
+zadim	004	𒈯
+zadra	314	
+zadri	314	𒋃
+zadru	314	𒋃
+zag	332	𒍠
+zag₂	295	𒉺
+zaga	231	
+zagga	231	𒉌
+zagga₂	586	𒍝
+zah	172	𒉈
+zahan₂	443	𒌋𒂵
+zak	332	𒍠
+zak₂	295	𒉺
+zal	231	𒉌
+zal₂?	491	
+zala	231	𒉌
+zalag	381	𒌓
+zalag₂	393	𒂟
+zalag₃	355	
+zalaga	381	𒌓
+zalah	381	𒌓
+zalli	231	𒉌
+zamug	138	𒁾
+zanaru	103v	𒈹
+zandar	314	𒋃
+zandara	314	𒋃
+zanga	231	𒉌
+zannaru	103v	𒈹 / 𒍝𒈽
+zansur	515	𒇧
+zanzana	400	𒄵
+zap	393	𒂟
+zap₂?	536	
+zaq	332	𒍠
+zaq₂	295	𒉺
+zaq₄	190	𒍨
+zar	491	𒇡
+zar₂	231	𒉌
+zar₃	164	𒋧
+zar₄	072a	𒆰
+zar₅	069	𒁁
+zar₇	492	
+zara	491	𒇡
+zara₅	069	𒁁
+zarih?	491	
+zarim	491	
+zat	366	
+zaz	069	𒁁
+zazana	144f	𒌊
+zazna	144f	𒌊
+ze	084	𒍣
+ze₂	147	𒍢
+ze₄	586	𒀓
+zeb	395	𒍦
+zeb₂	190	𒍨
+zeb₃	297	𒄞
+zeh₂	053	𒋚
+zel	087	𒉣
+zer	072a	𒆰
+zer₃	374	𒈲
+zezna	144f	𒌊
+zi	084	𒍣
+zi₂	147	𒍢
+zi₄	200c	𒀓
+zi₈?	322	
+zib	395	𒍦
+zib₂	190	𒍨
+zib₃	297	𒄞
+zib₄?	015	
+zibin	283	𒁫
+zibin₂	290	𒁬
+zid	084	𒍣
+zig	190	𒍨
+zig₂	592	𒋝
+zig₃	084	𒍣
+zigum	484	
+zih	569	𒄗
+zih₂	053	𒋚
+zik	190	𒍨
+zik₀	332	𒍠
+zik₂	592	𒋝
+zik₃	049x	𒍇
+zikum	484	𒇉
+zikura	166f	𒆜𒐋
+zil	087	𒉣
+zil₂	126	𒋳
+zil₃	012	𒋻
+zin	008	𒊿
+zip	395	𒍦
+zip₃	295m	𒉺𒇻
+zipah	074	𒈦
+ziq	190	𒍨
+ziq₂	592	𒋝
+ziqi	190	𒍨
+zir	072a	𒆰
+zir₃	374	𒈲
+zir₄	373	𒋤
+ziri	072a	𒆰
+zis	069	𒁁
+ziz	069	𒁁
+zizanu	366	𒆳
+zizna	144f	𒌊
+zu	006	𒍪
+zu₂	015	𒅗
+zu₃	555	𒍮
+zu₄	069	𒁁
+zu₆	373	𒋤
+zu₇	467	𒂄
+zu₉	028	𒆉
+zub₂	395	𒍦
+zubud	590	𒄪
+zubur	364n	𒍭
+zug	522	𒆹
+zug₂	015	𒅗
+zug₄	016	𒅲
+zugud	590	𒄪
+zuh	015	𒅗
+zuk	522	𒆹
+zukum	066c	𒍤𒀀 / 𒍤𒆸
+zukum₂	066a	
+zulug	355	𒈜
+zuluhu₃	066a	𒍤𒀀 / 𒍤𒆸
+zulumhi₃	066a	𒍤𒀀 / 𒍤𒆸
+zum	555	𒍮
+zuq	522	𒆹
+zur	437	𒀫
+zur₂	122d	𒋪
+zur₄	491	𒇡
+zur₅	481	𒇲
+zur₈	353	𒊭
+zuru₅	481	𒇲
+zuru₉	069	𒁁
+zurzub	309	𒂁
+zurzub₂	322	𒆗
+zusu	083	𒋥
+zurzub₃	309	𒂁
+zušu	083	𒋥

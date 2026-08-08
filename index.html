@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>قاموس لابات للعلامات المسمارية - Labat Cuneiform Dictionary</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700;800&family=JetBrains+Mono:wght@400;600&family=Noto+Sans+Cuneiform&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <header class="navbar">
+        <div class="logo">
+            <div class="logo-icon">𒀭</div>
+            <div>
+                <h1>قاموس لابات المسماري</h1>
+                <p class="subtitle">المفردات اللاتينية والعلامات المسمارية الكاملة (4972 كلمة)</p>
+            </div>
+        </div>
+        <div class="header-actions">
+            <a href="مفردات_لابات_المسمارية.xlsx" download class="btn-download">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="7 10 12 15 17 10"></polyline><line x1="12" y1="15" x2="12" y2="3"></line></svg>
+                تحميل Excel
+            </a>
+            <div class="font-control">
+                <label for="fontSelector">الخط المسماري:</label>
+                <select id="fontSelector">
+                    <option value="default">الافتراضي (Default)</option>
+                    <option value="assyrian">آشوري (Assyrian)</option>
+                    <option value="sumerian">سومري (Sumerian)</option>
+                    <option value="babylonian">بابلي (Babylonian)</option>
+                </select>
+            </div>
+            <div class="font-control">
+                <label for="sizeSelector">حجم العلامة:</label>
+                <select id="sizeSelector">
+                    <option value="size-large" selected>🔍 كبير جداً (4.5rem)</option>
+                    <option value="size-xlarge">🔎 ضخم (5.5rem)</option>
+                    <option value="size-giant">💥 عملاق (6.5rem)</option>
+                    <option value="size-medium">متوسط (3.5rem)</option>
+                </select>
+            </div>
+        </div>
+    </header>
+
+    <main class="container">
+        <section class="toolbar-section">
+            <div class="search-box">
+                <svg class="search-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+                <input type="text" id="searchInput" placeholder="ابحث باسم العلامة اللاتيني أو بالرقم (مثال: zurzub, 309, ama)...">
+                <button id="clearSearch" class="btn-clear" style="display: none;">✕</button>
+            </div>
+            <div class="stats-box">
+                <span id="resultCount">إجمالي الإدخالات: 4,972</span>
+            </div>
+        </section>
+
+        <section class="table-card">
+            <table id="resultTable">
+                <thead>
+                    <tr>
+                        <th class="col-sign">شكل العلامة المسمارية</th>
+                        <th class="col-num">رقم العلامة (التسلسل)</th>
+                        <th class="col-name">اسم العلامة (اللاتيني)</th>
+                    </tr>
+                </thead>
+                <tbody id="resultBody">
+                    <!-- Dynamic rendering -->
+                </tbody>
+            </table>
+            
+            <div class="pagination-controls">
+                <button id="prevBtn" class="btn-page" disabled>السابق</button>
+                <span id="pageInfo">الصفحة 1 من 100</span>
+                <button id="nextBtn" class="btn-page">التالي</button>
+                <select id="pageSizeSelect" class="page-size-select">
+                    <option value="50">50 عنصر/صفحة</option>
+                    <option value="100" selected>100 عنصر/صفحة</option>
+                    <option value="250">250 عنصر/صفحة</option>
+                    <option value="500">500 عنصر/صفحة</option>
+                    <option value="all">عرض الكل (4972)</option>
+                </select>
+            </div>
+        </section>
+    </main>
+
+    <!-- Data & Application Logic -->
+    <script src="data.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
+

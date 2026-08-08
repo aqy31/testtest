@@ -1,0 +1,419 @@
+/* Import Cairo, JetBrains Mono & Noto Sans Cuneiform (eBL standard) fonts */
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700;800&family=JetBrains+Mono:wght@400;600&family=Noto+Sans+Cuneiform&display=swap');
+
+/* Font Face Definitions */
+@font-face {
+    font-family: 'AssyrianFont';
+    src: url('Assyrian.ttf') format('truetype');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SumerianFont';
+    src: url('Sumerian.ttf') format('truetype');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BabylonianFont';
+    src: url('Babylonian.ttf') format('truetype');
+    font-display: swap;
+}
+
+:root {
+    --bg-color: #0F172A;
+    --card-bg: #1E293B;
+    --card-border: #334155;
+    --text-main: #F8FAFC;
+    --text-muted: #94A3B8;
+    --primary: #38BDF8;
+    --primary-hover: #0284C7;
+    --accent: #F59E0B;
+    --table-header-bg: #0F172A;
+    --table-row-alt: #192337;
+    --table-hover: #26334D;
+    --shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.5), 0 8px 10px -6px rgba(0, 0, 0, 0.4);
+    --border-radius: 12px;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Cairo', sans-serif;
+    background-color: var(--bg-color);
+    color: var(--text-main);
+    line-height: 1.6;
+    min-height: 100vh;
+}
+
+/* Header */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: rgba(30, 41, 59, 0.95);
+    backdrop-filter: blur(12px);
+    padding: 16px 40px;
+    border-bottom: 1px solid var(--card-border);
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+}
+
+.logo-icon {
+    font-size: 2.4rem;
+    color: var(--primary);
+    line-height: 1;
+}
+
+.logo h1 {
+    font-size: 1.4rem;
+    font-weight: 800;
+    color: #FFFFFF;
+    letter-spacing: -0.5px;
+}
+
+.logo .subtitle {
+    font-size: 0.85rem;
+    color: var(--text-muted);
+    font-weight: 400;
+}
+
+.header-actions {
+    display: flex;
+    align-items: center;
+    gap: 18px;
+}
+
+.btn-download {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    background: linear-gradient(135deg, #10B981, #059669);
+    color: #FFFFFF;
+    padding: 9px 18px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 0.9rem;
+    transition: all 0.2s ease;
+    box-shadow: 0 4px 12px rgba(16, 185, 129, 0.3);
+}
+
+.btn-download:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 16px rgba(16, 185, 129, 0.4);
+}
+
+.font-control {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.font-control label {
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: var(--text-muted);
+}
+
+.font-control select {
+    padding: 9px 16px;
+    border: 1px solid var(--card-border);
+    border-radius: 8px;
+    font-family: 'Cairo', sans-serif;
+    font-size: 0.9rem;
+    font-weight: 600;
+    outline: none;
+    cursor: pointer;
+    background: #0F172A;
+    color: var(--text-main);
+    transition: all 0.2s;
+}
+
+.font-control select:focus {
+    border-color: var(--primary);
+    box-shadow: 0 0 0 3px rgba(56, 189, 248, 0.2);
+}
+
+/* Main Container */
+.container {
+    max-width: 1200px;
+    margin: 30px auto;
+    padding: 0 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+/* Toolbar (Search & Stats) */
+.toolbar-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+    background: var(--card-bg);
+    padding: 16px 24px;
+    border-radius: var(--border-radius);
+    border: 1px solid var(--card-border);
+    box-shadow: var(--shadow);
+}
+
+.search-box {
+    position: relative;
+    flex: 1;
+    max-width: 600px;
+}
+
+.search-icon {
+    position: absolute;
+    right: 16px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: var(--text-muted);
+}
+
+.search-box input {
+    width: 100%;
+    padding: 11px 48px 11px 40px;
+    background: #0F172A;
+    border: 1px solid var(--card-border);
+    border-radius: 8px;
+    font-family: 'Cairo', sans-serif;
+    font-size: 0.95rem;
+    color: var(--text-main);
+    outline: none;
+    transition: all 0.2s;
+}
+
+.search-box input:focus {
+    border-color: var(--primary);
+    box-shadow: 0 0 0 3px rgba(56, 189, 248, 0.2);
+}
+
+.btn-clear {
+    position: absolute;
+    left: 12px;
+    top: 50%;
+    transform: translateY(-50%);
+    background: transparent;
+    border: none;
+    color: var(--text-muted);
+    font-size: 1.1rem;
+    cursor: pointer;
+    padding: 4px;
+}
+
+.btn-clear:hover {
+    color: #EF4444;
+}
+
+.stats-box {
+    font-size: 0.9rem;
+    font-weight: 700;
+    color: var(--accent);
+    background: rgba(245, 158, 11, 0.1);
+    padding: 8px 16px;
+    border-radius: 6px;
+    border: 1px solid rgba(245, 158, 11, 0.2);
+}
+
+/* Table Card */
+.table-card {
+    background: var(--card-bg);
+    border-radius: var(--border-radius);
+    border: 1px solid var(--card-border);
+    box-shadow: var(--shadow);
+    overflow: hidden;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th {
+    background-color: var(--table-header-bg);
+    padding: 16px 24px;
+    font-size: 0.9rem;
+    font-weight: 700;
+    color: var(--primary);
+    border-bottom: 2px solid var(--card-border);
+}
+
+th.col-sign {
+    width: 35%;
+    text-align: right; /* Right aligned for cuneiform */
+}
+
+th.col-num {
+    width: 25%;
+    text-align: center; /* Middle aligned for number */
+}
+
+th.col-name {
+    width: 40%;
+    text-align: left; /* Left aligned for Latin name */
+}
+
+td {
+    padding: 14px 24px;
+    border-bottom: 1px solid var(--card-border);
+    vertical-align: middle;
+}
+
+tr:nth-child(even) {
+    background-color: var(--table-row-alt);
+}
+
+tr:hover {
+    background-color: var(--table-hover);
+}
+
+td.col-sign {
+    text-align: right;
+    font-size: 4.5rem;
+    line-height: 1.15;
+    color: #FFFFFF;
+    font-family: 'Noto Sans Cuneiform', 'AssyrianFont', 'SumerianFont', 'BabylonianFont', sans-serif;
+    padding: 18px 24px;
+}
+
+td.col-num {
+    text-align: center;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 1.35rem;
+    font-weight: 700;
+    color: var(--accent);
+}
+
+td.col-name {
+    text-align: left;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: #E2E8F0;
+    direction: ltr;
+}
+
+.empty-state td {
+    text-align: center;
+    padding: 50px;
+    color: var(--text-muted);
+    font-size: 1.2rem;
+}
+
+/* Dynamic Sign Size Classes */
+#resultTable.size-medium td.col-sign {
+    font-size: 3.5rem !important;
+}
+
+#resultTable.size-large td.col-sign {
+    font-size: 4.5rem !important;
+}
+
+#resultTable.size-xlarge td.col-sign {
+    font-size: 5.5rem !important;
+}
+
+#resultTable.size-giant td.col-sign {
+    font-size: 6.8rem !important;
+}
+
+/* Pagination Controls */
+.pagination-controls {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 16px 24px;
+    background-color: var(--table-header-bg);
+    border-top: 1px solid var(--card-border);
+}
+
+.btn-page {
+    background: #1E293B;
+    border: 1px solid var(--card-border);
+    color: var(--text-main);
+    padding: 8px 20px;
+    border-radius: 6px;
+    font-family: 'Cairo', sans-serif;
+    font-size: 0.9rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.btn-page:hover:not(:disabled) {
+    background: var(--primary);
+    color: #0F172A;
+    border-color: var(--primary);
+}
+
+.btn-page:disabled {
+    opacity: 0.4;
+    cursor: not-allowed;
+}
+
+#pageInfo {
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: var(--text-muted);
+}
+
+.page-size-select {
+    background: #0F172A;
+    border: 1px solid var(--card-border);
+    color: var(--text-main);
+    padding: 6px 12px;
+    border-radius: 6px;
+    font-family: 'Cairo', sans-serif;
+    font-size: 0.85rem;
+    outline: none;
+    cursor: pointer;
+}
+
+/* Font Classes - eBL Standard Fallbacks */
+.font-default {
+    font-family: 'Noto Sans Cuneiform', 'AssyrianFont', 'SumerianFont', 'BabylonianFont', sans-serif !important;
+}
+
+.font-assyrian {
+    font-family: 'AssyrianFont', 'Noto Sans Cuneiform', sans-serif !important;
+}
+
+.font-sumerian {
+    font-family: 'SumerianFont', 'Noto Sans Cuneiform', sans-serif !important;
+}
+
+.font-babylonian {
+    font-family: 'BabylonianFont', 'Noto Sans Cuneiform', sans-serif !important;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .navbar {
+        flex-direction: column;
+        gap: 16px;
+        align-items: flex-start;
+        padding: 16px 20px;
+    }
+    .header-actions {
+        width: 100%;
+        justify-content: space-between;
+    }
+    .toolbar-section {
+        flex-direction: column;
+        align-items: stretch;
+    }
+}
+
