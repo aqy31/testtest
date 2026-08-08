@@ -10,11 +10,12 @@ function initApp() {
 
     // Header Action Buttons
     const btnGithubSync = document.getElementById('btnGithubSync');
-    const btnExportNotes = document.getElementById('btnExportNotes');
 
     // Hardcoded GitHub Permanent Credentials
     const HARDCODED_GH_REPO = 'aqy31/testtest';
-    const HARDCODED_GH_PATH = 'data.js';
+    const HARDCODED_GH_NOTES_PATH = 'notes.json';
+    const HARDCODED_GH_DATA_PATH = 'data.js';
+
     const _t1 = 'Z2hwX1pySkFOdFlOS3ZRVFhFbXRtWF';
     const _t2 = 'hMMUNkcTRXVTkwYTFVOEhkTA==';
     const HARDCODED_GH_TOKEN = atob(_t1 + _t2);
@@ -26,14 +27,33 @@ function initApp() {
     let currentPage = 1;
     let pageSize = 100;
 
-    // Load saved notes from LocalStorage
+    // Saved Notes State
     let savedNotes = {};
     try {
         const raw = localStorage.getItem('LABAT_NOTES_MAP');
         if (raw) savedNotes = JSON.parse(raw);
     } catch (e) {
-        console.error('Error loading notes:', e);
+        console.error('Error loading local notes:', e);
     }
+
+    // Auto-fetch shared notes from GitHub on page load
+    async function loadCloudNotes() {
+        try {
+            const notesUrl = `https://raw.githubusercontent.com/${HARDCODED_GH_REPO}/main/notes.json?t=${Date.now()}`;
+            const res = await fetch(notesUrl, { cache: 'no-store' });
+            if (res.ok) {
+                const cloudMap = await res.json();
+                if (cloudMap && typeof cloudMap === 'object') {
+                    savedNotes = { ...savedNotes, ...cloudMap };
+                    localStorage.setItem('LABAT_NOTES_MAP', JSON.stringify(savedNotes));
+                    renderTable();
+                }
+            }
+        } catch (err) {
+            console.warn('Cloud notes fetch warning:', err);
+        }
+    }
+    loadCloudNotes();
 
     // Transliteration normalizer for search
     function normalizeQuery(text) {
@@ -140,13 +160,17 @@ function initApp() {
             toast.style.position = 'fixed';
             toast.style.bottom = '24px';
             toast.style.right = '24px';
-            toast.style.padding = '14px 24px';
-            toast.style.borderRadius = '10px';
+            toast.style.left = '24px';
+            toast.style.maxWidth = '400px';
+            toast.style.margin = '0 auto';
+            toast.style.padding = '14px 20px';
+            toast.style.borderRadius = '12px';
             toast.style.fontFamily = "'Cairo', sans-serif";
             toast.style.fontWeight = '700';
-            toast.style.fontSize = '1rem';
-            toast.style.zIndex = '99999';
-            toast.style.boxShadow = '0 10px 30px rgba(0,0,0,0.5)';
+            toast.style.fontSize = '0.95rem';
+            toast.style.textAlign = 'center';
+            toast.style.zIndex = '999999';
+            toast.style.boxShadow = '0 10px 30px rgba(0,0,0,0.6)';
             toast.style.transition = 'all 0.3s ease';
             document.body.appendChild(toast);
         }
@@ -160,7 +184,19 @@ function initApp() {
         setTimeout(() => {
             toast.style.opacity = '0';
             toast.style.transform = 'translateY(20px)';
-        }, 3500);
+        }, 4000);
+    }
+
+    // High-Performance UTF-8 to Base64
+    function utf8ToBase64(str) {
+        const bytes = new TextEncoder().encode(str);
+        let binString = "";
+        const chunkSize = 8192;
+        for (let i = 0; i < bytes.length; i += chunkSize) {
+            const chunk = bytes.subarray(i, i + chunkSize);
+            binString += String.fromCharCode.apply(null, chunk);
+        }
+        return btoa(binString);
     }
 
     // Render table rows
@@ -202,7 +238,7 @@ function initApp() {
             const tr = document.createElement('tr');
             const itemKey = `${item.num}_${item.word}`;
             
-            // Col 1: Cuneiform Sign (Giant Assyrian Size)
+            // Col 1: Cuneiform Sign
             const tdSign = document.createElement('td');
             tdSign.className = 'col-sign cuneiform-text font-assyrian';
             tdSign.textContent = item.sign || '';
@@ -267,91 +303,88 @@ function initApp() {
         resultBody.appendChild(fragment);
     }
 
-    // Fast High-Performance UTF-8 to Base64 for Mobile & Large Datasets
-    function utf8ToBase64(str) {
-        const bytes = new TextEncoder().encode(str);
-        let binString = "";
-        const chunkSize = 8192;
-        for (let i = 0; i < bytes.length; i += chunkSize) {
-            const chunk = bytes.subarray(i, i + chunkSize);
-            binString += String.fromCharCode.apply(null, chunk);
-        }
-        return btoa(binString);
-    }
+    // Helper function to push a file to GitHub via API
+    async function pushFileToGitHub(path, jsonContent, commitMessage) {
+        const url = `https://api.github.com/repos/${HARDCODED_GH_REPO}/contents/${path}`;
+        const base64Str = utf8ToBase64(jsonContent);
 
-    // 1-Click Instant GitHub Push Function
-    async function syncToGitHubDirect() {
-        if (btnGithubSync) {
-            btnGithubSync.disabled = true;
-            btnGithubSync.innerHTML = 'جاري المزامنة مع GitHub... ⏳';
-        }
-
-        try {
-            const updatedTable = rawData.map(item => {
-                const itemKey = `${item.num}_${item.word}`;
-                const noteVal = savedNotes[itemKey] || item.note;
-                if (noteVal) {
-                    return { ...item, note: noteVal };
-                }
-                return item;
-            });
-
-            const contentStr = "const TABLE_DATA = " + JSON.stringify(updatedTable, null, 2) + ";";
-            const base64Content = utf8ToBase64(contentStr);
-
-            const getUrl = `https://api.github.com/repos/${HARDCODED_GH_REPO}/contents/${HARDCODED_GH_PATH}`;
-            let headers = {
-                'Authorization': `Bearer ${HARDCODED_GH_TOKEN}`,
-                'Accept': 'application/vnd.github.v3+json'
+        const tryPush = async (authHeader) => {
+            const headers = {
+                'Authorization': authHeader,
+                'Accept': 'application/vnd.github.v3+json',
+                'Content-Type': 'application/json'
             };
 
             let sha = null;
             try {
-                let getRes = await fetch(getUrl, { headers, cache: 'no-store' });
-                if (!getRes.ok && getRes.status === 401) {
-                    headers['Authorization'] = `token ${HARDCODED_GH_TOKEN}`;
-                    getRes = await fetch(getUrl, { headers, cache: 'no-store' });
-                }
+                const getRes = await fetch(url, { headers: { 'Authorization': authHeader, 'Accept': 'application/vnd.github.v3+json' }, cache: 'no-store' });
                 if (getRes.ok) {
                     const getJson = await getRes.json();
                     sha = getJson.sha;
                 }
-            } catch (e) {
-                console.warn('SHA fetch warning:', e);
-            }
+            } catch (e) {}
 
-            const putBody = {
-                message: "Update Labat Dictionary test notes and sign data via mobile",
-                content: base64Content
+            const bodyObj = {
+                message: commitMessage,
+                content: base64Str
             };
-            if (sha) putBody.sha = sha;
+            if (sha) bodyObj.sha = sha;
 
-            let putRes = await fetch(getUrl, {
+            const putRes = await fetch(url, {
                 method: 'PUT',
-                headers: {
-                    ...headers,
-                    'Content-Type': 'application/json'
-                },
-                body: JSON.stringify(putBody)
+                headers,
+                body: JSON.stringify(bodyObj)
             });
 
-            if (!putRes.ok && putRes.status === 401 && headers['Authorization'].startsWith('Bearer')) {
-                headers['Authorization'] = `token ${HARDCODED_GH_TOKEN}`;
-                putRes = await fetch(getUrl, {
-                    method: 'PUT',
-                    headers: {
-                        ...headers,
-                        'Content-Type': 'application/json'
-                    },
-                    body: JSON.stringify(putBody)
-                });
-            }
+            return putRes;
+        };
 
-            if (putRes.ok) {
-                showNotification('🚀 تم رفع الملاحظات وتحديث موقع GitHub بنجاح 100%!', true);
+        // Try token header first, then Bearer header
+        let res = await tryPush(`token ${HARDCODED_GH_TOKEN}`);
+        if (!res.ok && res.status === 401) {
+            res = await tryPush(`Bearer ${HARDCODED_GH_TOKEN}`);
+        }
+
+        return res;
+    }
+
+    // 1-Click Instant GitHub Sync Button Handler
+    async function syncToGitHubDirect() {
+        if (btnGithubSync) {
+            btnGithubSync.disabled = true;
+            btnGithubSync.innerHTML = 'جاري المزامنة والرفع... ⏳';
+        }
+
+        try {
+            // 1. Sync notes.json (Ultra Fast & Lightweight)
+            const notesStr = JSON.stringify(savedNotes, null, 2);
+            const notesRes = await pushFileToGitHub(
+                HARDCODED_GH_NOTES_PATH,
+                notesStr,
+                "Update Labat Dictionary notes via mobile sync"
+            );
+
+            if (notesRes.ok) {
+                showNotification('🚀 تم رفع الملاحظات ومزامنتها على GitHub بنجاح 100%!', true);
+
+                // 2. Secondary async background update for data.js
+                const updatedTable = rawData.map(item => {
+                    const itemKey = `${item.num}_${item.word}`;
+                    const noteVal = savedNotes[itemKey] || item.note;
+                    if (noteVal) {
+                        return { ...item, note: noteVal };
+                    }
+                    return item;
+                });
+                const dataStr = "const TABLE_DATA = " + JSON.stringify(updatedTable, null, 2) + ";";
+                pushFileToGitHub(
+                    HARDCODED_GH_DATA_PATH,
+                    dataStr,
+                    "Update data.js table notes via mobile sync"
+                ).catch(() => {});
             } else {
-                const errJson = await putRes.json();
-                showNotification(`❌ فشل الرفع: ${errJson.message || 'خطأ في الاتصال بالسيرفر'}`, false);
+                const errData = await notesRes.json();
+                showNotification(`❌ فشل الرفع: ${errData.message || 'خطأ في الاتصال'}`, false);
             }
         } catch (err) {
             showNotification(`❌ حدث خطأ أثناء المزامنة: ${err.message}`, false);
@@ -370,24 +403,11 @@ function initApp() {
         btnGithubSync.addEventListener('click', syncToGitHubDirect);
     }
 
-    // Export Notes as JSON file
-    if (btnExportNotes) {
-        btnExportNotes.addEventListener('click', () => {
-            const dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(savedNotes, null, 2));
-            const downloadAnchor = document.createElement('a');
-            downloadAnchor.setAttribute("href", dataStr);
-            downloadAnchor.setAttribute("download", "labat_notes_export.json");
-            document.body.appendChild(downloadAnchor);
-            downloadAnchor.click();
-            downloadAnchor.remove();
-        });
-    }
-
     // Initial Table Render
     renderTable();
 }
 
-// Safely execute initApp in all browsers (Safari/Chrome/Firefox)
+// Safely execute initApp in all browsers (Safari/Chrome/Firefox/Mobile)
 if (document.readyState === 'loading') {
     document.addEventListener('DOMContentLoaded', initApp);
 } else {
