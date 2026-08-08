@@ -601,60 +601,53 @@ td.col-notes {
     font-family: 'AssyrianFont', 'Noto Sans Cuneiform', sans-serif !important;
 }
 
-/* Responsive Mobile Design for Smartphones & Tablets */
-@media (max-width: 850px) {
+/* Dedicated Mobile Card Layout for Smartphones & Mobile Screens */
+@media (max-width: 768px) {
     .navbar {
         flex-direction: column;
-        gap: 14px;
+        gap: 12px;
         align-items: center;
-        padding: 14px 16px;
+        padding: 12px 14px;
         text-align: center;
     }
     
     .logo {
         flex-direction: column;
-        gap: 6px;
+        gap: 4px;
     }
     
     .logo h1 {
-        font-size: 1.25rem;
+        font-size: 1.2rem;
     }
     
     .logo .subtitle {
-        font-size: 0.8rem;
+        font-size: 0.75rem;
     }
     
     .header-actions {
         width: 100%;
-        flex-wrap: wrap;
-        justify-content: center;
+        flex-direction: column;
         gap: 8px;
     }
     
-    .btn-github, .btn-export, .btn-download {
-        padding: 8px 12px;
-        font-size: 0.82rem;
-        flex: 1 1 calc(50% - 10px);
-        min-width: 130px;
+    .btn-github, .btn-export, .btn-download, .font-badge {
+        width: 100%;
         justify-content: center;
-    }
-    
-    .font-badge {
-        padding: 6px 12px;
-        font-size: 0.8rem;
+        padding: 10px 14px;
+        font-size: 0.88rem;
     }
     
     .container {
         padding: 0 10px;
-        margin: 14px auto;
-        gap: 14px;
+        margin: 12px auto;
+        gap: 12px;
     }
     
     .toolbar-section {
         flex-direction: column;
         align-items: stretch;
-        padding: 14px 16px;
-        gap: 12px;
+        padding: 12px 14px;
+        gap: 10px;
     }
     
     .search-box input {
@@ -667,39 +660,121 @@ td.col-notes {
         font-size: 0.85rem;
     }
 
-    /* Scrollable Responsive Table */
+    /* Convert Table into Full-Width Mobile Cards */
     .table-card {
-        overflow-x: auto;
-        -webkit-overflow-scrolling: touch;
-        border-radius: 10px;
+        background: transparent;
+        border: none;
+        box-shadow: none;
+        overflow: visible;
     }
     
-    table {
-        min-width: 680px;
+    table, tbody, tr, td {
+        display: block;
+        width: 100% !important;
+        box-sizing: border-box;
     }
 
+    thead {
+        display: none; /* Hide header row on mobile cards */
+    }
+
+    tr {
+        display: flex;
+        flex-direction: column;
+        background: #1E293B;
+        border: 1px solid var(--card-border);
+        border-radius: 16px;
+        margin-bottom: 16px;
+        padding: 16px;
+        gap: 12px;
+        box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4);
+    }
+    
+    tr:hover {
+        background: #1E293B;
+    }
+
+    td {
+        padding: 0;
+        border: none;
+    }
+
+    /* Giant Centered Cuneiform Sign Card Top */
     td.col-sign {
-        font-size: 4.2rem !important;
-        padding: 14px 16px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        font-size: 5.5rem !important;
+        line-height: 1.1;
+        background: #0F172A;
+        border: 1px solid #334155;
+        border-radius: 12px;
+        padding: 22px 10px;
+        color: #FFFFFF;
     }
     
+    /* Labat Number Badge Row */
     td.col-num {
-        font-size: 1.25rem;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        font-size: 1.2rem;
+        background: rgba(245, 158, 11, 0.08);
+        border: 1px solid rgba(245, 158, 11, 0.2);
+        border-radius: 8px;
+        padding: 8px 12px;
+        color: var(--accent);
     }
     
+    td.col-num::before {
+        content: "رقم العلامة (التسلسل):";
+        font-family: 'Cairo', sans-serif;
+        font-size: 0.85rem;
+        color: var(--text-muted);
+        font-weight: 600;
+    }
+
+    /* Latin Name Badge Row */
     td.col-name {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
         font-size: 1.15rem;
+        background: rgba(56, 189, 248, 0.08);
+        border: 1px solid rgba(56, 189, 248, 0.2);
+        border-radius: 8px;
+        padding: 8px 12px;
+        color: #E2E8F0;
+    }
+    
+    td.col-name::before {
+        content: "اسم العلامة (اللاتيني):";
+        font-family: 'Cairo', sans-serif;
+        font-size: 0.85rem;
+        color: var(--text-muted);
+        font-weight: 600;
+    }
+
+    /* Notes Area in Card */
+    td.col-notes {
+        display: block;
+        margin-top: 4px;
     }
 
     .note-input {
-        min-height: 44px;
-        font-size: 0.88rem;
+        min-height: 52px;
+        font-size: 0.92rem;
+        padding: 12px;
     }
     
     .pagination-controls {
         flex-direction: column;
         gap: 12px;
-        padding: 14px 16px;
+        padding: 16px;
+        background: #1E293B;
+        border-radius: 12px;
+        border: 1px solid var(--card-border);
     }
     
     .pagination-controls > * {
@@ -708,19 +783,9 @@ td.col-notes {
     }
     
     .btn-page {
-        max-width: 240px;
-        margin: 0 auto;
-    }
-}
-
-@media (max-width: 480px) {
-    .btn-github, .btn-export, .btn-download {
-        flex: 1 1 100%;
         width: 100%;
-    }
-    
-    td.col-sign {
-        font-size: 3.6rem !important;
+        padding: 12px;
+        font-size: 0.95rem;
     }
 }
 
