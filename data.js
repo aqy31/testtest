@@ -2,7 +2,8 @@ const TABLE_DATA = [
   {
     "word": "a",
     "num": "579",
-    "sign": "𒀀"
+    "sign": "𒀀",
+    "note": "جيدة بيهان  غلط "
   },
   {
     "word": "á",
@@ -12,7 +13,8 @@ const TABLE_DATA = [
   {
     "word": "à",
     "num": "193",
-    "sign": "𒉿"
+    "sign": "𒉿",
+    "note": "اي شي "
   },
   {
     "word": "a₄",
