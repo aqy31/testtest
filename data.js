@@ -127,7 +127,8 @@ const TABLE_DATA = [
   {
     "word": "ablal₃",
     "num": "542",
-    "sign": "𒇦"
+    "sign": "𒇦",
+    "note": "❌️512"
   },
   {
     "word": "abmi",
