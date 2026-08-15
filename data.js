@@ -253,12 +253,14 @@ const TABLE_DATA = [
   {
     "word": "aga",
     "num": "347",
-    "sign": "𒂇"
+    "sign": "𒂇",
+    "note": "✅️"
   },
   {
     "word": "agam",
     "num": "570",
-    "sign": "𒀂"
+    "sign": "𒀂",
+    "note": "❌️580"
   },
   {
     "word": "agam₁",
