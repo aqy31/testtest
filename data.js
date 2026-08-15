@@ -194,7 +194,7 @@ const TABLE_DATA = [
     "word": "adama",
     "num": "69",
     "sign": "𒁁𒈪",
-    "note": "✅️\n"
+    "note": "✅️\n  الي تحتهم Adamen 1 2 3  ما موجودي \n"
   },
   {
     "word": "adamem",
