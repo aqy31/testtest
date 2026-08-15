@@ -205,7 +205,8 @@ const TABLE_DATA = [
   {
     "word": "adamem₂",
     "num": "",
-    "sign": "𒂔"
+    "sign": "𒂔",
+    "note": "العلامة المسمارية خطا Adamen2"
   },
   {
     "word": "adamem₃",
