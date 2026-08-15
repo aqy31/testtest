@@ -229,7 +229,8 @@ const TABLE_DATA = [
   {
     "word": "adkin",
     "num": "",
-    "sign": "𒋠𒇴"
+    "sign": "𒋠𒇴",
+    "note": "❌️538"
   },
   {
     "word": "ag, ak, aq",
