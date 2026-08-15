@@ -206,12 +206,13 @@ const TABLE_DATA = [
     "word": "adamem₂",
     "num": "",
     "sign": "𒂔",
-    "note": "العلامة المسمارية خطا Adamen2"
+    "note": "❌️العلامة المسمارية خطا Adamen2 رفم العلامة ما واضح "
   },
   {
     "word": "adamem₃",
     "num": "228",
-    "sign": "𒂔"
+    "sign": "𒂔",
+    "note": "❌️ العلامة غلط .adamen3"
   },
   {
     "word": "adam",
