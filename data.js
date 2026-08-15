@@ -165,7 +165,8 @@ const TABLE_DATA = [
   {
     "word": "ad, at, aṭ",
     "num": "405",
-    "sign": "𒀜"
+    "sign": "𒀜",
+    "note": "❌️145\n"
   },
   {
     "word": "ād, āt, āṭ",
