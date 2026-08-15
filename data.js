@@ -241,7 +241,8 @@ const TABLE_DATA = [
   {
     "word": "ag",
     "num": "183",
-    "sign": "𒀝"
+    "sign": "𒀝",
+    "note": " ❌️  العلامة خطا  ag2\n"
   },
   {
     "word": "ag",
