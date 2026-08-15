@@ -193,7 +193,8 @@ const TABLE_DATA = [
   {
     "word": "adama",
     "num": "69",
-    "sign": "𒁁𒈪"
+    "sign": "𒁁𒈪",
+    "note": "✅️\n"
   },
   {
     "word": "adamem",
