@@ -104,7 +104,8 @@ const TABLE_DATA = [
   {
     "word": "ab₄, aba₄",
     "num": "495",
-    "sign": "𒀕"
+    "sign": "𒀕",
+    "note": "❌️ 195\n"
   },
   {
     "word": "abgal",
