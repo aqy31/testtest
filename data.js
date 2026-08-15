@@ -14,7 +14,8 @@ const TABLE_DATA = [
   {
     "word": "à",
     "num": "193",
-    "sign": "𒉿"
+    "sign": "𒉿",
+    "note": "رقم العلامة 383"
   },
   {
     "word": "a₄",
