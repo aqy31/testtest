@@ -223,7 +223,8 @@ const TABLE_DATA = [
   {
     "word": "addir",
     "num": "",
-    "sign": "𒀀𒉺𒄐𒉻𒋛𒀀"
+    "sign": "𒀀𒉺𒄐𒉻𒋛𒀀",
+    "note": "❌️579    العلامات ما واضحة عندي "
   },
   {
     "word": "adkin",
