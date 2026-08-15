@@ -265,7 +265,8 @@ const TABLE_DATA = [
   {
     "word": "agam₁",
     "num": "",
-    "sign": "𒀂"
+    "sign": "𒀂",
+    "note": "❌️agan 63"
   },
   {
     "word": "agam₂",
