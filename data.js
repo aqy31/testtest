@@ -20,7 +20,8 @@ const TABLE_DATA = [
   {
     "word": "a₄",
     "num": "579",
-    "sign": "𒀀𒀭"
+    "sign": "𒀀𒀭",
+    "note": "✅️\n"
   },
   {
     "word": "a₅",
