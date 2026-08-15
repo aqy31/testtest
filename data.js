@@ -159,7 +159,8 @@ const TABLE_DATA = [
   {
     "word": "abzu",
     "num": "6",
-    "sign": "𒍪𒀊"
+    "sign": "𒍪𒀊",
+    "note": " Abzu✅️\n❌️ قبلها ما اكو absin 1'2'3\n"
   },
   {
     "word": "ad, at, aṭ",
