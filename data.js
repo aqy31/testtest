@@ -1061,7 +1061,8 @@ const TABLE_DATA = [
   {
     "word": "at₂",
     "num": "010",
-    "sign": "𒄉"
+    "sign": "𒄉",
+    "note": " ad2   aṭ2"
   },
   {
     "word": "aṭ₂",
