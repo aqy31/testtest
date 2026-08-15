@@ -138,7 +138,8 @@ const TABLE_DATA = [
   {
     "word": "abrig",
     "num": "",
-    "sign": "𒉣𒈨𒁺"
+    "sign": "𒉣𒈨𒁺",
+    "note": " قبلها abni  ما اكو \n❌️71"
   },
   {
     "word": "absim ?",
