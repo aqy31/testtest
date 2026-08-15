@@ -319,17 +319,20 @@ const TABLE_DATA = [
   {
     "word": "agarim",
     "num": "494",
-    "sign": "𒂼𒀭𒈹"
+    "sign": "𒂼𒀭𒈹",
+    "note": "❌️  العلامة خطا. agarin. 199."
   },
   {
     "word": "agarim₂",
     "num": "495",
-    "sign": "𒇛"
+    "sign": "𒇛",
+    "note": "Agarin2 ❌️ 198   العلامة خطا "
   },
   {
     "word": "agarim₃",
     "num": "",
-    "sign": "𒀀𒃼"
+    "sign": "𒀀𒃼",
+    "note": "Agarin3  علامة خطا  237"
   },
   {
     "word": "agrig",
