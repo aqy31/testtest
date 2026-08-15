@@ -235,7 +235,8 @@ const TABLE_DATA = [
   {
     "word": "ag, ak, aq",
     "num": "97",
-    "sign": "𒀝"
+    "sign": "𒀝",
+    "note": "✅️\n"
   },
   {
     "word": "ag",
