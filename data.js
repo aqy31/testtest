@@ -45,7 +45,7 @@ const TABLE_DATA = [
     "word": "a₈",
     "num": "535",
     "sign": "𒌨",
-    "note": "شغال؟"
+    "note": "❌️ .575\n"
   },
   {
     "word": "a₉",
