@@ -92,7 +92,8 @@ const TABLE_DATA = [
   {
     "word": "áb,áp",
     "num": "420",
-    "sign": "𒀖"
+    "sign": "𒀖",
+    "note": "✅️\n"
   },
   {
     "word": "àb, àp, aba₃",
