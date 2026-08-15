@@ -217,7 +217,8 @@ const TABLE_DATA = [
   {
     "word": "adam",
     "num": "382",
-    "sign": "𒂔"
+    "sign": "𒂔",
+    "note": "❌️ adan 381  العلامة خطا"
   },
   {
     "word": "addir",
