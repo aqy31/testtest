@@ -283,32 +283,38 @@ const TABLE_DATA = [
   {
     "word": "agar₂",
     "num": "500",
-    "sign": "𒇋"
+    "sign": "𒇋",
+    "note": "✅️"
   },
   {
     "word": "agar₃",
     "num": "526",
-    "sign": "𒆻"
+    "sign": "𒆻",
+    "note": "✅️"
   },
   {
     "word": "agar₄ ?",
     "num": "504",
-    "sign": "𒋞"
+    "sign": "𒋞",
+    "note": " العلامة خطا ❌️ 501"
   },
   {
     "word": "agar₅ ?",
     "num": "571",
-    "sign": "𒑚"
+    "sign": "𒑚",
+    "note": "❌️579 العلانة ناقصة "
   },
   {
     "word": "agargara",
     "num": "97",
-    "sign": "𒉩"
+    "sign": "𒉩",
+    "note": "❌️ 87"
   },
   {
     "word": "agargara₂",
     "num": "87",
-    "sign": "𒉣𒈨"
+    "sign": "𒉣𒈨",
+    "note": "العلامة ناقصة ❌️"
   },
   {
     "word": "agarim",
