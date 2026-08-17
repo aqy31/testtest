@@ -337,32 +337,38 @@ const TABLE_DATA = [
   {
     "word": "agrig",
     "num": "131 / 452",
-    "sign": "𒅆𒁾"
+    "sign": "𒅆𒁾",
+    "note": " صح . لكن بدون رقم 131"
   },
   {
     "word": "aḫ",
     "num": "398",
-    "sign": "𒄴"
+    "sign": "𒄴",
+    "note": "✅️"
   },
   {
     "word": "āḫ",
     "num": "334",
-    "sign": "𒀉"
+    "sign": "𒀉",
+    "note": "❌️ 331 . العلامة خطا ah2"
   },
   {
     "word": "àḫ",
     "num": "381",
-    "sign": "𒍞"
+    "sign": "𒍞",
+    "note": "❌️  العلامة خطا \n"
   },
   {
     "word": "aḫ₄",
     "num": "60",
-    "sign": "𒀪"
+    "sign": "𒀪",
+    "note": "❌️ العلامة خطا \n"
   },
   {
     "word": "aḫulab",
     "num": "102",
-    "sign": "𒈽"
+    "sign": "𒈽",
+    "note": "✅️\n"
   },
   {
     "word": "ai, aia",
