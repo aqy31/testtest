@@ -236,7 +236,7 @@ const TABLE_DATA = [
     "word": "ag, ak, aq",
     "num": "97",
     "sign": "𒀝",
-    "note": "✅️\n"
+    "note": "✅️+aka\n"
   },
   {
     "word": "ag",
@@ -373,7 +373,8 @@ const TABLE_DATA = [
   {
     "word": "ai, aia",
     "num": "579",
-    "sign": "𒀀𒀀"
+    "sign": "𒀀𒀀",
+    "note": "✅️"
   },
   {
     "word": "ak, aka",
