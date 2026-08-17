@@ -420,7 +420,8 @@ const TABLE_DATA = [
   {
     "word": "akkum",
     "num": "579 / 248",
-    "sign": "𒀀"
+    "sign": "𒀀",
+    "note": "❌️ aktum  علامة خطا . بدون رقم 248 "
   },
   {
     "word": "al",
