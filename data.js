@@ -498,12 +498,14 @@ const TABLE_DATA = [
   {
     "word": "alam",
     "num": "358",
-    "sign": "𒀩"
+    "sign": "𒀩",
+    "note": "✅️+alan "
   },
   {
     "word": "alammuš",
     "num": "444",
-    "sign": "𒋭"
+    "sign": "𒋭",
+    "note": " ❌️  علامة +141"
   },
   {
     "word": "alan",
