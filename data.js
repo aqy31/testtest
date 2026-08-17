@@ -510,72 +510,86 @@ const TABLE_DATA = [
   {
     "word": "alan",
     "num": "358",
-    "sign": "𒀩"
+    "sign": "𒀩",
+    "note": "✅️"
   },
   {
     "word": "alʾal",
     "num": "229",
-    "sign": "𒀠𒀠"
+    "sign": "𒀠𒀠",
+    "note": "❌️ 228  علامة خطا"
   },
   {
     "word": "alʾal₂",
     "num": "405",
-    "sign": "𒀠𒀠"
+    "sign": "𒀠𒀠",
+    "note": "105 علامة خطا "
   },
   {
     "word": "alim",
     "num": "421",
-    "sign": "𒄋"
+    "sign": "𒄋",
+    "note": "✅️"
   },
   {
     "word": "alla",
     "num": "560",
-    "sign": "𒉄"
+    "sign": "𒉄",
+    "note": "✅️"
   },
   {
     "word": "allu, alli, ala",
     "num": "38",
-    "sign": "𒌷"
+    "sign": "𒌷",
+    "note": " لام واحدة بدون دبل لام ❌️"
   },
   {
     "word": "am",
     "num": "170",
-    "sign": "𒄠"
+    "sign": "𒄠",
+    "note": "✅️"
   },
   {
     "word": "ām",
     "num": "183",
-    "sign": "𒄠"
+    "sign": "𒄠",
+    "note": "❌️ علامة خطا ám"
   },
   {
     "word": "àm",
     "num": "579",
-    "sign": "𒀀𒀭"
+    "sign": "𒀀𒀭",
+    "note": "✅️"
   },
   {
     "word": "am₄",
     "num": "254",
-    "sign": "𒀪"
+    "sign": "𒀪",
+    "note": "251 علامة خطا"
   },
   {
     "word": "am₅",
     "num": "274",
-    "sign": "𒃣"
+    "sign": "𒃣",
+    "note": "❌️ 271"
   },
   {
     "word": "am₆",
     "num": "13",
-    "sign": "𒀭"
+    "sign": "𒀭",
+    "note": "✅️"
   },
   {
     "word": "ama",
     "num": "237",
-    "sign": "𒂼"
+    "sign": "𒂼",
+    "note": "✅️"
   },
   {
     "word": "ama₂",
     "num": "170",
-    "sign": "𒄠"
+    "sign": "𒄠",
+    "note": "✅️"
   },
   {
     "word": "ama₃",
