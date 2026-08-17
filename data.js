@@ -414,7 +414,8 @@ const TABLE_DATA = [
   {
     "word": "akkil₂",
     "num": "145",
-    "sign": "𒀜𒆤"
+    "sign": "𒀜𒆤",
+    "note": "✅️"
   },
   {
     "word": "akkum",
