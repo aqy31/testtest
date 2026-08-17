@@ -1192,233 +1192,278 @@ const TABLE_DATA = [
   {
     "word": "ašša₃",
     "num": "598b",
-    "sign": "𒐋"
+    "sign": "𒐋",
+    "note": "  ما موجودي"
   },
   {
     "word": "aš-šur",
     "num": "014",
-    "sign": "𒀸𒋩"
+    "sign": "𒀸𒋩",
+    "note": " ما موجودي"
   },
   {
     "word": "ašta",
     "num": "092",
-    "sign": "𒃰𒋺"
+    "sign": "𒃰𒋺",
+    "note": "❌️ 292 + ašša "
   },
   {
     "word": "ašte₂",
     "num": "522",
-    "sign": "𒆹"
+    "sign": "𒆹",
+    "note": "✅️"
   },
   {
     "word": "aštub",
     "num": "297",
-    "sign": "𒄞"
+    "sign": "𒄞",
+    "note": " ما موجود"
   },
   {
     "word": "at",
     "num": "145",
-    "sign": "𒀜"
+    "sign": "𒀜",
+    "note": "بدون علامة"
   },
   {
     "word": "aṭ",
     "num": "145",
-    "sign": "𒀜"
+    "sign": "𒀜",
+    "note": "✅️"
   },
   {
     "word": "at₂",
     "num": "010",
     "sign": "𒄉",
-    "note": " ad2   aṭ2"
+    "note": " ad2   aṭ2✅️"
   },
   {
     "word": "aṭ₂",
     "num": "010",
-    "sign": "𒄉"
+    "sign": "𒄉",
+    "note": "✅️"
   },
   {
     "word": "aw",
     "num": "383",
-    "sign": "𒉿"
+    "sign": "𒉿",
+    "note": " ما موجود"
   },
   {
     "word": "aya₂-aya₂",
     "num": "583",
-    "sign": "𒀁"
+    "sign": "𒀁",
+    "note": " ما موجود"
   },
   {
     "word": "aya₃",
     "num": "575",
-    "sign": "𒌨"
+    "sign": "𒌨",
+    "note": "ما موجود"
   },
   {
     "word": "aya₄",
     "num": "522",
-    "sign": "𒆹"
+    "sign": "𒆹",
+    "note": "ما موجود"
   },
   {
     "word": "az",
     "num": "131",
-    "sign": "𒊍"
+    "sign": "𒊍",
+    "note": "✅️"
   },
   {
     "word": "az₂",
     "num": "339",
-    "sign": "𒀾"
+    "sign": "𒀾",
+    "note": "✅️"
   },
   {
     "word": "az₃",
     "num": "001",
-    "sign": "𒀸"
+    "sign": "𒀸",
+    "note": "✅️"
   },
   {
     "word": "aza",
     "num": "131",
-    "sign": "𒊍"
+    "sign": "𒊍",
+    "note": "ما موجود"
   },
   {
     "word": "azad₂",
     "num": "063d",
-    "sign": "𒋺"
+    "sign": "𒋺",
+    "note": "ما موجود"
   },
   {
     "word": "azalag₂",
     "num": "536",
-    "sign": "𒌆"
+    "sign": "𒌆",
+    "note": " ما موجود"
   },
   {
     "word": "azlag₂",
     "num": "536",
-    "sign": "𒌆"
+    "sign": "𒌆",
+    "note": "❌️ ناقص علامة  azlagz1"
   },
   {
     "word": "azu",
     "num": "181n",
-    "sign": "𒍬"
+    "sign": "𒍬",
+    "note": " ما عتظهر الغلامة 181"
   },
   {
     "word": "ba",
     "num": "005",
-    "sign": "𒁀"
+    "sign": "𒁀",
+    "note": "✅️"
   },
   {
     "word": "ba₁₀?",
     "num": "439",
-    "sign": "𒉼"
+    "sign": "𒉼",
+    "note": "✅️"
   },
   {
     "word": "ba₁₁",
     "num": "019",
-    "sign": "𒅤"
+    "sign": "𒅤",
+    "note": "✅️"
   },
   {
     "word": "ba₁₃",
     "num": "532",
-    "sign": "𒈨"
+    "sign": "𒈨",
+    "note": "  ما موجودي "
   },
   {
     "word": "ba₁₅",
     "num": "074",
-    "sign": "𒁇"
+    "sign": "𒁇",
+    "note": " ما موجودي"
   },
   {
     "word": "ba₂",
     "num": "295",
-    "sign": "𒉺"
+    "sign": "𒉺",
+    "note": "✅️"
   },
   {
     "word": "ba₃",
     "num": "472",
-    "sign": "𒌍"
+    "sign": "𒌍",
+    "note": "✅️"
   },
   {
     "word": "ba₄",
     "num": "233",
-    "sign": "𒂷"
+    "sign": "𒂷",
+    "note": "✅️"
   },
   {
     "word": "ba₅?",
     "num": "030",
-    "sign": "𒅮"
+    "sign": "𒅮",
+    "note": "✅️"
   },
   {
     "word": "ba₆",
     "num": "318",
-    "sign": "𒌑"
+    "sign": "𒌑",
+    "note": "✅️"
   },
   {
     "word": "ba₇",
     "num": "074",
-    "sign": "𒈦"
+    "sign": "𒈦",
+    "note": "✅️"
   },
   {
     "word": "ba₉",
     "num": "069",
-    "sign": "𒁁"
+    "sign": "𒁁",
+    "note": "✅️"
   },
   {
     "word": "bab₂",
     "num": "381",
-    "sign": "𒌓"
+    "sign": "𒌓",
+    "note": "✅️"
   },
   {
     "word": "baba₂",
     "num": "133",
-    "sign": "𒆍"
+    "sign": "𒆍",
+    "note": " Baba3❌️"
   },
   {
     "word": "babar",
     "num": "381",
-    "sign": "𒌓"
+    "sign": "𒌓",
+    "note": "✅️"
   },
   {
     "word": "babbar",
     "num": "381",
-    "sign": "𒌓"
+    "sign": "𒌓",
+    "note": "Babbar2"
   },
   {
     "word": "babir",
     "num": "225",
-    "sign": "𒋋"
+    "sign": "𒋋",
+    "note": "  ما موجود "
   },
   {
     "word": "babir₂",
     "num": "215",
-    "sign": "𒋆"
+    "sign": "𒋆",
+    "note": " ما موجود "
   },
   {
     "word": "babu",
     "num": "133",
-    "sign": "𒆍"
+    "sign": "𒆍",
+    "note": " ما موجود"
   },
   {
     "word": "bad",
     "num": "069",
-    "sign": "𒁁"
+    "sign": "𒁁",
+    "note": "✅️"
   },
   {
     "word": "bad₂",
     "num": "469",
-    "sign": "𒉻"
+    "sign": "𒉻",
+    "note": "✅️"
   },
   {
     "word": "bad₅",
     "num": "449",
-    "sign": "𒅆"
+    "sign": "𒅆",
+    "note": "✅️"
   },
   {
     "word": "bada",
     "num": "069",
-    "sign": "𒁁"
+    "sign": "𒁁",
+    "note": " ما موجود bad مع a  بالنهاية "
   },
   {
     "word": "badi",
     "num": "449",
-    "sign": "𒅆"
+    "sign": "𒅆",
+    "note": "✅️"
   },
   {
     "word": "baeš",
     "num": "339",
-    "sign": "𒀾"
+    "sign": "𒀾",
+    "note": "✅️"
   },
   {
     "word": "bag",
