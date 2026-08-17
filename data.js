@@ -827,147 +827,176 @@ const TABLE_DATA = [
   {
     "word": "arah₃",
     "num": "261",
-    "sign": "𒃥"
+    "sign": "𒃥",
+    "note": "✅️"
   },
   {
     "word": "arda",
     "num": "050",
-    "sign": "𒀴"
+    "sign": "𒀴",
+    "note": "✅️"
   },
   {
     "word": "arhuš",
     "num": "271",
-    "sign": "𒃣"
+    "sign": "𒃣",
+    "note": "✅️"
   },
   {
     "word": "arhuš₄?",
     "num": "237",
-    "sign": "𒂼"
+    "sign": "𒂼",
+    "note": " ما موجودي"
   },
   {
     "word": "ari₃",
     "num": "295",
-    "sign": "𒉺"
+    "sign": "𒉺",
+    "note": "59  علامة خطا"
   },
   {
     "word": "ari₆",
     "num": "164",
-    "sign": "𒋧"
+    "sign": "𒋧",
+    "note": "  ما موجودي"
   },
   {
     "word": "aru",
     "num": "295",
-    "sign": "𒉺"
+    "sign": "𒉺",
+    "note": "علامة خطا 335"
   },
   {
     "word": "as",
     "num": "131",
-    "sign": "𒊍"
+    "sign": "𒊍",
+    "note": "✅️+aṣ az"
   },
   {
     "word": "aš",
     "num": "001",
-    "sign": "𒀸"
+    "sign": "𒀸",
+    "note": "✅️"
   },
   {
     "word": "aṣ",
     "num": "131",
-    "sign": "𒊍"
+    "sign": "𒊍",
+    "note": "✅️"
   },
   {
     "word": "aš₁₀",
     "num": "480",
-    "sign": "𒁹"
+    "sign": "𒁹",
+    "note": "  ما موجودي"
   },
   {
     "word": "aš₁₁",
     "num": "360",
-    "sign": "𒀹"
+    "sign": "𒀹",
+    "note": " ما كوجودي "
   },
   {
     "word": "as₂",
     "num": "339",
-    "sign": "𒀾"
+    "sign": "𒀾",
+    "note": "✅️"
   },
   {
     "word": "aš₂",
     "num": "339",
-    "sign": "𒀾"
+    "sign": "𒀾",
+    "note": "❌️ az"
   },
   {
     "word": "aṣ₂",
     "num": "339",
-    "sign": "𒀾"
+    "sign": "𒀾",
+    "note": "✅️"
   },
   {
     "word": "as₃",
     "num": "001",
-    "sign": "𒀸"
+    "sign": "𒀸",
+    "note": "✅️"
   },
   {
     "word": "aš₃",
     "num": "598b",
-    "sign": "𒐋"
+    "sign": "𒐋",
+    "note": "❌️398b"
   },
   {
     "word": "aṣ₃",
     "num": "001",
-    "sign": "𒀸"
+    "sign": "𒀸",
+    "note": "✅️"
   },
   {
     "word": "as₄",
     "num": "522",
-    "sign": "𒆹"
+    "sign": "𒆹",
+    "note": "✅️"
   },
   {
     "word": "as₅",
     "num": "071",
-    "sign": "𒋓"
+    "sign": "𒋓",
+    "note": "  ما موجودي"
   },
   {
     "word": "as₆",
     "num": "409e",
-    "sign": "𒄱"
+    "sign": "𒄱",
+    "note": " ما موجودي . يجوز بالابات الفرنسي لان كثير اكو علامات ما موجودي عندي"
   },
   {
     "word": "aš₇",
     "num": "071",
-    "sign": "𒋓"
+    "sign": "𒋓",
+    "note": "✅️"
   },
   {
     "word": "aš₈",
     "num": "409e",
-    "sign": "𒄱"
+    "sign": "𒄱",
+    "note": "ما موجود"
   },
   {
     "word": "aš₉",
     "num": "331a",
-    "sign": "𒀼𒀼 / 𒑀"
+    "sign": "𒀼𒀼 / 𒑀",
+    "note": " ما موجود"
   },
   {
     "word": "asa",
     "num": "131",
-    "sign": "𒊍"
+    "sign": "𒊍",
+    "note": " ما موجودي"
   },
   {
     "word": "aša",
     "num": "001",
-    "sign": "𒀸"
+    "sign": "𒀸",
+    "note": "✅️"
   },
   {
     "word": "asa₂",
     "num": "339",
-    "sign": "𒀾"
+    "sign": "𒀾",
+    "note": " ما كوجود"
   },
   {
     "word": "aša₂",
     "num": "339",
-    "sign": "𒀾"
+    "sign": "𒀾",
+    "note": "579  علامة خطا "
   },
   {
     "word": "aša₃",
     "num": "598b",
-    "sign": "𒐋"
+    "sign": "𒐋",
+    "note": " ما موجود"
   },
   {
     "word": "aša₅",
@@ -977,157 +1006,188 @@ const TABLE_DATA = [
   {
     "word": "ašag",
     "num": "105",
-    "sign": "𒃷"
+    "sign": "𒃷",
+    "note": "Ašgal 104"
   },
   {
     "word": "ašag₂",
     "num": "261",
-    "sign": "𒃥"
+    "sign": "𒃥",
+    "note": "  ما موجود"
   },
   {
     "word": "asal",
     "num": "044",
-    "sign": "𒍂"
+    "sign": "𒍂",
+    "note": "✅️"
   },
   {
     "word": "asar",
     "num": "044",
-    "sign": "𒍂"
+    "sign": "𒍂",
+    "note": "✅️"
   },
   {
     "word": "asara",
     "num": "044",
-    "sign": "𒍂"
+    "sign": "𒍂",
+    "note": "✅️"
   },
   {
     "word": "asari",
     "num": "044",
-    "sign": "𒍂"
+    "sign": "𒍂",
+    "note": "✅️"
   },
   {
     "word": "asaru",
     "num": "044",
-    "sign": "𒍂"
+    "sign": "𒍂",
+    "note": "✅️"
   },
   {
     "word": "ašdar",
     "num": "418",
-    "sign": "𒌋𒁯"
+    "sign": "𒌋𒁯",
+    "note": " ما موجود"
   },
   {
     "word": "ašgi₂",
     "num": "071",
-    "sign": "𒋓"
+    "sign": "𒋓",
+    "note": " ما موجودي"
   },
   {
     "word": "asil",
     "num": "156",
-    "sign": "𒂰"
+    "sign": "𒂰",
+    "note": "✅️ asilal"
   },
   {
     "word": "asil₃",
     "num": "158",
-    "sign": "𒂢"
+    "sign": "𒂢",
+    "note": "ما موجود"
   },
   {
     "word": "asil₄",
     "num": "160",
-    "sign": "𒂤"
+    "sign": "𒂤",
+    "note": " ما موجود"
   },
   {
     "word": "asil₅",
     "num": "159",
-    "sign": "𒂣"
+    "sign": "𒂣",
+    "note": " ما موجود"
   },
   {
     "word": "asila",
     "num": "156",
-    "sign": "𒂰"
+    "sign": "𒂰",
+    "note": "✅️"
   },
   {
     "word": "asila₂",
     "num": "215",
-    "sign": "𒋆"
+    "sign": "𒋆",
+    "note": "✅️+asilal2"
   },
   {
     "word": "asila₃",
     "num": "158",
-    "sign": "𒂢"
+    "sign": "𒂢",
+    "note": " ما موجود"
   },
   {
     "word": "asila₄",
     "num": "160",
-    "sign": "𒂤"
+    "sign": "𒂤",
+    "note": " ما موجود"
   },
   {
     "word": "asila₅",
     "num": "159",
-    "sign": "𒂣"
+    "sign": "𒂣",
+    "note": "ما موجود"
   },
   {
     "word": "asilal",
     "num": "156",
-    "sign": "𒂰"
+    "sign": "𒂰",
+    "note": "✅️"
   },
   {
     "word": "asilal₂",
     "num": "215",
-    "sign": "𒋆"
+    "sign": "𒋆",
+    "note": "✅️"
   },
   {
     "word": "asilal₃",
     "num": "158",
-    "sign": "𒂢"
+    "sign": "𒂢",
+    "note": " ما موجود"
   },
   {
     "word": "asilal₄",
     "num": "160",
-    "sign": "𒂤"
+    "sign": "𒂤",
+    "note": "ما موجود"
   },
   {
     "word": "asilal₅",
     "num": "159",
-    "sign": "𒂣"
+    "sign": "𒂣",
+    "note": "ما موجود"
   },
   {
     "word": "asilla₂",
     "num": "215",
-    "sign": "𒋆"
+    "sign": "𒋆",
+    "note": "ما موجود"
   },
   {
     "word": "asillal₃",
     "num": "158",
-    "sign": "𒂢"
+    "sign": "𒂢",
+    "note": " ما موجود"
   },
   {
     "word": "aški",
     "num": "066c",
-    "sign": "𒍤𒆸"
+    "sign": "𒍤𒆸",
+    "note": " ما موجود"
   },
   {
     "word": "ašlag₂",
     "num": "536",
-    "sign": "𒌆"
+    "sign": "𒌆",
+    "note": "Ašlag1  علامة خطا ورقم العلامة مبهم "
   },
   {
     "word": "aslum",
     "num": "522",
-    "sign": "𒆹"
+    "sign": "𒆹",
+    "note": " ما موجود"
   },
   {
     "word": "ašnan₂",
     "num": "367",
-    "sign": "𒊺"
+    "sign": "𒊺",
+    "note": " علامة ناقصة"
   },
   {
     "word": "ašša",
     "num": "001",
-    "sign": "𒀸"
+    "sign": "𒀸",
+    "note": "✅️"
   },
   {
     "word": "ašša₂",
     "num": "092",
-    "sign": "𒃰𒋺"
+    "sign": "𒃰𒋺",
+    "note": "292"
   },
   {
     "word": "ašša₃",
