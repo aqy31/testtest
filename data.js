@@ -379,27 +379,32 @@ const TABLE_DATA = [
   {
     "word": "ak, aka",
     "num": "97",
-    "sign": "𒀝"
+    "sign": "𒀝",
+    "note": "✅️  "
   },
   {
     "word": "aka₂",
     "num": "483",
-    "sign": "𒉘"
+    "sign": "𒉘",
+    "note": "❌️ 183"
   },
   {
     "word": "aka₃",
     "num": "344 / 444",
-    "sign": "𒋃"
+    "sign": "𒋃",
+    "note": "❌️ 314  فقط "
   },
   {
     "word": "akami",
     "num": "",
-    "sign": "𒀀𒅗"
+    "sign": "𒀀𒅗",
+    "note": "❌️ akani. 291 "
   },
   {
     "word": "akar",
     "num": "87 / 42",
-    "sign": "𒉬"
+    "sign": "𒉬",
+    "note": "  فقط 87"
   },
   {
     "word": "akkil",
