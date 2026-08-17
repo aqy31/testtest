@@ -426,62 +426,74 @@ const TABLE_DATA = [
   {
     "word": "al",
     "num": "",
-    "sign": "𒀠"
+    "sign": "𒀠",
+    "note": "298"
   },
   {
     "word": "āl",
     "num": "",
-    "sign": "𒀠"
+    "sign": "𒀠",
+    "note": "❌️  علامة خطا . 358 . Ál"
   },
   {
     "word": "al₅",
     "num": "381",
-    "sign": "𒌓"
+    "sign": "𒌓",
+    "note": "✅️"
   },
   {
     "word": "al₇",
     "num": "13",
-    "sign": "𒀭"
+    "sign": "𒀭",
+    "note": "✅️"
   },
   {
     "word": "alar",
     "num": "217",
-    "sign": "𒋈"
+    "sign": "𒋈",
+    "note": "Alal 297  علامة خطا"
   },
   {
     "word": "alad₂",
     "num": "522",
-    "sign": "𒆹"
+    "sign": "𒆹",
+    "note": "❌️علامة خطا 322"
   },
   {
     "word": "alad₃",
     "num": "",
-    "sign": "𒆘"
+    "sign": "𒆘",
+    "note": "323"
   },
   {
     "word": "alal",
     "num": "347",
-    "sign": "𒋄"
+    "sign": "𒋄",
+    "note": "علامة خطا 297"
   },
   {
     "word": "alal₂",
     "num": "314 / 356",
-    "sign": "𒋃"
+    "sign": "𒋃",
+    "note": "بدون 356"
   },
   {
     "word": "alala",
     "num": "",
-    "sign": "𒀩"
+    "sign": "𒀩",
+    "note": "358"
   },
   {
     "word": "alala₂",
     "num": "373",
-    "sign": "𒋤"
+    "sign": "𒋤",
+    "note": "✅️"
   },
   {
     "word": "alala₃",
     "num": "384",
-    "sign": "𒊮"
+    "sign": "𒊮",
+    "note": "العلامة خطا و 381"
   },
   {
     "word": "alam",
