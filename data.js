@@ -594,192 +594,230 @@ const TABLE_DATA = [
   {
     "word": "ama₃",
     "num": "85",
-    "sign": "𒂼"
+    "sign": "𒂼",
+    "note": "❌️علامة خطا\n"
   },
   {
     "word": "ama₄",
     "num": "251",
-    "sign": "𒃘"
+    "sign": "𒃘",
+    "note": "✅️"
   },
   {
     "word": "ama₅",
     "num": "271",
-    "sign": "𒃣"
+    "sign": "𒃣",
+    "note": "✅️"
   },
   {
     "word": "amagi",
     "num": "583",
-    "sign": "𒀁"
+    "sign": "𒀁",
+    "note": "علامة خطا"
   },
   {
     "word": "amam",
     "num": "103b",
-    "sign": "𒂁"
+    "sign": "𒂁",
+    "note": "علامة خطا"
   },
   {
     "word": "amar",
     "num": "437",
-    "sign": "𒀫"
+    "sign": "𒀫",
+    "note": "✅️"
   },
   {
     "word": "amaš",
     "num": "293",
-    "sign": "𒁦"
+    "sign": "𒁦",
+    "note": "✅️"
   },
   {
     "word": "amat",
     "num": "558",
-    "sign": "𒊩𒆳"
+    "sign": "𒊩𒆳",
+    "note": "✅️"
   },
   {
     "word": "ambar",
     "num": "522",
-    "sign": "𒆹"
+    "sign": "𒆹",
+    "note": "✅️"
   },
   {
     "word": "amedu",
     "num": "237",
-    "sign": "𒂼𒀀𒌅"
+    "sign": "𒂼𒀀𒌅",
+    "note": "✅️"
   },
   {
     "word": "amma",
     "num": "366",
-    "sign": "𒆳"
+    "sign": "𒆳",
+    "note": "✅️"
   },
   {
     "word": "amme ?",
     "num": "51",
-    "sign": "𒀪"
+    "sign": "𒀪",
+    "note": "علامة خطا❌️"
   },
   {
     "word": "amma",
     "num": "381",
-    "sign": "𒆳"
+    "sign": "𒆳",
+    "note": " علامة خطا amna"
   },
   {
     "word": "amma₂",
     "num": "474",
-    "sign": "𒆳"
+    "sign": "𒆳",
+    "note": "Amna2 471  علامة خطا ❌️❌️"
   },
   {
     "word": "an",
     "num": "13",
-    "sign": "𒀭"
+    "sign": "𒀭",
+    "note": "✅️"
   },
   {
     "word": "ana",
     "num": "480",
-    "sign": "𒁹"
+    "sign": "𒁹",
+    "note": "✅️"
   },
   {
     "word": "ana₂",
     "num": "13",
-    "sign": "𒀭"
+    "sign": "𒀭",
+    "note": "✅️"
   },
   {
     "word": "ana₃",
     "num": "1",
-    "sign": "𒀸"
+    "sign": "𒀸",
+    "note": "✅️"
   },
   {
     "word": "andul",
     "num": "329",
-    "sign": "𒊨"
+    "sign": "𒊨",
+    "note": "مسمار ناقص"
   },
   {
     "word": "anše",
     "num": "208",
-    "sign": "𒀲 / 𒄏"
+    "sign": "𒀲 / 𒄏",
+    "note": "Anšu+✅️"
   },
   {
     "word": "anšu",
     "num": "208",
-    "sign": "𒀲"
+    "sign": "𒀲",
+    "note": "Anše+✅️"
   },
   {
     "word": "ap",
     "num": "cf. ab 428",
-    "sign": "𒀊"
+    "sign": "𒀊",
+    "note": "❌️ 128  وباللابات بدون علامة تكون "
   },
   {
     "word": "apim",
     "num": "56",
-    "sign": "𒀳"
+    "sign": "𒀳",
+    "note": " Apin ❌️(بس داخل لابات تكون apim)\n"
   },
   {
     "word": "aq",
     "num": "cf. ag 97",
-    "sign": "𒀝"
+    "sign": "𒀝",
+    "note": "بدون علامة"
   },
   {
     "word": "ar",
     "num": "451",
-    "sign": "𒅈"
+    "sign": "𒅈",
+    "note": "✅️"
   },
   {
     "word": "ar₂",
     "num": "306",
-    "sign": "𒌒"
+    "sign": "𒌒",
+    "note": "Ara2+✅️"
   },
   {
     "word": "ar₃",
     "num": "401",
-    "sign": "𒄯"
+    "sign": "𒄯",
+    "note": "Ara3+✅️"
   },
   {
     "word": "ar₅",
     "num": "362",
-    "sign": "𒃵"
+    "sign": "𒃵",
+    "note": "مبهمة"
   },
   {
     "word": "ar₆",
     "num": "206",
-    "sign": "𒁺"
+    "sign": "𒁺",
+    "note": "مبهمة "
   },
   {
     "word": "ara",
     "num": "353",
-    "sign": "𒊭"
+    "sign": "𒊭",
+    "note": "مبهمة وما موجودي"
   },
   {
     "word": "ara₂",
     "num": "306",
-    "sign": "𒌒"
+    "sign": "𒌒",
+    "note": "✅️ar2+"
   },
   {
     "word": "ara₃",
     "num": "401",
-    "sign": "𒄯"
+    "sign": "𒄯",
+    "note": "✅️ ar3+"
   },
   {
     "word": "ara₆?",
     "num": "206",
-    "sign": "𒁺"
+    "sign": "𒁺",
+    "note": " مبهمة"
   },
   {
     "word": "ara₇",
     "num": "381",
-    "sign": "𒌓"
+    "sign": "𒌓",
+    "note": "❌️ arab   علامة خطا "
   },
   {
     "word": "ara₈",
     "num": "451",
-    "sign": "𒅈"
+    "sign": "𒅈",
+    "note": "مبهمة وما موجودي"
   },
   {
     "word": "arad",
     "num": "050",
-    "sign": "𒀴"
+    "sign": "𒀴",
+    "note": "✅️"
   },
   {
     "word": "arad₂",
     "num": "051",
-    "sign": "𒀵"
+    "sign": "𒀵",
+    "note": "✅️"
   },
   {
     "word": "arad₃?",
     "num": "436",
-    "sign": "𒇵"
+    "sign": "𒇵",
+    "note": "ما موجودي"
   },
   {
     "word": "aragub",
