@@ -3149,97 +3149,116 @@ const TABLE_DATA = [
   {
     "word": "de",
     "num": "457",
-    "sign": "𒁲"
+    "sign": "𒁲",
+    "note": "✅️"
   },
   {
     "word": "de₁₀",
     "num": "144",
-    "sign": "𒌉"
+    "sign": "𒌉",
+    "note": "🚫"
   },
   {
     "word": "de₃",
     "num": "172",
-    "sign": "𒉈"
+    "sign": "𒉈",
+    "note": "✅️"
   },
   {
     "word": "de₄",
     "num": "376",
-    "sign": "𒋼"
+    "sign": "𒋼",
+    "note": "✅️"
   },
   {
     "word": "de₅",
     "num": "086",
-    "sign": "𒊑"
+    "sign": "𒊑",
+    "note": "✅️"
   },
   {
     "word": "de₆",
     "num": "206",
-    "sign": "𒁺"
+    "sign": "𒁺",
+    "note": "✅️"
   },
   {
     "word": "deb",
     "num": "537",
-    "sign": "𒁳"
+    "sign": "𒁳",
+    "note": "✅️"
   },
   {
     "word": "deb₂",
     "num": "536",
-    "sign": "𒆪"
+    "sign": "𒆪",
+    "note": "✅️"
   },
   {
     "word": "deh",
     "num": "138",
-    "sign": "𒁾"
+    "sign": "𒁾",
+    "note": "✅️"
   },
   {
     "word": "deh₂",
     "num": "134",
-    "sign": "𒌝"
+    "sign": "𒌝",
+    "note": "🚫"
   },
   {
     "word": "deh₃",
     "num": "433",
-    "sign": "𒉏"
+    "sign": "𒉏",
+    "note": "🚫"
   },
   {
     "word": "dehi",
     "num": "138",
-    "sign": "𒁾"
+    "sign": "𒁾",
+    "note": "🚫"
   },
   {
     "word": "dehi₂",
     "num": "134",
-    "sign": "𒌝"
+    "sign": "𒌝",
+    "note": "🚫"
   },
   {
     "word": "dehi₃",
     "num": "433",
-    "sign": "𒉏"
+    "sign": "𒉏",
+    "note": "🚫"
   },
   {
     "word": "del",
     "num": "001",
-    "sign": "𒀸"
+    "sign": "𒀸",
+    "note": "🚫"
   },
   {
     "word": "del₂",
     "num": "377",
-    "sign": "𒇺"
+    "sign": "𒇺",
+    "note": "🚫"
   },
   {
     "word": "del₄",
     "num": "360",
-    "sign": "𒀹"
+    "sign": "𒀹",
+    "note": "🚫"
   },
   {
     "word": "dele",
     "num": "001",
-    "sign": "𒀸"
+    "sign": "𒀸",
+    "note": "✅️"
   },
   {
     "word": "dele₄",
     "num": "360",
-    "sign": "𒀹"
+    "sign": "𒀹",
+    "note": "🚫"
   },
   {
     "word": "delen",
