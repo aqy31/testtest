@@ -1832,27 +1832,32 @@ const TABLE_DATA = [
   {
     "word": "batu",
     "num": "472",
-    "sign": "𒌍"
+    "sign": "𒌍",
+    "note": "✅️"
   },
   {
     "word": "be",
     "num": "069",
-    "sign": "𒁁"
+    "sign": "𒁁",
+    "note": "✅️"
   },
   {
     "word": "be₂",
     "num": "214",
-    "sign": "𒁉"
+    "sign": "𒁉",
+    "note": "✅️"
   },
   {
     "word": "be₃",
     "num": "231",
-    "sign": "𒉌"
+    "sign": "𒉌",
+    "note": "✅️"
   },
   {
     "word": "be₄",
     "num": "005",
-    "sign": "𒁀"
+    "sign": "𒁀",
+    "note": "✅️"
   },
   {
     "word": "be₅",
@@ -1862,92 +1867,110 @@ const TABLE_DATA = [
   {
     "word": "be₆",
     "num": "383",
-    "sign": "𒉿"
+    "sign": "𒉿",
+    "note": "  ما موجود"
   },
   {
     "word": "be₇",
     "num": "172",
-    "sign": "𒉈"
+    "sign": "𒉈",
+    "note": "❌️173"
   },
   {
     "word": "bed",
     "num": "324",
-    "sign": "𒂍"
+    "sign": "𒂍",
+    "note": " ما موجود "
   },
   {
     "word": "bed₃",
     "num": "536",
-    "sign": "𒆪"
+    "sign": "𒆪",
+    "note": " ما موجود"
   },
   {
     "word": "bek",
     "num": "592",
-    "sign": "𒋝"
+    "sign": "𒋝",
+    "note": " كا موجود"
   },
   {
     "word": "bel",
     "num": "172",
-    "sign": "𒉈"
+    "sign": "𒉈",
+    "note": " ✅️"
   },
   {
     "word": "bel₂",
     "num": "173",
-    "sign": "𒉋"
+    "sign": "𒉋",
+    "note": " ما موجود"
   },
   {
     "word": "belili",
     "num": "358",
-    "sign": "𒀩"
+    "sign": "𒀩",
+    "note": "✅️"
   },
   {
     "word": "ber",
     "num": "400",
-    "sign": "𒄵"
+    "sign": "𒄵",
+    "note": " ما موجود"
   },
   {
     "word": "ber₂",
     "num": "381",
-    "sign": "𒌓"
+    "sign": "𒌓",
+    "note": " ما موجود"
   },
   {
     "word": "ber₅",
     "num": "079",
-    "sign": "𒉆"
+    "sign": "𒉆",
+    "note": " ما موجود"
   },
   {
     "word": "ber₆",
     "num": "388",
-    "sign": "𒊶"
+    "sign": "𒊶",
+    "note": " ما موجود"
   },
   {
     "word": "ber₇",
     "num": "390",
-    "sign": "𒊯"
+    "sign": "𒊯",
+    "note": "ما موجود"
   },
   {
     "word": "beš₁₂",
     "num": "381",
-    "sign": "𒌓"
+    "sign": "𒌓",
+    "note": " ما موجود"
   },
   {
     "word": "bešeg",
     "num": "233",
-    "sign": "𒂷"
+    "sign": "𒂷",
+    "note": " ما موجود"
   },
   {
     "word": "bet",
     "num": "324",
-    "sign": "𒂍"
+    "sign": "𒂍",
+    "note": " ما موجود "
   },
   {
     "word": "bet₃",
     "num": "536",
-    "sign": "𒆪"
+    "sign": "𒆪",
+    "note": " ما "
   },
   {
     "word": "betu",
     "num": "324",
-    "sign": "𒂍"
+    "sign": "𒂍",
+    "note": "ما"
   },
   {
     "word": "bi",
@@ -2287,7 +2310,8 @@ const TABLE_DATA = [
   {
     "word": "bube",
     "num": "110",
-    "sign": "𒆯"
+    "sign": "𒆯",
+    "note": "علامة ناقصة"
   },
   {
     "word": "bugin",
@@ -2667,7 +2691,8 @@ const TABLE_DATA = [
   {
     "word": "dabe",
     "num": "537",
-    "sign": "𒁳"
+    "sign": "𒁳",
+    "note": "✅️ بدون e "
   },
   {
     "word": "dad",
