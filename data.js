@@ -3698,27 +3698,32 @@ const TABLE_DATA = [
   {
     "word": "diner",
     "num": "013",
-    "sign": "𒀭"
+    "sign": "𒀭",
+    "note": "🚫"
   },
   {
     "word": "dingir",
     "num": "013",
-    "sign": "𒀭"
+    "sign": "𒀭",
+    "note": "✅️"
   },
   {
     "word": "dingira",
     "num": "013",
-    "sign": "𒀭"
+    "sign": "𒀭",
+    "note": "🚫"
   },
   {
     "word": "dini",
     "num": "465",
-    "sign": "𒁷"
+    "sign": "𒁷",
+    "note": "🚫"
   },
   {
     "word": "dinir",
     "num": "013",
-    "sign": "𒀭"
+    "sign": "𒀭",
+    "note": "🚫"
   },
   {
     "word": "dip",
