@@ -3745,42 +3745,50 @@ const TABLE_DATA = [
   {
     "word": "dir",
     "num": "123",
-    "sign": "𒋛𒀀"
+    "sign": "𒋛𒀀",
+    "note": "  العلامات ما تكون مفصولة"
   },
   {
     "word": "dir₂",
     "num": "113",
-    "sign": "𒁯"
+    "sign": "𒁯",
+    "note": "114"
   },
   {
     "word": "dir₃",
     "num": "013",
-    "sign": "𒀭"
+    "sign": "𒀭",
+    "note": "✅️"
   },
   {
     "word": "dir₄",
     "num": "375",
-    "sign": "𒌁"
+    "sign": "𒌁",
+    "note": "✅️"
   },
   {
     "word": "dirgul",
     "num": "122a",
-    "sign": "𒈣𒈮"
+    "sign": "𒈣𒈮",
+    "note": "🚫"
   },
   {
     "word": "diri",
     "num": "123",
-    "sign": "𒋛𒀀"
+    "sign": "𒋛𒀀",
+    "note": "✅️"
   },
   {
     "word": "diri₂?",
     "num": "535",
-    "sign": "𒌨"
+    "sign": "𒌨",
+    "note": "🚫"
   },
   {
     "word": "dirig",
     "num": "123",
-    "sign": "𒋛𒀀"
+    "sign": "𒋛𒀀",
+    "note": "✅️"
   },
   {
     "word": "diš",
