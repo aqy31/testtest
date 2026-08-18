@@ -2664,17 +2664,20 @@ const TABLE_DATA = [
   {
     "word": "buzur",
     "num": "411",
-    "sign": "𒌋"
+    "sign": "𒌋",
+    "note": "✅️"
   },
   {
     "word": "buzur₂",
     "num": "471",
-    "sign": "𒌋𒌋"
+    "sign": "𒌋𒌋",
+    "note": "✅️"
   },
   {
     "word": "buzur₅",
     "num": "019",
-    "sign": "𒅤"
+    "sign": "𒅤",
+    "note": "✅️"
   },
   {
     "word": "d",
