@@ -3350,292 +3350,350 @@ const TABLE_DATA = [
   {
     "word": "di",
     "num": "457",
-    "sign": "𒁲"
+    "sign": "𒁲",
+    "note": "✅️"
   },
   {
     "word": "di₁₁",
     "num": "094",
-    "sign": "𒁴"
+    "sign": "𒁴",
+    "note": "🚫"
   },
   {
     "word": "di₁₂",
     "num": "376",
-    "sign": "𒋼"
+    "sign": "𒋼",
+    "note": "🚫"
   },
   {
     "word": "di₄",
     "num": "144",
-    "sign": "𒌉"
+    "sign": "𒌉",
+    "note": "✅️"
   },
   {
     "word": "di₅",
     "num": "086",
-    "sign": "𒊑"
+    "sign": "𒊑",
+    "note": "✅️"
   },
   {
     "word": "di₆",
     "num": "206",
-    "sign": "𒁺"
+    "sign": "𒁺",
+    "note": "✅️"
   },
   {
     "word": "di₇",
     "num": "172",
-    "sign": "𒉈"
+    "sign": "𒉈",
+    "note": "✅️"
   },
   {
     "word": "dib",
     "num": "537",
-    "sign": "𒁳"
+    "sign": "𒁳",
+    "note": "✅️"
   },
   {
     "word": "dib₂",
     "num": "536",
-    "sign": "𒆪"
+    "sign": "𒆪",
+    "note": "✅️"
   },
   {
     "word": "dib₅",
     "num": "493",
-    "sign": "𒇆"
+    "sign": "𒇆",
+    "note": "🚫"
   },
   {
     "word": "dibi",
     "num": "537",
-    "sign": "𒁳"
+    "sign": "𒁳",
+    "note": "🚫"
   },
   {
     "word": "dibur",
     "num": "013",
-    "sign": "𒀭"
+    "sign": "𒀭",
+    "note": "🚫"
   },
   {
     "word": "did?",
     "num": "399",
-    "sign": "𒅎"
+    "sign": "𒅎",
+    "note": "🚫"
   },
   {
     "word": "didala?",
     "num": "384",
-    "sign": "𒊮"
+    "sign": "𒊮",
+    "note": "🚫"
   },
   {
     "word": "dig",
     "num": "231",
-    "sign": "𒉌"
+    "sign": "𒉌",
+    "note": "✅️"
   },
   {
     "word": "digi",
     "num": "231",
-    "sign": "𒉌"
+    "sign": "𒉌",
+    "note": "✅️"
   },
   {
     "word": "digir",
     "num": "013",
-    "sign": "𒀭"
+    "sign": "𒀭",
+    "note": "🚫"
   },
   {
     "word": "dih",
     "num": "138",
-    "sign": "𒁾"
+    "sign": "𒁾",
+    "note": "✅️"
   },
   {
     "word": "dih₂",
     "num": "134",
-    "sign": "𒌝"
+    "sign": "𒌝",
+    "note": "🚫"
   },
   {
     "word": "dih₃",
     "num": "433",
-    "sign": "𒉏"
+    "sign": "𒉏",
+    "note": "🚫"
   },
   {
     "word": "dihi",
     "num": "069",
-    "sign": "𒁁"
+    "sign": "𒁁",
+    "note": "✅️"
   },
   {
     "word": "dihi₂",
     "num": "134",
-    "sign": "𒌝"
+    "sign": "𒌝",
+    "note": "🚫"
   },
   {
     "word": "dihi₃",
     "num": "433",
-    "sign": "𒉏"
+    "sign": "𒉏",
+    "note": "🚫"
   },
   {
     "word": "dik",
     "num": "231",
-    "sign": "𒉌"
+    "sign": "𒉌",
+    "note": "✅️"
   },
   {
     "word": "dil",
     "num": "001",
-    "sign": "𒀸"
+    "sign": "𒀸",
+    "note": "✅️"
   },
   {
     "word": "dil₂",
     "num": "329",
-    "sign": "𒊨"
+    "sign": "𒊨",
+    "note": "377 علامة خطا"
   },
   {
     "word": "dil₄",
     "num": "360",
-    "sign": "𒀹"
+    "sign": "𒀹",
+    "note": "🚫"
   },
   {
     "word": "dili",
     "num": "001",
-    "sign": "𒀸"
+    "sign": "𒀸",
+    "note": "✅️"
   },
   {
     "word": "dili₂",
     "num": "377",
-    "sign": "𒇺"
+    "sign": "𒇺",
+    "note": "✅️"
   },
   {
     "word": "dili₄",
     "num": "360",
-    "sign": "𒀹"
+    "sign": "𒀹",
+    "note": "🚫"
   },
   {
     "word": "dilib",
     "num": "314",
-    "sign": "𒋃"
+    "sign": "𒋃",
+    "note": "✅️"
   },
   {
     "word": "dilib₂",
     "num": "024",
-    "sign": "𒆂"
+    "sign": "𒆂",
+    "note": "✅️"
   },
   {
     "word": "dilib₃",
     "num": "117",
-    "sign": "𒊠"
+    "sign": "𒊠",
+    "note": "العلامة خطا نوعا ما 118"
   },
   {
     "word": "dilib₄",
     "num": "115n",
-    "sign": "𒊞"
+    "sign": "𒊞",
+    "note": "🚫"
   },
   {
     "word": "dilib₅",
     "num": "116n",
-    "sign": "𒊦"
+    "sign": "𒊦",
+    "note": "🚫"
   },
   {
     "word": "dilib₆",
     "num": "120",
-    "sign": "𒊟"
+    "sign": "𒊟",
+    "note": "🚫"
   },
   {
     "word": "dilim₂",
     "num": "377",
-    "sign": "𒇺"
+    "sign": "𒇺",
+    "note": "Dilim 1  علامة خطا "
   },
   {
     "word": "dilim₃",
     "num": "510",
-    "sign": "𒇌"
+    "sign": "𒇌",
+    "note": "🚫"
   },
   {
     "word": "dilim₅",
     "num": "528",
-    "sign": "𒇅"
+    "sign": "𒇅",
+    "note": "🚫"
   },
   {
     "word": "dilin",
     "num": "510",
-    "sign": "𒇌"
+    "sign": "𒇌",
+    "note": "Dilina  ما متاكدي من العلامة "
   },
   {
     "word": "dilin₃",
     "num": "528",
-    "sign": "𒇅"
+    "sign": "𒇅",
+    "note": "🚫"
   },
   {
     "word": "dilina",
     "num": "510",
-    "sign": "𒇌"
+    "sign": "𒇌",
+    "note": "ما متاكدي من العلامة"
   },
   {
     "word": "dilina₃",
     "num": "528",
-    "sign": "𒇅"
+    "sign": "𒇅",
+    "note": "🚫"
   },
   {
     "word": "dilu",
     "num": "122a",
-    "sign": "𒈣𒈮"
+    "sign": "𒈣𒈮",
+    "note": "🚫"
   },
   {
     "word": "dilur",
     "num": "122a",
-    "sign": "𒈣𒈮"
+    "sign": "𒈣𒈮",
+    "note": "🚫"
   },
   {
     "word": "dim",
     "num": "094",
-    "sign": "𒁴"
+    "sign": "𒁴",
+    "note": "✅️"
   },
   {
     "word": "dim₁₂",
     "num": "314",
-    "sign": "𒋃"
+    "sign": "𒋃",
+    "note": "🚫"
   },
   {
     "word": "dim₁₃",
     "num": "371",
-    "sign": "𒁍"
+    "sign": "𒁍",
+    "note": "🚫"
   },
   {
     "word": "dim₂",
     "num": "440",
-    "sign": "𒁶"
+    "sign": "𒁶",
+    "note": "✅️"
   },
   {
     "word": "dim₅",
     "num": "352",
-    "sign": "𒂀"
+    "sign": "𒂀",
+    "note": "علامة خطا  12"
   },
   {
     "word": "dim₇",
     "num": "069",
-    "sign": "𒁁"
+    "sign": "𒁁",
+    "note": "✅️"
   },
   {
     "word": "dima₂",
     "num": "440",
-    "sign": "𒁶"
+    "sign": "𒁶",
+    "note": "Dim 2"
   },
   {
     "word": "dimer",
     "num": "013",
-    "sign": "𒀭"
+    "sign": "𒀭",
+    "note": "🚫"
   },
   {
     "word": "dimgul",
     "num": "122a",
-    "sign": "𒈣𒈮"
+    "sign": "𒈣𒈮",
+    "note": "✅️"
   },
   {
     "word": "dimir",
     "num": "013",
-    "sign": "𒀭"
+    "sign": "𒀭",
+    "note": "Dingir"
   },
   {
     "word": "dimmer",
     "num": "013",
-    "sign": "𒀭"
+    "sign": "𒀭",
+    "note": "🚫"
   },
   {
     "word": "dimna",
     "num": "443",
-    "sign": "𒌋𒂵"
+    "sign": "𒌋𒂵",
+    "note": "🚫"
   },
   {
     "word": "din",
     "num": "465",
-    "sign": "𒁷"
+    "sign": "𒁷",
+    "note": "✅️"
   },
   {
     "word": "diner",
