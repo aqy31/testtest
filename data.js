@@ -4075,17 +4075,20 @@ const TABLE_DATA = [
   {
     "word": "duk",
     "num": "309",
-    "sign": "𒂁"
+    "sign": "𒂁",
+    "note": "✅️"
   },
   {
     "word": "duk₂",
     "num": "574",
-    "sign": "𒌇"
+    "sign": "𒌇",
+    "note": "✅️"
   },
   {
     "word": "duka",
     "num": "309",
-    "sign": "𒂁"
+    "sign": "𒂁",
+    "note": "🚫"
   },
   {
     "word": "dul",
@@ -4220,7 +4223,8 @@ const TABLE_DATA = [
   {
     "word": "duq",
     "num": "309",
-    "sign": "𒂁"
+    "sign": "𒂁",
+    "note": "✅️"
   },
   {
     "word": "dur",
