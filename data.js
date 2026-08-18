@@ -3953,47 +3953,56 @@ const TABLE_DATA = [
   {
     "word": "duba₂",
     "num": "352",
-    "sign": "𒂀"
+    "sign": "𒂀",
+    "note": "🚫"
   },
   {
     "word": "dubal",
     "num": "299n",
-    "sign": "𒀥"
+    "sign": "𒀥",
+    "note": "🚫"
   },
   {
     "word": "dubal₂",
     "num": "303",
-    "sign": "𒀦"
+    "sign": "𒀦",
+    "note": "🚫"
   },
   {
     "word": "dubba",
     "num": "138",
-    "sign": "𒁳 / 𒁾"
+    "sign": "𒁳 / 𒁾",
+    "note": "🚫"
   },
   {
     "word": "dubsig",
     "num": "320",
-    "sign": "𒅍"
+    "sign": "𒅍",
+    "note": "🚫"
   },
   {
     "word": "dubsik",
     "num": "320",
-    "sign": "𒅍"
+    "sign": "𒅍",
+    "note": "🚫"
   },
   {
     "word": "dubu",
     "num": "138",
-    "sign": "𒁾"
+    "sign": "𒁾",
+    "note": "🚫"
   },
   {
     "word": "dubu₂",
     "num": "352",
-    "sign": "𒂀"
+    "sign": "𒂀",
+    "note": "🚫"
   },
   {
     "word": "dubur",
     "num": "400",
-    "sign": "𒄵"
+    "sign": "𒄵",
+    "note": "✅️"
   },
   {
     "word": "dud₂",
