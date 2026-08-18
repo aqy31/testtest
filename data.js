@@ -2787,22 +2787,26 @@ const TABLE_DATA = [
   {
     "word": "daba",
     "num": "537",
-    "sign": "𒁳"
+    "sign": "𒁳",
+    "note": "  🚫"
   },
   {
     "word": "daba₅",
     "num": "536",
-    "sign": "𒆪"
+    "sign": "𒆪",
+    "note": "✅️"
   },
   {
     "word": "daban",
     "num": "110",
-    "sign": "𒆯"
+    "sign": "𒆯",
+    "note": "✅️"
   },
   {
     "word": "dabašin",
     "num": "110",
-    "sign": "𒆯"
+    "sign": "𒆯",
+    "note": "🚫"
   },
   {
     "word": "dabe",
