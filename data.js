@@ -2517,57 +2517,68 @@ const TABLE_DATA = [
   {
     "word": "bur",
     "num": "349",
-    "sign": "𒁓"
+    "sign": "𒁓",
+    "note": "✅️"
   },
   {
     "word": "bur₁₀",
     "num": "515",
-    "sign": "𒇧"
+    "sign": "𒇧",
+    "note": "✅️"
   },
   {
     "word": "bur₁₂",
     "num": "371",
-    "sign": "𒁍"
+    "sign": "𒁍",
+    "note": "✅️"
   },
   {
     "word": "bur₁₄",
     "num": "054v",
-    "sign": "𒂙"
+    "sign": "𒂙",
+    "note": "🚫"
   },
   {
     "word": "bur₂",
     "num": "011",
-    "sign": "𒁔"
+    "sign": "𒁔",
+    "note": "✅️ buru2"
   },
   {
     "word": "bur₃",
     "num": "411",
-    "sign": "𒌋"
+    "sign": "𒌋",
+    "note": "Buru3✅️"
   },
   {
     "word": "bur₆",
     "num": "249",
-    "sign": "𒆤 / 𒆦"
+    "sign": "𒆤 / 𒆦",
+    "note": "  علامة زائدة "
   },
   {
     "word": "bur₇",
     "num": "310",
-    "sign": "𒄧"
+    "sign": "𒄧",
+    "note": "❌️311  شوية العلامة غلط"
   },
   {
     "word": "bur₈",
     "num": "002",
-    "sign": "𒄬"
+    "sign": "𒄬",
+    "note": "✅️"
   },
   {
     "word": "buru",
     "num": "349",
-    "sign": "𒁓"
+    "sign": "𒁓",
+    "note": "✅️"
   },
   {
     "word": "buru₁₄",
     "num": "054v",
-    "sign": "𒂙"
+    "sign": "𒂙",
+    "note": "🚫"
   },
   {
     "word": "buru₁₆",
