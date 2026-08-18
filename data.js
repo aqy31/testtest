@@ -2451,7 +2451,8 @@ const TABLE_DATA = [
   {
     "word": "bum",
     "num": "019",
-    "sign": "𒅤"
+    "sign": "𒅤",
+    "note": "26"
   },
   {
     "word": "bun",
