@@ -3822,17 +3822,20 @@ const TABLE_DATA = [
   {
     "word": "du",
     "num": "206",
-    "sign": "𒁺"
+    "sign": "𒁺",
+    "note": "✅️"
   },
   {
     "word": "du₁₀",
     "num": "396",
-    "sign": "𒄭"
+    "sign": "𒄭",
+    "note": "✅️"
   },
   {
     "word": "du₁₁",
     "num": "015",
-    "sign": "𒅗"
+    "sign": "𒅗",
+    "note": "✅️"
   },
   {
     "word": "du₁₂",
@@ -3842,92 +3845,110 @@ const TABLE_DATA = [
   {
     "word": "du₁₃",
     "num": "144",
-    "sign": "𒌉"
+    "sign": "𒌉",
+    "note": "✅️"
   },
   {
     "word": "du₁₆",
     "num": "052",
-    "sign": "𒌗"
+    "sign": "𒌗",
+    "note": "✅️"
   },
   {
     "word": "du₁₇?",
     "num": "172",
-    "sign": "𒉈"
+    "sign": "𒉈",
+    "note": "🚫"
   },
   {
     "word": "du₂",
     "num": "058",
-    "sign": "𒌅"
+    "sign": "𒌅",
+    "note": "✅️"
   },
   {
     "word": "du₂₀",
     "num": "335",
-    "sign": "𒁕"
+    "sign": "𒁕",
+    "note": "✅️"
   },
   {
     "word": "du₂₄",
     "num": "467",
-    "sign": "𒂄"
+    "sign": "𒂄",
+    "note": "🚫"
   },
   {
     "word": "du₂₆",
     "num": "123",
-    "sign": "𒋛𒀀"
+    "sign": "𒋛𒀀",
+    "note": "🚫"
   },
   {
     "word": "du₃",
     "num": "230",
-    "sign": "𒆕"
+    "sign": "𒆕",
+    "note": "✅️"
   },
   {
     "word": "du₄",
     "num": "207",
-    "sign": "𒌈"
+    "sign": "𒌈",
+    "note": "✅️"
   },
   {
     "word": "du₅",
     "num": "595",
-    "sign": "𒂅"
+    "sign": "𒂅",
+    "note": "✅️"
   },
   {
     "word": "du₆",
     "num": "459a",
-    "sign": "𒇯"
+    "sign": "𒇯",
+    "note": "✅️ فقط 459"
   },
   {
     "word": "du₇",
     "num": "441",
-    "sign": "𒌌"
+    "sign": "𒌌",
+    "note": "✅️"
   },
   {
     "word": "du₈",
     "num": "167",
-    "sign": "𒃮"
+    "sign": "𒃮",
+    "note": "✅️"
   },
   {
     "word": "du₉",
     "num": "011",
-    "sign": "𒁔"
+    "sign": "𒁔",
+    "note": "✅️"
   },
   {
     "word": "dub",
     "num": "138",
-    "sign": "𒁾"
+    "sign": "𒁾",
+    "note": "✅️"
   },
   {
     "word": "dub₂",
     "num": "352",
-    "sign": "𒂀"
+    "sign": "𒂀",
+    "note": "✅️"
   },
   {
     "word": "dub₃",
     "num": "396",
-    "sign": "𒄭"
+    "sign": "𒄭",
+    "note": "✅️"
   },
   {
     "word": "duba",
     "num": "138",
-    "sign": "𒁾"
+    "sign": "𒁾",
+    "note": "Dubba"
   },
   {
     "word": "duba₂",
