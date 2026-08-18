@@ -2583,47 +2583,56 @@ const TABLE_DATA = [
   {
     "word": "buru₁₆",
     "num": "491",
-    "sign": "𒇡"
+    "sign": "𒇡",
+    "note": "🚫"
   },
   {
     "word": "buru₁₇",
     "num": "530",
-    "sign": "𒇫"
+    "sign": "𒇫",
+    "note": "🚫"
   },
   {
     "word": "buru₂",
     "num": "011",
-    "sign": "𒁔"
+    "sign": "𒁔",
+    "note": "✅️"
   },
   {
     "word": "buru₃",
     "num": "411",
-    "sign": "𒌋"
+    "sign": "𒌋",
+    "note": "✅️"
   },
   {
     "word": "buru₆",
     "num": "313",
-    "sign": "𒆤"
+    "sign": "𒆤",
+    "note": " العلامة خطا 249"
   },
   {
     "word": "buru₇",
     "num": "310",
-    "sign": "𒄧"
+    "sign": "𒄧",
+    "note": "❌️311 : شوية العلامة خطا"
   },
   {
     "word": "buru₈",
     "num": "002",
-    "sign": "𒄬"
+    "sign": "𒄬",
+    "note": "✅️"
   },
   {
     "word": "buru₉",
     "num": "227",
-    "sign": "𒅃"
+    "sign": "𒅃",
+    "note": "✅️"
   },
   {
     "word": "buruh",
     "num": "002",
-    "sign": "𒄬"
+    "sign": "𒄬",
+    "note": "Buru8❌️"
   },
   {
     "word": "buš",
