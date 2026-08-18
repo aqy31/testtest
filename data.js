@@ -3793,22 +3793,26 @@ const TABLE_DATA = [
   {
     "word": "diš",
     "num": "480",
-    "sign": "𒁹"
+    "sign": "𒁹",
+    "note": "✅️"
   },
   {
     "word": "diš₂",
     "num": "001",
-    "sign": "𒀸"
+    "sign": "𒀸",
+    "note": "✅️"
   },
   {
     "word": "diš₄?",
     "num": "532",
-    "sign": "𒈨"
+    "sign": "𒈨",
+    "note": "✅️"
   },
   {
     "word": "diša",
     "num": "480",
-    "sign": "𒁹"
+    "sign": "𒁹",
+    "note": "🚫"
   },
   {
     "word": "disgur",
