@@ -3186,13 +3186,13 @@ const TABLE_DATA = [
     "word": "deb",
     "num": "537",
     "sign": "𒁳",
-    "note": "✅️"
+    "note": "❌️ 1  علامة خطا del"
   },
   {
     "word": "deb₂",
     "num": "536",
     "sign": "𒆪",
-    "note": "✅️"
+    "note": "❌️  377 dil2 علامو خطا"
   },
   {
     "word": "deh",
