@@ -2777,12 +2777,14 @@ const TABLE_DATA = [
   {
     "word": "dab₅",
     "num": "536",
-    "sign": "𒆪"
+    "sign": "𒆪",
+    "note": "✅️"
   },
   {
     "word": "dab₆",
     "num": "132",
-    "sign": "𒍏"
+    "sign": "𒍏",
+    "note": "🚫"
   },
   {
     "word": "daba",
@@ -2817,7 +2819,8 @@ const TABLE_DATA = [
   {
     "word": "dad",
     "num": "063d",
-    "sign": "𒋺"
+    "sign": "𒋺",
+    "note": "63\n"
   },
   {
     "word": "dag₂",
@@ -2828,262 +2831,314 @@ const TABLE_DATA = [
   {
     "word": "dag₄?",
     "num": "249",
-    "sign": "𒆤 / 𒆦"
+    "sign": "𒆤 / 𒆦",
+    "note": "🚫"
   },
   {
     "word": "dag₅",
     "num": "015",
-    "sign": "𒅗"
+    "sign": "𒅗",
+    "note": "🚫"
   },
   {
     "word": "dagal",
     "num": "237",
-    "sign": "𒂼"
+    "sign": "𒂼",
+    "note": "✅️"
   },
   {
     "word": "dagala",
     "num": "237",
-    "sign": "𒂼"
+    "sign": "𒂼",
+    "note": "🚫"
   },
   {
     "word": "dagrim",
     "num": "513",
-    "sign": "𒇑"
+    "sign": "𒇑",
+    "note": "512 dagrin علامة خطا ❌️"
   },
   {
     "word": "dagrin",
     "num": "513",
-    "sign": "𒇑"
+    "sign": "𒇑",
+    "note": "✅️"
   },
   {
     "word": "dah",
     "num": "169",
-    "sign": "𒈭"
+    "sign": "𒈭",
+    "note": "✅️"
   },
   {
     "word": "dal",
     "num": "086",
-    "sign": "𒊑"
+    "sign": "𒊑",
+    "note": "✅️"
   },
   {
     "word": "dal₃",
     "num": "001",
-    "sign": "𒀸"
+    "sign": "𒀸",
+    "note": "✅️"
   },
   {
     "word": "dala",
     "num": "086",
-    "sign": "𒊑"
+    "sign": "𒊑",
+    "note": "✅️ فقط dal"
   },
   {
     "word": "dalhamun₄",
     "num": "165a",
-    "sign": "𒀱"
+    "sign": "𒀱",
+    "note": "🚫"
   },
   {
     "word": "dalhamun₅",
     "num": "165v",
-    "sign": "𒀰"
+    "sign": "𒀰",
+    "note": "🚫"
   },
   {
     "word": "dam",
     "num": "557",
-    "sign": "𒁮"
+    "sign": "𒁮",
+    "note": "✅️"
   },
   {
     "word": "dam₀",
     "num": "564",
-    "sign": "𒂖"
+    "sign": "𒂖",
+    "note": "🚫"
   },
   {
     "word": "dam₂",
     "num": "381",
-    "sign": "𒌓"
+    "sign": "𒌓",
+    "note": "✅️"
   },
   {
     "word": "dam₃",
     "num": "207",
-    "sign": "𒌈"
+    "sign": "𒌈",
+    "note": "✅️"
   },
   {
     "word": "dama",
     "num": "557",
-    "sign": "𒁮"
+    "sign": "𒁮",
+    "note": "🚫"
   },
   {
     "word": "damal",
     "num": "237",
-    "sign": "𒂼"
+    "sign": "𒂼",
+    "note": "✅️"
   },
   {
     "word": "damu",
     "num": "144",
-    "sign": "𒌉"
+    "sign": "𒌉",
+    "note": "بدون علامة  . مراجعة "
   },
   {
     "word": "damu₂",
     "num": "449",
-    "sign": "𒅆"
+    "sign": "𒅆",
+    "note": "✅️"
   },
   {
     "word": "dan",
     "num": "322",
-    "sign": "𒆗"
+    "sign": "𒆗",
+    "note": "✅️"
   },
   {
     "word": "dan₂",
     "num": "270",
-    "sign": "𒃞"
+    "sign": "𒃞",
+    "note": "✅️"
   },
   {
     "word": "dan₃",
     "num": "241",
-    "sign": "𒃩"
+    "sign": "𒃩",
+    "note": "255"
   },
   {
     "word": "dan₄",
     "num": "248",
-    "sign": "𒃋"
+    "sign": "𒃋",
+    "note": "✅️"
   },
   {
     "word": "dan₅?",
     "num": "465",
-    "sign": "𒁷"
+    "sign": "𒁷",
+    "note": "🚫"
   },
   {
     "word": "dan₆",
     "num": "211n",
-    "sign": "𒍕"
+    "sign": "𒍕",
+    "note": "🚫"
   },
   {
     "word": "dan₇",
     "num": "259n",
-    "sign": "𒃃"
+    "sign": "𒃃",
+    "note": "🚫"
   },
   {
     "word": "dana₂",
     "num": "166",
-    "sign": "𒆜"
+    "sign": "𒆜",
+    "note": "Dana  ناقص علامة +danna"
   },
   {
     "word": "dana₃",
     "num": "322",
-    "sign": "𒆗"
+    "sign": "𒆗",
+    "note": "Dan فقط"
   },
   {
     "word": "danna₂",
     "num": "166",
-    "sign": "𒆜"
+    "sign": "𒆜",
+    "note": " ماقص علامة . Danna فقط"
   },
   {
     "word": "dap",
     "num": "537",
-    "sign": "𒁳"
+    "sign": "𒁳",
+    "note": "✅️"
   },
   {
     "word": "dap₂",
     "num": "124",
-    "sign": "𒋰"
+    "sign": "𒋰",
+    "note": "✅️"
   },
   {
     "word": "dapa₂",
     "num": "124",
-    "sign": "𒋰"
+    "sign": "𒋰",
+    "note": "🚫"
   },
   {
     "word": "dapar",
     "num": "297",
-    "sign": "𒄞"
+    "sign": "𒄞",
+    "note": "✅️"
   },
   {
     "word": "dapara",
     "num": "297",
-    "sign": "𒄞"
+    "sign": "𒄞",
+    "note": "🚫"
   },
   {
     "word": "daq₆",
     "num": "126",
-    "sign": "𒋳"
+    "sign": "𒋳",
+    "note": "Daq ❌️ 280   علامة خطا"
   },
   {
     "word": "dar",
     "num": "113",
-    "sign": "𒁯"
+    "sign": "𒁯",
+    "note": "114"
   },
   {
     "word": "dar₂",
     "num": "535",
-    "sign": "𒅁"
+    "sign": "𒅁",
+    "note": "✅️ +dara2"
   },
   {
     "word": "dar₄",
     "num": "540",
-    "sign": "𒁱"
+    "sign": "𒁱",
+    "note": "✅️"
   },
   {
     "word": "dar₆",
     "num": "012",
-    "sign": "𒋻"
+    "sign": "𒋻",
+    "note": "🚫"
   },
   {
     "word": "dara₂",
     "num": "535",
-    "sign": "𒅁"
+    "sign": "𒅁",
+    "note": "✅️"
   },
   {
     "word": "dara₄",
     "num": "540",
-    "sign": "𒁱"
+    "sign": "𒁱",
+    "note": "✅️"
   },
   {
     "word": "dara₆",
     "num": "113",
-    "sign": "𒁯"
+    "sign": "𒁯",
+    "note": "❌️darri 114"
   },
   {
     "word": "dari₂",
     "num": "535",
-    "sign": "𒅁"
+    "sign": "𒅁",
+    "note": "🚫"
   },
   {
     "word": "daru₂",
     "num": "535",
-    "sign": "𒅁"
+    "sign": "𒅁",
+    "note": "Darum"
   },
   {
     "word": "darum₂",
     "num": "535",
-    "sign": "𒅁"
+    "sign": "𒅁",
+    "note": "Darum"
   },
   {
     "word": "das",
     "num": "575",
-    "sign": "𒌨"
+    "sign": "𒌨",
+    "note": "✅️"
   },
   {
     "word": "daš",
     "num": "575",
-    "sign": "𒌨"
+    "sign": "𒌨",
+    "note": "✅️"
   },
   {
     "word": "daš₂",
     "num": "480",
-    "sign": "𒁹"
+    "sign": "𒁹",
+    "note": "✅️"
   },
   {
     "word": "daš₃",
     "num": "339",
-    "sign": "𒀾"
+    "sign": "𒀾",
+    "note": "🚫"
   },
   {
     "word": "daš₄?",
     "num": "113",
-    "sign": "𒁯"
+    "sign": "𒁯",
+    "note": "❌️ 114 daš3"
   },
   {
     "word": "dašgari",
     "num": "536",
-    "sign": "𒌆"
+    "sign": "𒌆",
+    "note": "🚫"
   },
   {
     "word": "dat",
