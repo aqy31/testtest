@@ -2217,37 +2217,44 @@ const TABLE_DATA = [
   {
     "word": "bit",
     "num": "324",
-    "sign": "𒂍"
+    "sign": "𒂍",
+    "note": "✅️"
   },
   {
     "word": "biṭ",
     "num": "324",
-    "sign": "𒂍"
+    "sign": "𒂍",
+    "note": "✅️"
   },
   {
     "word": "bit₂",
     "num": "069",
-    "sign": "𒁁"
+    "sign": "𒁁",
+    "note": "✅️"
   },
   {
     "word": "bit₃",
     "num": "536",
-    "sign": "𒆪"
+    "sign": "𒆪",
+    "note": "✅️"
   },
   {
     "word": "biti",
     "num": "324",
-    "sign": "𒂍"
+    "sign": "𒂍",
+    "note": "✅️"
   },
   {
     "word": "bitu",
     "num": "324",
-    "sign": "𒂍"
+    "sign": "𒂍",
+    "note": "🚫"
   },
   {
     "word": "bitum",
     "num": "324",
-    "sign": "𒂍"
+    "sign": "𒂍",
+    "note": "🚫"
   },
   {
     "word": "biz",
@@ -2272,72 +2279,86 @@ const TABLE_DATA = [
   {
     "word": "bu",
     "num": "371",
-    "sign": "𒁍"
+    "sign": "𒁍",
+    "note": "✅️"
   },
   {
     "word": "bu₁₁",
     "num": "318",
-    "sign": "𒌑"
+    "sign": "𒌑",
+    "note": "Bu8❌️"
   },
   {
     "word": "bu₁₂",
     "num": "411",
-    "sign": "𒌋"
+    "sign": "𒌋",
+    "note": "✅️"
   },
   {
     "word": "bu₁₃",
     "num": "030",
-    "sign": "𒅮"
+    "sign": "𒅮",
+    "note": "Bu6 19❌️"
   },
   {
     "word": "bu₁₄",
     "num": "491",
-    "sign": "𒇡"
+    "sign": "𒇡",
+    "note": "🚫"
   },
   {
     "word": "bu₁₅",
     "num": "469",
-    "sign": "𒉻"
+    "sign": "𒉻",
+    "note": "🚫"
   },
   {
     "word": "bu₁₆",
     "num": "231",
-    "sign": "𒉌"
+    "sign": "𒉌",
+    "note": "🚫"
   },
   {
     "word": "bu₂",
     "num": "166",
-    "sign": "𒆜"
+    "sign": "𒆜",
+    "note": "✅️"
   },
   {
     "word": "bu₃",
     "num": "019",
-    "sign": "𒅤"
+    "sign": "𒅤",
+    "note": "26❌️"
   },
   {
     "word": "bu₄",
     "num": "511",
-    "sign": "𒇥"
+    "sign": "𒇥",
+    "note": "✅️"
   },
   {
     "word": "bu₅",
     "num": "515",
-    "sign": "𒇧"
+    "sign": "𒇧",
+    "note": "✅️"
   },
   {
     "word": "bu₇",
     "num": "536",
-    "sign": "𒆪"
+    "sign": "𒆪",
+    "note": "✅️"
   },
   {
     "word": "bu₈",
     "num": "011",
-    "sign": "𒁔"
+    "sign": "𒁔",
+    "note": "❌️ 318  علامة خطا "
   },
   {
     "word": "bu₉?",
     "num": "096a",
-    "sign": "𒁑"
+    "sign": "𒁑",
+    "note": "بدون a فقط 96"
   },
   {
     "word": "bube",
