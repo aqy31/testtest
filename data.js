@@ -2092,42 +2092,50 @@ const TABLE_DATA = [
   {
     "word": "bir",
     "num": "400",
-    "sign": "𒄵"
+    "sign": "𒄵",
+    "note": "✅️"
   },
   {
     "word": "bir₂",
     "num": "381",
-    "sign": "𒌓"
+    "sign": "𒌓",
+    "note": "✅️"
   },
   {
     "word": "bir₄",
     "num": "168",
-    "sign": "𒂔"
+    "sign": "𒂔",
+    "note": "✅️"
   },
   {
     "word": "bir₅",
     "num": "079",
-    "sign": "𒉆"
+    "sign": "𒉆",
+    "note": "✅️"
   },
   {
     "word": "bir₆",
     "num": "388",
-    "sign": "𒊶"
+    "sign": "𒊶",
+    "note": "✅️"
   },
   {
     "word": "bir₇",
     "num": "390",
-    "sign": "𒊯"
+    "sign": "𒊯",
+    "note": "✅️"
   },
   {
     "word": "bir₉",
     "num": "172",
-    "sign": "𒉈"
+    "sign": "𒉈",
+    "note": "🚫"
   },
   {
     "word": "biri",
     "num": "400",
-    "sign": "𒄵"
+    "sign": "𒄵",
+    "note": "بدون i الاخيرة"
   },
   {
     "word": "biš",
