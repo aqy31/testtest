@@ -2369,17 +2369,20 @@ const TABLE_DATA = [
   {
     "word": "bugin",
     "num": "522",
-    "sign": "𒆹"
+    "sign": "𒆹",
+    "note": "✅️  او bunin"
   },
   {
     "word": "bugin₂",
     "num": "528",
-    "sign": "𒇅"
+    "sign": "𒇅",
+    "note": "✅️"
   },
   {
     "word": "bugin₄",
     "num": "512",
-    "sign": "𒇦"
+    "sign": "𒇦",
+    "note": "✅️"
   },
   {
     "word": "buh",
@@ -2394,47 +2397,56 @@ const TABLE_DATA = [
   {
     "word": "bul",
     "num": "515",
-    "sign": "𒇧"
+    "sign": "𒇧",
+    "note": "✅️"
   },
   {
     "word": "bul₂",
     "num": "011",
-    "sign": "𒁔"
+    "sign": "𒁔",
+    "note": "✅️"
   },
   {
     "word": "bul₃",
     "num": "009",
-    "sign": "𒁄"
+    "sign": "𒁄",
+    "note": "✅️"
   },
   {
     "word": "bul₄?",
     "num": "030",
-    "sign": "𒅮"
+    "sign": "𒅮",
+    "note": "🚫"
   },
   {
     "word": "bul₅",
     "num": "491",
-    "sign": "𒇡"
+    "sign": "𒇡",
+    "note": "🚫"
   },
   {
     "word": "bulug",
     "num": "096a",
-    "sign": "𒁑"
+    "sign": "𒁑",
+    "note": "فقط 96✅️"
   },
   {
     "word": "bulug₂",
     "num": "011",
-    "sign": "𒁔"
+    "sign": "𒁔",
+    "note": "✅️"
   },
   {
     "word": "bulug₄",
     "num": "560",
-    "sign": "𒉄"
+    "sign": "𒉄",
+    "note": "60 . علامة خطا"
   },
   {
     "word": "buluh",
     "num": "002",
-    "sign": "𒄬"
+    "sign": "𒄬",
+    "note": "✅️"
   },
   {
     "word": "bum",
