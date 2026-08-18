@@ -2140,7 +2140,8 @@ const TABLE_DATA = [
   {
     "word": "biš",
     "num": "346",
-    "sign": "𒄫"
+    "sign": "𒄫",
+    "note": "✅️"
   },
   {
     "word": "bis₂",
@@ -2180,32 +2181,38 @@ const TABLE_DATA = [
   {
     "word": "bišeba?",
     "num": "151",
-    "sign": "𒈗"
+    "sign": "𒈗",
+    "note": "🚫"
   },
   {
     "word": "bišeba₂?",
     "num": "358",
-    "sign": "𒀩"
+    "sign": "𒀩",
+    "note": "🚫"
   },
   {
     "word": "bišeba₃?",
     "num": "357",
-    "sign": "𒀪"
+    "sign": "𒀪",
+    "note": "🚫"
   },
   {
     "word": "bišebi?",
     "num": "151",
-    "sign": "𒈗"
+    "sign": "𒈗",
+    "note": "🚫"
   },
   {
     "word": "bišebi₂?",
     "num": "358",
-    "sign": "𒀩"
+    "sign": "𒀩",
+    "note": "🚫"
   },
   {
     "word": "bišebi₃?",
     "num": "357",
-    "sign": "𒀪"
+    "sign": "𒀪",
+    "note": "🚫"
   },
   {
     "word": "bit",
