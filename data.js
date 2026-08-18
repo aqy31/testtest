@@ -2457,52 +2457,62 @@ const TABLE_DATA = [
   {
     "word": "bun",
     "num": "510",
-    "sign": "𒇌"
+    "sign": "𒇌",
+    "note": "✅️"
   },
   {
     "word": "bun₂",
     "num": "030",
-    "sign": "𒅮"
+    "sign": "𒅮",
+    "note": "✅️"
   },
   {
     "word": "buni",
     "num": "522",
-    "sign": "𒆹"
+    "sign": "𒆹",
+    "note": "Bunin .  "
   },
   {
     "word": "bunig",
     "num": "522",
-    "sign": "𒆹"
+    "sign": "𒆹",
+    "note": "Bugin"
   },
   {
     "word": "bunig₂",
     "num": "528",
-    "sign": "𒇅"
+    "sign": "𒇅",
+    "note": "Bunin. Bugin"
   },
   {
     "word": "bunig₃",
     "num": "487",
-    "sign": "𒇒"
+    "sign": "𒇒",
+    "note": "علامة غلط 516"
   },
   {
     "word": "bunig₃?",
     "num": "484",
-    "sign": "𒇉"
+    "sign": "𒇉",
+    "note": "Bunin3  علامة خطا516"
   },
   {
     "word": "bunin",
     "num": "522",
-    "sign": "𒆹"
+    "sign": "𒆹",
+    "note": "✅️"
   },
   {
     "word": "bunin₂",
     "num": "528",
-    "sign": "𒇅"
+    "sign": "𒇅",
+    "note": "✅️"
   },
   {
     "word": "bunin₄",
     "num": "512",
-    "sign": "𒇦"
+    "sign": "𒇦",
+    "note": "✅️"
   },
   {
     "word": "bur",
@@ -12293,7 +12303,8 @@ const TABLE_DATA = [
   {
     "word": "lubun",
     "num": "157",
-    "sign": "𒂲"
+    "sign": "𒂲",
+    "note": "🚫"
   },
   {
     "word": "lud",
