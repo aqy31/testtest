@@ -3728,12 +3728,14 @@ const TABLE_DATA = [
   {
     "word": "dip",
     "num": "537",
-    "sign": "𒁳"
+    "sign": "𒁳",
+    "note": "✅️"
   },
   {
     "word": "dipar",
     "num": "297",
-    "sign": "𒄞"
+    "sign": "𒄞",
+    "note": "✅️"
   },
   {
     "word": "diq",
