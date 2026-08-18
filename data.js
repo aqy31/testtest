@@ -2687,77 +2687,92 @@ const TABLE_DATA = [
   {
     "word": "da",
     "num": "335",
-    "sign": "𒁕"
+    "sign": "𒁕",
+    "note": "✅️"
   },
   {
     "word": "da₁₀",
     "num": "396",
-    "sign": "𒄭"
+    "sign": "𒄭",
+    "note": "❌️dap .dab"
   },
   {
     "word": "da₁₁?",
     "num": "080",
-    "sign": "𒅅"
+    "sign": "𒅅",
+    "note": "🚫"
   },
   {
     "word": "da₁₂",
     "num": "015",
-    "sign": "𒅗"
+    "sign": "𒅗",
+    "note": "🚫"
   },
   {
     "word": "da₁₃",
     "num": "063d",
-    "sign": "𒋺"
+    "sign": "𒋺",
+    "note": "🚫"
   },
   {
     "word": "da₂",
     "num": "139",
-    "sign": "𒋫"
+    "sign": "𒋫",
+    "note": "✅️"
   },
   {
     "word": "da₃",
     "num": "230",
-    "sign": "𒆕"
+    "sign": "𒆕",
+    "note": "✅️"
   },
   {
     "word": "da₄",
     "num": "557",
-    "sign": "𒁮"
+    "sign": "𒁮",
+    "note": "✅️"
   },
   {
     "word": "da₅",
     "num": "132",
-    "sign": "𒍏"
+    "sign": "𒍏",
+    "note": "✅️"
   },
   {
     "word": "da₆",
     "num": "126",
-    "sign": "𒋳"
+    "sign": "𒋳",
+    "note": "✅️"
   },
   {
     "word": "da₇",
     "num": "381",
-    "sign": "𒌓"
+    "sign": "𒌓",
+    "note": "✅️"
   },
   {
     "word": "dab",
     "num": "537",
-    "sign": "𒁳"
+    "sign": "𒁳",
+    "note": "✅️"
   },
   {
     "word": "dab₂",
     "num": "124",
-    "sign": "𒋰"
+    "sign": "𒋰",
+    "note": "✅️"
   },
   {
     "word": "dab₃",
     "num": "396",
-    "sign": "𒄭"
+    "sign": "𒄭",
+    "note": "✅️"
   },
   {
     "word": "dab₄",
     "num": "138",
-    "sign": "𒁾"
+    "sign": "𒁾",
+    "note": "✅️"
   },
   {
     "word": "dab₅",
