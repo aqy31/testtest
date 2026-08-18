@@ -2822,7 +2822,8 @@ const TABLE_DATA = [
   {
     "word": "dag₂",
     "num": "381",
-    "sign": "𒌓"
+    "sign": "𒌓",
+    "note": "✅️379"
   },
   {
     "word": "dag₄?",
