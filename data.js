@@ -3288,7 +3288,8 @@ const TABLE_DATA = [
   {
     "word": "dellu",
     "num": "122a",
-    "sign": "𒈣𒈮"
+    "sign": "𒈣𒈮",
+    "note": "✅️"
   },
   {
     "word": "dem₂",
@@ -3313,32 +3314,38 @@ const TABLE_DATA = [
   {
     "word": "deš",
     "num": "480",
-    "sign": "𒁹"
+    "sign": "𒁹",
+    "note": "✅️"
   },
   {
     "word": "deš₂",
     "num": "001",
-    "sign": "𒀸"
+    "sign": "𒀸",
+    "note": "✅️"
   },
   {
     "word": "deš₃",
     "num": "575",
-    "sign": "𒌨"
+    "sign": "𒌨",
+    "note": "🚫"
   },
   {
     "word": "deš₄?",
     "num": "532",
-    "sign": "𒈨"
+    "sign": "𒈨",
+    "note": "✅️"
   },
   {
     "word": "deš₅",
     "num": "360",
-    "sign": "𒀹"
+    "sign": "𒀹",
+    "note": "🚫"
   },
   {
     "word": "deššu",
     "num": "339",
-    "sign": "𒀾"
+    "sign": "𒀾",
+    "note": "✅️"
   },
   {
     "word": "di",
