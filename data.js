@@ -3087,7 +3087,8 @@ const TABLE_DATA = [
   {
     "word": "dat",
     "num": "063d",
-    "sign": "𒋺"
+    "sign": "𒋺",
+    "note": "63"
   },
   {
     "word": "de",
