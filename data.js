@@ -2637,12 +2637,14 @@ const TABLE_DATA = [
   {
     "word": "buš",
     "num": "166",
-    "sign": "𒆜"
+    "sign": "𒆜",
+    "note": "✅️"
   },
   {
     "word": "buš₂",
     "num": "346",
-    "sign": "𒄫"
+    "sign": "𒄫",
+    "note": "العلامة خطا 166"
   },
   {
     "word": "bute",
