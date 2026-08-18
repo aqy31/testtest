@@ -4012,42 +4012,50 @@ const TABLE_DATA = [
   {
     "word": "dug",
     "num": "309",
-    "sign": "𒂁"
+    "sign": "𒂁",
+    "note": "✅️"
   },
   {
     "word": "dug₃",
     "num": "396",
-    "sign": "𒄭"
+    "sign": "𒄭",
+    "note": "✅️"
   },
   {
     "word": "dug₄",
     "num": "015",
-    "sign": "𒅗"
+    "sign": "𒅗",
+    "note": "✅️"
   },
   {
     "word": "dug₅",
     "num": "595",
-    "sign": "𒂅"
+    "sign": "𒂅",
+    "note": " بدون رقم . غير معروف "
   },
   {
     "word": "duga₃",
     "num": "398",
-    "sign": "𒄴"
+    "sign": "𒄴",
+    "note": "🚫"
   },
   {
     "word": "duga₄",
     "num": "015",
-    "sign": "𒅗"
+    "sign": "𒅗",
+    "note": "🚫"
   },
   {
     "word": "dugu",
     "num": "396",
-    "sign": "𒄭"
+    "sign": "𒄭",
+    "note": "🚫"
   },
   {
     "word": "dugud",
     "num": "445",
-    "sign": "𒂂"
+    "sign": "𒂂",
+    "note": "✅️"
   },
   {
     "word": "dugud₂?",
