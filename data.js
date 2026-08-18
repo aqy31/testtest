@@ -1975,67 +1975,80 @@ const TABLE_DATA = [
   {
     "word": "bi",
     "num": "214",
-    "sign": "𒁉"
+    "sign": "𒁉",
+    "note": "✅️"
   },
   {
     "word": "bi₂",
     "num": "172",
-    "sign": "𒉈"
+    "sign": "𒉈",
+    "note": "✅️"
   },
   {
     "word": "bi₃",
     "num": "383",
-    "sign": "𒉿"
+    "sign": "𒉿",
+    "note": "✅️"
   },
   {
     "word": "bi₄",
     "num": "069",
-    "sign": "𒁁"
+    "sign": "𒁁",
+    "note": "✅️"
   },
   {
     "word": "bi₅",
     "num": "173",
-    "sign": "𒉋"
+    "sign": "𒉋",
+    "note": "✅️"
   },
   {
     "word": "bi₆",
     "num": "005",
-    "sign": "𒁀"
+    "sign": "𒁀",
+    "note": "✅️"
   },
   {
     "word": "bi₇",
     "num": "536",
-    "sign": "𒆪"
+    "sign": "𒆪",
+    "note": "✅️"
   },
   {
     "word": "bi₉?",
     "num": "398",
-    "sign": "𒄴"
+    "sign": "𒄴",
+    "note": "  ما موجود"
   },
   {
     "word": "bibra",
     "num": "550",
-    "sign": "𒄾"
+    "sign": "𒄾",
+    "note": "✅️"
   },
   {
     "word": "bibri",
     "num": "550",
-    "sign": "𒄾"
+    "sign": "𒄾",
+    "note": " ما اكو"
   },
   {
     "word": "bid",
     "num": "324",
-    "sign": "𒂍"
+    "sign": "𒂍",
+    "note": "✅️"
   },
   {
     "word": "bid₂",
     "num": "069",
-    "sign": "𒁁"
+    "sign": "𒁁",
+    "note": "✅️"
   },
   {
     "word": "bid₃",
     "num": "536",
-    "sign": "𒆪"
+    "sign": "𒆪",
+    "note": "✅️"
   },
   {
     "word": "big",
@@ -2050,22 +2063,26 @@ const TABLE_DATA = [
   {
     "word": "bil",
     "num": "172",
-    "sign": "𒉈"
+    "sign": "𒉈",
+    "note": "Bib . Bip"
   },
   {
     "word": "bil₂",
     "num": "173",
-    "sign": "𒉋"
+    "sign": "𒉋",
+    "note": "Bib2 .pib2"
   },
   {
     "word": "bila",
     "num": "172",
-    "sign": "𒉈"
+    "sign": "𒉈",
+    "note": "بدون a"
   },
   {
     "word": "bili",
     "num": "172",
-    "sign": "𒉈"
+    "sign": "𒉈",
+    "note": " بدون i الاخير"
   },
   {
     "word": "bin",
