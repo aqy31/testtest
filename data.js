@@ -4234,12 +4234,14 @@ const TABLE_DATA = [
   {
     "word": "dup",
     "num": "138",
-    "sign": "𒁾"
+    "sign": "𒁾",
+    "note": "✅️"
   },
   {
     "word": "dup₂",
     "num": "352",
-    "sign": "𒂀"
+    "sign": "𒂀",
+    "note": " 306"
   },
   {
     "word": "dupsik",
