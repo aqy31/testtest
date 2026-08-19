@@ -4741,362 +4741,434 @@ const TABLE_DATA = [
   {
     "word": "eli",
     "num": "412",
-    "sign": "𒌋𒅗"
+    "sign": "𒌋𒅗",
+    "note": "🚫"
   },
   {
     "word": "ella₂",
     "num": "483",
-    "sign": "𒆸"
+    "sign": "𒆸",
+    "note": "🚫"
   },
   {
     "word": "ellag",
     "num": "483",
-    "sign": "𒆸"
+    "sign": "𒆸",
+    "note": " الرقم ما واضح عندي بلابات"
   },
   {
     "word": "ellag₂",
     "num": "400",
-    "sign": "𒄵"
+    "sign": "𒄵",
+    "note": "🚫"
   },
   {
     "word": "ellam",
     "num": "400",
-    "sign": "𒄵"
+    "sign": "𒄵",
+    "note": "🚫"
   },
   {
     "word": "ellamkuš",
     "num": "510",
-    "sign": "𒇌"
+    "sign": "𒇌",
+    "note": "🚫"
   },
   {
     "word": "ellamkuš₂",
     "num": "518",
-    "sign": "𒇖"
+    "sign": "𒇖",
+    "note": "🚫"
   },
   {
     "word": "ellamkuš₃",
     "num": "527",
-    "sign": "𒇈"
+    "sign": "𒇈",
+    "note": "🚫"
   },
   {
     "word": "ellamkuš₄",
     "num": "522",
-    "sign": "𒆹"
+    "sign": "𒆹",
+    "note": "🚫"
   },
   {
     "word": "ellat",
     "num": "166b",
-    "sign": "𒆜𒆳"
+    "sign": "𒆜𒆳",
+    "note": "🚫"
   },
   {
     "word": "em",
     "num": "399",
-    "sign": "𒅎"
+    "sign": "𒅎",
+    "note": "✅️"
   },
   {
     "word": "em₃",
     "num": "183",
-    "sign": "𒉘"
+    "sign": "𒉘",
+    "note": "✅️"
   },
   {
     "word": "em₄",
     "num": "032",
-    "sign": "𒅴"
+    "sign": "𒅴",
+    "note": "✅️"
   },
   {
     "word": "eme",
     "num": "032",
-    "sign": "𒅴"
+    "sign": "𒅴",
+    "note": "✅️"
   },
   {
     "word": "eme₄",
     "num": "237",
-    "sign": "𒂼"
+    "sign": "𒂼",
+    "note": "✅️"
   },
   {
     "word": "eme₈",
     "num": "271",
-    "sign": "𒃣"
+    "sign": "𒃣",
+    "note": "🚫"
   },
   {
     "word": "emeda₃",
     "num": "137",
-    "sign": "𒌟"
+    "sign": "𒌟",
+    "note": "🚫"
   },
   {
     "word": "emedub",
     "num": "250",
-    "sign": "𒃆"
+    "sign": "𒃆",
+    "note": "✅️"
   },
   {
     "word": "emeš",
     "num": "554n",
-    "sign": "𒊩𒇬"
+    "sign": "𒊩𒇬",
+    "note": "562"
   },
   {
     "word": "emeš₂",
     "num": "174",
-    "sign": "𒉊"
+    "sign": "𒉊",
+    "note": "🚫"
   },
   {
     "word": "emesig",
     "num": "035n",
-    "sign": "𒆄"
+    "sign": "𒆄",
+    "note": "🚫"
   },
   {
     "word": "emezi",
     "num": "554n",
-    "sign": "𒊩𒇬"
+    "sign": "𒊩𒇬",
+    "note": "🚫"
   },
   {
     "word": "emma",
     "num": "028",
-    "sign": "𒆉"
+    "sign": "𒆉",
+    "note": "🚫"
   },
   {
     "word": "emma₂",
     "num": "035",
-    "sign": "𒅘"
+    "sign": "𒅘",
+    "note": "315  خطا بالعلامة"
   },
   {
     "word": "emmen",
     "num": "028",
-    "sign": "𒆉"
+    "sign": "𒆉",
+    "note": "🚫"
   },
   {
     "word": "emmen₂",
     "num": "035",
-    "sign": "𒅘"
+    "sign": "𒅘",
+    "note": "🚫"
   },
   {
     "word": "emmin",
     "num": "028",
-    "sign": "𒆉"
+    "sign": "𒆉",
+    "note": "🚫"
   },
   {
     "word": "emmin₂",
     "num": "035",
-    "sign": "𒅘"
+    "sign": "𒅘",
+    "note": "🚫"
   },
   {
     "word": "emuš",
     "num": "580a",
-    "sign": "𒀇"
+    "sign": "𒀇",
+    "note": "🚫"
   },
   {
     "word": "en",
     "num": "099",
-    "sign": "𒂗"
+    "sign": "𒂗",
+    "note": "✅️"
   },
   {
     "word": "en₂",
     "num": "546",
-    "sign": "𒋙𒀭"
+    "sign": "𒋙𒀭",
+    "note": "✅️"
   },
   {
     "word": "en₃",
     "num": "059",
-    "sign": "𒇷"
+    "sign": "𒇷",
+    "note": "✅️"
   },
   {
     "word": "en₄",
     "num": "015",
-    "sign": "𒅗"
+    "sign": "𒅗",
+    "note": "✅️"
   },
   {
     "word": "en₆",
     "num": "148",
-    "sign": "𒅔"
+    "sign": "𒅔",
+    "note": "🚫"
   },
   {
     "word": "en₇",
     "num": "332",
-    "sign": "𒍠"
+    "sign": "𒍠",
+    "note": "🚫"
   },
   {
     "word": "en₈",
     "num": "353",
-    "sign": "𒊭"
+    "sign": "𒊭",
+    "note": "🚫"
   },
   {
     "word": "ena",
     "num": "099",
-    "sign": "𒂗"
+    "sign": "𒂗",
+    "note": "Enu  eni"
   },
   {
     "word": "endibdim",
     "num": "401",
-    "sign": "𒄯"
+    "sign": "𒄯",
+    "note": "🚫"
   },
   {
     "word": "endur",
     "num": "295",
-    "sign": "𒉺"
+    "sign": "𒉺",
+    "note": "   ما متاكدي  من العلامة"
   },
   {
     "word": "enegi",
     "num": "399",
-    "sign": "𒅎"
+    "sign": "𒅎",
+    "note": "🚫"
   },
   {
     "word": "enegir",
     "num": "399",
-    "sign": "𒅎"
+    "sign": "𒅎",
+    "note": "🚫"
   },
   {
     "word": "enem",
     "num": "015",
-    "sign": "𒅗"
+    "sign": "𒅗",
+    "note": "✅️"
   },
   {
     "word": "engar",
     "num": "056",
-    "sign": "𒀳"
+    "sign": "𒀳",
+    "note": "✅️"
   },
   {
     "word": "engara",
     "num": "056",
-    "sign": "𒀳"
+    "sign": "𒀳",
+    "note": "🚫"
   },
   {
     "word": "engur",
     "num": "484",
-    "sign": "𒇉"
+    "sign": "𒇉",
+    "note": "✅️"
   },
   {
     "word": "eni",
     "num": "099",
-    "sign": "𒂗"
+    "sign": "𒂗",
+    "note": "🚫"
   },
   {
     "word": "enim",
     "num": "015",
-    "sign": "𒅗"
+    "sign": "𒅗",
+    "note": "✅️"
   },
   {
     "word": "enim₂",
     "num": "433",
-    "sign": "𒉏"
+    "sign": "𒉏",
+    "note": "✅️"
   },
   {
     "word": "enkar",
     "num": "054v",
-    "sign": "𒂙"
+    "sign": "𒂙",
+    "note": "🚫"
   },
   {
     "word": "enkara",
     "num": "054v",
-    "sign": "𒂙"
+    "sign": "𒂙",
+    "note": "🚫"
   },
   {
     "word": "enme",
     "num": "099c",
-    "sign": "𒂚"
+    "sign": "𒂚",
+    "note": "🚫"
   },
   {
     "word": "enmen",
     "num": "028",
-    "sign": "𒆉"
+    "sign": "𒆉",
+    "note": "🚫"
   },
   {
     "word": "enmen₂",
     "num": "035",
-    "sign": "𒅘"
+    "sign": "𒅘",
+    "note": "🚫"
   },
   {
     "word": "ennegi",
     "num": "399",
-    "sign": "𒅎"
+    "sign": "𒅎",
+    "note": "🚫"
   },
   {
     "word": "ennigi",
     "num": "399",
-    "sign": "𒅎"
+    "sign": "𒅎",
+    "note": "99 علامة خطا"
   },
   {
     "word": "ennin",
     "num": "103v",
-    "sign": "𒈹"
+    "sign": "𒈹",
+    "note": "بدون V"
   },
   {
     "word": "enšada",
     "num": "295l",
-    "sign": "𒉺𒌆"
+    "sign": "𒉺𒌆",
+    "note": "296"
   },
   {
     "word": "enšadu",
     "num": "295l",
-    "sign": "𒉺𒌆"
+    "sign": "𒉺𒌆",
+    "note": "🚫"
   },
   {
     "word": "ensi₃",
     "num": "099c",
-    "sign": "𒂚"
+    "sign": "𒂚",
+    "note": "🚫"
   },
   {
     "word": "enten",
     "num": "175",
-    "sign": "𒉉"
+    "sign": "𒉉",
+    "note": "Entemena"
   },
   {
     "word": "entena",
     "num": "175",
-    "sign": "𒉉"
+    "sign": "𒉉",
+    "note": "🚫"
   },
   {
     "word": "enu",
     "num": "099",
-    "sign": "𒂗"
+    "sign": "𒂗",
+    "note": "🚫"
   },
   {
     "word": "ep",
     "num": "535",
-    "sign": "𒅁"
+    "sign": "𒅁",
+    "note": "✅️"
   },
   {
     "word": "ep₂",
     "num": "207",
-    "sign": "𒌈"
+    "sign": "𒌈",
+    "note": "🚫"
   },
   {
     "word": "epig",
     "num": "592",
-    "sign": "𒋝"
+    "sign": "𒋝",
+    "note": "✅️"
   },
   {
     "word": "epig₂?",
     "num": "309",
-    "sign": "𒂁"
+    "sign": "𒂁",
+    "note": "✅️"
   },
   {
     "word": "epir",
     "num": "309",
-    "sign": "𒂁"
+    "sign": "𒂁",
+    "note": "✅️"
   },
   {
     "word": "epir₂",
     "num": "214",
-    "sign": "𒁉"
+    "sign": "𒁉",
+    "note": "✅️"
   },
   {
     "word": "epir₄",
     "num": "319",
-    "sign": "𒂵"
+    "sign": "𒂵",
+    "note": "🚫"
   },
   {
     "word": "eq",
     "num": "080",
-    "sign": "𒅅"
+    "sign": "𒅅",
+    "note": "."
   },
   {
     "word": "eqqil",
     "num": "105",
-    "sign": "𒃷"
+    "sign": "𒃷",
+    "note": "🚫"
   },
   {
     "word": "er",
     "num": "232",
-    "sign": "𒅕"
+    "sign": "𒅕",
+    "note": ".."
   },
   {
     "word": "er₁₀?",
