@@ -4462,7 +4462,8 @@ const TABLE_DATA = [
   {
     "word": "ed",
     "num": "334",
-    "sign": "𒀉"
+    "sign": "𒀉",
+    "note": "✅️"
   },
   {
     "word": "eden",
@@ -4482,217 +4483,260 @@ const TABLE_DATA = [
   {
     "word": "edim?",
     "num": "069",
-    "sign": "𒁁"
+    "sign": "𒁁",
+    "note": "✅️"
   },
   {
     "word": "edin",
     "num": "168",
-    "sign": "𒂔"
+    "sign": "𒂔",
+    "note": "✅️"
   },
   {
     "word": "edina",
     "num": "168",
-    "sign": "𒂔"
+    "sign": "𒂔",
+    "note": "🚫"
   },
   {
     "word": "edur",
     "num": "583",
-    "sign": "𒀁"
+    "sign": "𒀁",
+    "note": "🚫"
   },
   {
     "word": "eduru",
     "num": "583",
-    "sign": "𒀁"
+    "sign": "𒀁",
+    "note": "🚫"
   },
   {
     "word": "eg",
     "num": "080",
-    "sign": "𒅅"
+    "sign": "𒅅",
+    "note": ".."
   },
   {
     "word": "eg₂",
     "num": "308",
-    "sign": "𒂊"
+    "sign": "𒂊",
+    "note": "🚫"
   },
   {
     "word": "eg₃",
     "num": "183",
-    "sign": "𒉘"
+    "sign": "𒉘",
+    "note": "🚫"
   },
   {
     "word": "egara",
     "num": "278",
-    "sign": "𒃌"
+    "sign": "𒃌",
+    "note": "🚫"
   },
   {
     "word": "eger",
     "num": "209",
-    "sign": "𒂕"
+    "sign": "𒂕",
+    "note": "🚫"
   },
   {
     "word": "eger₄",
     "num": "207",
-    "sign": "𒌈"
+    "sign": "𒌈",
+    "note": "🚫"
   },
   {
     "word": "eger₅?",
     "num": "565",
-    "sign": "𒈝"
+    "sign": "𒈝",
+    "note": "🚫"
   },
   {
     "word": "eger₆?",
     "num": "567",
-    "sign": "𒋞"
+    "sign": "𒋞",
+    "note": "🚫"
   },
   {
     "word": "egera",
     "num": "209",
-    "sign": "𒂕"
+    "sign": "𒂕",
+    "note": "🚫"
   },
   {
     "word": "egia",
     "num": "256",
-    "sign": "𒃎"
+    "sign": "𒃎",
+    "note": "🚫"
   },
   {
     "word": "egir",
     "num": "209",
-    "sign": "𒂕"
+    "sign": "𒂕",
+    "note": "🚫"
   },
   {
     "word": "egir₄",
     "num": "207",
-    "sign": "𒌈"
+    "sign": "𒌈",
+    "note": "Egir2"
   },
   {
     "word": "egir₅?",
     "num": "565",
-    "sign": "𒈝"
+    "sign": "𒈝",
+    "note": "🚫"
   },
   {
     "word": "egir₆?",
     "num": "567",
-    "sign": "𒋞"
+    "sign": "𒋞",
+    "note": "🚫"
   },
   {
     "word": "egirsu",
     "num": "236",
-    "sign": "𒃐"
+    "sign": "𒃐",
+    "note": "🚫"
   },
   {
     "word": "egur₄",
     "num": "207",
-    "sign": "𒌈"
+    "sign": "𒌈",
+    "note": "🚫"
   },
   {
     "word": "eh",
     "num": "398",
-    "sign": "𒄴"
+    "sign": "𒄴",
+    "note": ".."
   },
   {
     "word": "eh₂",
     "num": "397",
-    "sign": "𒀪"
+    "sign": "𒀪",
+    "note": "🚫"
   },
   {
     "word": "ehalla",
     "num": "235",
-    "sign": "𒃓"
+    "sign": "𒃓",
+    "note": "🚫"
   },
   {
     "word": "ehili",
     "num": "263",
-    "sign": "𒃔"
+    "sign": "𒃔",
+    "note": "🚫"
   },
   {
     "word": "ek",
     "num": "080",
-    "sign": "𒅅"
+    "sign": "𒅅",
+    "note": "..."
   },
   {
     "word": "eki",
     "num": "308",
-    "sign": "𒂊"
+    "sign": "𒂊",
+    "note": "🚫"
   },
   {
     "word": "el",
     "num": "564",
-    "sign": "𒂖"
+    "sign": "𒂖",
+    "note": "✅️"
   },
   {
     "word": "el₂",
     "num": "205",
-    "sign": "𒅋"
+    "sign": "𒅋",
+    "note": "✅️"
   },
   {
     "word": "el₃",
     "num": "013",
-    "sign": "𒀭"
+    "sign": "𒀭",
+    "note": "✅️"
   },
   {
     "word": "el₄",
     "num": "205a",
-    "sign": "𒅌"
+    "sign": "𒅌",
+    "note": "🚫"
   },
   {
     "word": "elal",
     "num": "317",
-    "sign": "𒋄"
+    "sign": "𒋄",
+    "note": "✅️"
   },
   {
     "word": "elal₂",
     "num": "314",
-    "sign": "𒋃"
+    "sign": "𒋃",
+    "note": "🚫"
   },
   {
     "word": "elam",
     "num": "433",
-    "sign": "𒉏"
+    "sign": "𒉏",
+    "note": "✅️"
   },
   {
     "word": "elama",
     "num": "433",
-    "sign": "𒉏"
+    "sign": "𒉏",
+    "note": "Elamu"
   },
   {
     "word": "elamkuš",
     "num": "510",
-    "sign": "𒇌"
+    "sign": "𒇌",
+    "note": "✅️"
   },
   {
     "word": "elamkuš₂",
     "num": "518",
-    "sign": "𒇖"
+    "sign": "𒇖",
+    "note": "✅️"
   },
   {
     "word": "elamkuš₃",
     "num": "527",
-    "sign": "𒇈"
+    "sign": "𒇈",
+    "note": "✅️"
   },
   {
     "word": "elamkuš₄",
     "num": "522",
-    "sign": "𒆹"
+    "sign": "𒆹",
+    "note": "✅️"
   },
   {
     "word": "elamu",
     "num": "433",
-    "sign": "𒉏"
+    "sign": "𒉏",
+    "note": "✅️"
   },
   {
     "word": "eldig",
     "num": "170",
-    "sign": "𒄠"
+    "sign": "𒄠",
+    "note": "🚫"
   },
   {
     "word": "ele",
     "num": "412",
-    "sign": "𒌋𒅗"
+    "sign": "𒌋𒅗",
+    "note": "🚫"
   },
   {
     "word": "ele₂",
     "num": "564",
-    "sign": "𒂖"
+    "sign": "𒂖",
+    "note": "🚫"
   },
   {
     "word": "eli",
@@ -5592,7 +5636,8 @@ const TABLE_DATA = [
   {
     "word": "et",
     "num": "334",
-    "sign": "𒀉"
+    "sign": "𒀉",
+    "note": "✅️"
   },
   {
     "word": "eṭ",
