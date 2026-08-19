@@ -4096,52 +4096,62 @@ const TABLE_DATA = [
   {
     "word": "dul",
     "num": "459",
-    "sign": "𒌋𒌆"
+    "sign": "𒌋𒌆",
+    "note": " علامة خطا"
   },
   {
     "word": "dul₁₀",
     "num": "371",
-    "sign": "𒁍"
+    "sign": "𒁍",
+    "note": "🚫"
   },
   {
     "word": "dul₂",
     "num": "511",
-    "sign": "𒇥"
+    "sign": "𒇥",
+    "note": "✅️"
   },
   {
     "word": "dul₃",
     "num": "329",
-    "sign": "𒊨"
+    "sign": "𒊨",
+    "note": "✅️"
   },
   {
     "word": "dul₄",
     "num": "348",
-    "sign": "𒂈"
+    "sign": "𒂈",
+    "note": "✅️"
   },
   {
     "word": "dul₅",
     "num": "536",
-    "sign": "𒌆"
+    "sign": "𒌆",
+    "note": "✅️"
   },
   {
     "word": "dul₆",
     "num": "459a",
-    "sign": "𒇯"
+    "sign": "𒇯",
+    "note": "459"
   },
   {
     "word": "dul₇",
     "num": "115",
-    "sign": "𒊕"
+    "sign": "𒊕",
+    "note": "🚫"
   },
   {
     "word": "dul₈",
     "num": "537",
-    "sign": "𒁳"
+    "sign": "𒁳",
+    "note": "🚫"
   },
   {
     "word": "dul₉",
     "num": "575b",
-    "sign": "𒌪"
+    "sign": "𒌪",
+    "note": "🚫"
   },
   {
     "word": "dum",
