@@ -4060,23 +4060,26 @@ const TABLE_DATA = [
   {
     "word": "dugud₂?",
     "num": "427",
-    "sign": "𒈪"
+    "sign": "𒈪",
+    "note": "✅️"
   },
   {
     "word": "duguda",
     "num": "445",
-    "sign": "𒂂"
+    "sign": "𒂂",
+    "note": "🚫"
   },
   {
     "word": "duh",
     "num": "167",
-    "sign": "𒂃 / 𒃮"
+    "sign": "𒂃 / 𒃮",
+    "note": "✅️"
   },
   {
     "word": "duk",
     "num": "309",
     "sign": "𒂁",
-    "note": "✅️"
+    "note": "✅️✅️"
   },
   {
     "word": "duk₂",
