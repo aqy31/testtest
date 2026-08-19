@@ -4156,67 +4156,80 @@ const TABLE_DATA = [
   {
     "word": "dum",
     "num": "207",
-    "sign": "𒌈"
+    "sign": "𒌈",
+    "note": "✅️"
   },
   {
     "word": "dum₃?",
     "num": "557",
-    "sign": "𒁮"
+    "sign": "𒁮",
+    "note": "Dum2"
   },
   {
     "word": "dum₄",
     "num": "094",
-    "sign": "𒁴"
+    "sign": "𒁴",
+    "note": "🚫"
   },
   {
     "word": "dumgal",
     "num": "224",
-    "sign": "𒋇"
+    "sign": "𒋇",
+    "note": "✅️"
   },
   {
     "word": "dumu",
     "num": "144",
-    "sign": "𒌉"
+    "sign": "𒌉",
+    "note": "✅️"
   },
   {
     "word": "dun",
     "num": "467",
-    "sign": "𒂄"
+    "sign": "𒂄",
+    "note": "✅️"
   },
   {
     "word": "dun₃",
     "num": "595",
-    "sign": "𒂅"
+    "sign": "𒂅",
+    "note": "✅️"
   },
   {
     "word": "dun₄",
     "num": "348",
-    "sign": "𒂈"
+    "sign": "𒂈",
+    "note": "✅️"
   },
   {
     "word": "dun₅",
     "num": "011",
-    "sign": "𒁔"
+    "sign": "𒁔",
+    "note": "✅️"
   },
   {
     "word": "dun₆",
     "num": "322",
-    "sign": "𒆗"
+    "sign": "𒆗",
+    "note": "🚫"
   },
   {
     "word": "duna",
     "num": "467",
-    "sign": "𒂄"
+    "sign": "𒂄",
+    "note": "🚫"
   },
   {
     "word": "dunga",
     "num": "115",
-    "sign": "𒊕"
+    "sign": "𒊕",
+    "note": "ناقص علامة"
   },
   {
     "word": "dunga₂",
     "num": "355",
-    "sign": "𒈜"
+    "sign": "𒈜",
+    "note": "ناقص علامة"
   },
   {
     "word": "dup",
