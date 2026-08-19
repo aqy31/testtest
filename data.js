@@ -4246,7 +4246,8 @@ const TABLE_DATA = [
   {
     "word": "dupsik",
     "num": "320",
-    "sign": "𒅍"
+    "sign": "𒅍",
+    "note": "🚫"
   },
   {
     "word": "duq",
@@ -4257,37 +4258,44 @@ const TABLE_DATA = [
   {
     "word": "dur",
     "num": "108",
-    "sign": "𒄙"
+    "sign": "𒄙",
+    "note": "✅️"
   },
   {
     "word": "dur₁₀",
     "num": "008",
-    "sign": "𒊿"
+    "sign": "𒊿",
+    "note": "🚫"
   },
   {
     "word": "dur₁₁",
     "num": "058",
-    "sign": "𒌅"
+    "sign": "𒌅",
+    "note": "🚫"
   },
   {
     "word": "dur₆",
     "num": "295",
-    "sign": "𒉺"
+    "sign": "𒉺",
+    "note": "🚫"
   },
   {
     "word": "dur₇?",
     "num": "371",
-    "sign": "𒁍"
+    "sign": "𒁍",
+    "note": "🚫"
   },
   {
     "word": "dur₉",
     "num": "467",
-    "sign": "𒂄"
+    "sign": "𒂄",
+    "note": "🚫"
   },
   {
     "word": "durah₂",
     "num": "540",
-    "sign": "𒁱"
+    "sign": "𒁱",
+    "note": "🚫"
   },
   {
     "word": "durba",
@@ -4297,72 +4305,86 @@ const TABLE_DATA = [
   {
     "word": "durgul",
     "num": "122a",
-    "sign": "𒈣𒈮"
+    "sign": "𒈣𒈮",
+    "note": "🚫"
   },
   {
     "word": "duru₆?",
     "num": "295",
-    "sign": "𒉺"
+    "sign": "𒉺",
+    "note": "🚫"
   },
   {
     "word": "duru₉",
     "num": "467",
-    "sign": "𒂄"
+    "sign": "𒂄",
+    "note": "🚫"
   },
   {
     "word": "duruna₂",
     "num": "510",
-    "sign": "𒇌"
+    "sign": "𒇌",
+    "note": "✅️"
   },
   {
     "word": "duruna₄",
     "num": "528",
-    "sign": "𒇅"
+    "sign": "𒇅",
+    "note": "🚫"
   },
   {
     "word": "duš",
     "num": "536",
-    "sign": "𒆪"
+    "sign": "𒆪",
+    "note": "✅️"
   },
   {
     "word": "duš₂",
     "num": "480",
-    "sign": "𒁹"
+    "sign": "𒁹",
+    "note": "🚫"
   },
   {
     "word": "dusi",
     "num": "320",
-    "sign": "𒅍"
+    "sign": "𒅍",
+    "note": "🚫"
   },
   {
     "word": "dussu",
     "num": "320",
-    "sign": "𒅍"
+    "sign": "𒅍",
+    "note": "Dušsu"
   },
   {
     "word": "dusu",
     "num": "320",
-    "sign": "𒅍"
+    "sign": "𒅍",
+    "note": "✅️"
   },
   {
     "word": "e",
     "num": "308",
-    "sign": "𒂊"
+    "sign": "𒂊",
+    "note": "✅️"
   },
   {
     "word": "eʾ",
     "num": "397",
-    "sign": "𒀪"
+    "sign": "𒀪",
+    "note": "✅️"
   },
   {
     "word": "eʾ₂?",
     "num": "398",
-    "sign": "𒄴"
+    "sign": "𒄴",
+    "note": "✅️"
   },
   {
     "word": "eʾ₃",
     "num": "324",
-    "sign": "𒂍"
+    "sign": "𒂍",
+    "note": "E2"
   },
   {
     "word": "eʾella",
@@ -4372,32 +4394,38 @@ const TABLE_DATA = [
   {
     "word": "e₁₀",
     "num": "560",
-    "sign": "𒉄"
+    "sign": "𒉄",
+    "note": "✅️"
   },
   {
     "word": "e₁₃?",
     "num": "556",
-    "sign": "𒊩𒌆"
+    "sign": "𒊩𒌆",
+    "note": "E5"
   },
   {
     "word": "e₂",
     "num": "324",
-    "sign": "𒂍"
+    "sign": "𒂍",
+    "note": "✅️"
   },
   {
     "word": "e₅",
     "num": "556",
-    "sign": "𒊩𒌆"
+    "sign": "𒊩𒌆",
+    "note": "✅️"
   },
   {
     "word": "e₇",
     "num": "015",
-    "sign": "𒅗"
+    "sign": "𒅗",
+    "note": "🚫"
   },
   {
     "word": "e₈",
     "num": "381",
-    "sign": "𒌓"
+    "sign": "𒌓",
+    "note": "✅️"
   },
   {
     "word": "eazag?",
@@ -4407,12 +4435,14 @@ const TABLE_DATA = [
   {
     "word": "eb",
     "num": "535",
-    "sign": "𒅁"
+    "sign": "𒅁",
+    "note": "✅️"
   },
   {
     "word": "eb₂",
     "num": "207",
-    "sign": "𒌈"
+    "sign": "𒌈",
+    "note": "🚫"
   },
   {
     "word": "ebir",
